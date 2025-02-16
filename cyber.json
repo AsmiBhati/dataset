@@ -1,0 +1,217 @@
+[
+    {
+      "id": 1,
+      "category": "cybersecurity",
+      "question": "What is phishing?",
+      "answer": "Phishing is a cyber attack where attackers impersonate a trusted entity to trick individuals into revealing sensitive information, such as passwords or credit card details."
+    },
+    {
+      "id": 2,
+      "category": "cybersecurity",
+      "question": "What is a firewall?",
+      "answer": "A firewall is a security device or software that monitors and controls incoming and outgoing network traffic based on predefined security rules."
+    },
+    {
+      "id": 3,
+      "category": "cybersecurity",
+      "question": "What is two-factor authentication (2FA)?",
+      "answer": "Two-factor authentication (2FA) is a security measure that requires users to provide two different forms of verification to gain access to an account."
+    },
+    {
+      "id": 4,
+      "category": "cybersecurity",
+      "question": "What is ransomware?",
+      "answer": "Ransomware is a type of malware that encrypts a victim’s files and demands a ransom payment in exchange for the decryption key."
+    },
+    {
+      "id": 5,
+      "category": "cybersecurity",
+      "question": "What is social engineering?",
+      "answer": "Social engineering is a manipulation technique that exploits human psychology to gain access to confidential information."
+    },
+    {
+      "id": 6,
+      "category": "cybersecurity",
+      "question": "What is an SQL injection attack?",
+      "answer": "SQL injection is a web security vulnerability where attackers manipulate SQL queries to gain unauthorized access to a database."
+    },
+    {
+      "id": 7,
+      "category": "cybersecurity",
+      "question": "What is a zero-day vulnerability?",
+      "answer": "A zero-day vulnerability is a software flaw that is unknown to the vendor and can be exploited by attackers before a fix is available."
+    },
+    {
+      "id": 8,
+      "category": "cybersecurity",
+      "question": "What is penetration testing?",
+      "answer": "Penetration testing is an authorized simulated cyber attack on a system to evaluate its security and identify vulnerabilities."
+    },
+    {
+      "id": 9,
+      "category": "cybersecurity",
+      "question": "What is brute force attack?",
+      "answer": "A brute force attack is a hacking method that systematically tries multiple combinations of passwords or encryption keys until access is granted."
+    },
+    {
+      "id": 10,
+      "category": "cybersecurity",
+      "question": "What is a Distributed Denial-of-Service (DDoS) attack?",
+      "answer": "A DDoS attack is an attempt to overwhelm a target server, network, or website with massive amounts of traffic to disrupt its normal operations."
+    },
+    {
+      "id": 11,
+      "category": "cybersecurity",
+      "question": "What is a VPN?",
+      "answer": "A Virtual Private Network (VPN) encrypts internet connections, allowing users to browse securely and maintain privacy online."
+    },
+    {
+      "id": 12,
+      "category": "cybersecurity",
+      "question": "What is the difference between symmetric and asymmetric encryption?",
+      "answer": "Symmetric encryption uses a single key for encryption and decryption, while asymmetric encryption uses a public key for encryption and a private key for decryption."
+    },
+    {
+      "id": 13,
+      "category": "cybersecurity",
+      "question": "What is malware?",
+      "answer": "Malware is malicious software designed to harm, exploit, or compromise systems, including viruses, worms, ransomware, and spyware."
+    },
+    {
+      "id": 14,
+      "category": "cybersecurity",
+      "question": "What is a honeypot in cybersecurity?",
+      "answer": "A honeypot is a decoy system designed to lure cyber attackers, allowing security professionals to study their tactics and prevent real attacks."
+    },
+    {
+      "id": 15,
+      "category": "cybersecurity",
+      "question": "What is an insider threat?",
+      "answer": "An insider threat occurs when someone within an organization misuses their access to harm the organization’s security, intentionally or unintentionally."
+    },
+    {
+      "id": 16,
+      "category": "cybersecurity",
+      "question": "What is the principle of least privilege (PoLP)?",
+      "answer": "The principle of least privilege states that users should only have the minimum level of access necessary to perform their tasks, reducing security risks."
+    },
+    {
+      "id": 17,
+      "category": "cybersecurity",
+      "question": "What is a security patch?",
+      "answer": "A security patch is an update released by software vendors to fix vulnerabilities and protect systems from potential cyber threats."
+    },
+    {
+      "id": 18,
+      "category": "cybersecurity",
+      "question": "What is an advanced persistent threat (APT)?",
+      "answer": "An advanced persistent threat (APT) is a prolonged, targeted cyber attack conducted by skilled adversaries, often for espionage or financial gain."
+    },
+    {
+      "id": 19,
+      "category": "cybersecurity",
+      "question": "What is identity theft?",
+      "answer": "Identity theft is a cybercrime where someone fraudulently obtains and uses another person's personal information for financial or malicious purposes."
+    },
+    {
+      "id": 20,
+      "category": "cybersecurity",
+      "question": "What is digital forensics?",
+      "answer": "Digital forensics is the process of investigating and analyzing digital devices to uncover cyber crimes and security incidents."
+    },
+    {
+      "id": 21,
+      "category": "cybersecurity",
+      "question": "What is an air-gapped system?",
+      "answer": "An air-gapped system is a computer or network that is physically isolated from unsecured networks to enhance security."
+    },
+    {
+      "id": 22,
+      "category": "cybersecurity",
+      "question": "What is the CIA triad in cybersecurity?",
+      "answer": "The CIA triad refers to the three core principles of cybersecurity: Confidentiality, Integrity, and Availability."
+    },
+    {
+      "id": 23,
+      "category": "cybersecurity",
+      "question": "What is a botnet?",
+      "answer": "A botnet is a network of compromised computers controlled remotely by attackers, often used for DDoS attacks and spam distribution."
+    },
+    {
+      "id": 24,
+      "category": "cybersecurity",
+      "question": "What is a keylogger?",
+      "answer": "A keylogger is a type of malware that records keystrokes on a device to capture sensitive information like passwords and credit card numbers."
+    },
+    {
+      "id": 25,
+      "category": "cybersecurity",
+      "question": "What is the purpose of security awareness training?",
+      "answer": "Security awareness training educates employees about cybersecurity risks and best practices to prevent social engineering attacks and data breaches."
+    },
+    {
+      "id": 26,
+      "category": "cybersecurity",
+      "question": "What is cryptojacking?",
+      "answer": "Cryptojacking is an attack where cybercriminals use a victim’s computing power to mine cryptocurrency without their consent."
+    },
+    {
+      "id": 27,
+      "category": "cybersecurity",
+      "question": "What is a session hijacking attack?",
+      "answer": "Session hijacking is an attack where an attacker takes control of a user's session by stealing authentication tokens."
+    },
+
+    [
+        {
+          "id": 28,
+          "category": "cybersecurity",
+          "question": "What is a man-in-the-middle (MITM) attack?",
+          "answer": "A man-in-the-middle attack occurs when an attacker secretly intercepts and alters communication between two parties without their knowledge."
+        },
+        {
+          "id": 29,
+          "category": "cybersecurity",
+          "question": "What is ethical hacking?",
+          "answer": "Ethical hacking involves legally probing systems, networks, and applications to identify security vulnerabilities before malicious hackers can exploit them."
+        },
+        {
+          "id": 30,
+          "category": "cybersecurity",
+          "question": "What is a Trojan horse in cybersecurity?",
+          "answer": "A Trojan horse is a type of malware disguised as legitimate software to trick users into installing it, allowing attackers to gain unauthorized access."
+        },
+        {
+          "id": 31,
+          "category": "cybersecurity",
+          "question": "What is steganography in cybersecurity?",
+          "answer": "Steganography is the practice of concealing messages or data within other non-suspicious files, such as images, to evade detection."
+        },
+        {
+          "id": 32,
+          "category": "cybersecurity",
+          "question": "What is a rootkit?",
+          "answer": "A rootkit is a type of malware that provides attackers with persistent, stealthy access to a compromised system while evading detection."
+        },
+        {
+          "id": 33,
+          "category": "cybersecurity",
+          "question": "What is endpoint security?",
+          "answer": "Endpoint security refers to the protection of individual devices, such as laptops, smartphones, and servers, from cybersecurity threats."
+        },
+        {
+          "id": 34,
+          "category": "cybersecurity",
+          "question": "What is a supply chain attack?",
+          "answer": "A supply chain attack occurs when attackers compromise a trusted vendor’s software or hardware to infiltrate a larger network of users."
+        },
+        {
+          "id": 35,
+          "category": "cybersecurity",
+          "question": "What is a cyber kill chain?",
+          "answer": "The cyber kill chain is a framework that outlines the stages of a cyber attack, from reconnaissance to execution, helping defenders detect and prevent threats."
+        }
+      ]
+      
+  ]
+  
