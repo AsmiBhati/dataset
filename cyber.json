@@ -210,6 +210,96 @@
           "category": "cybersecurity",
           "question": "What is a cyber kill chain?",
           "answer": "The cyber kill chain is a framework that outlines the stages of a cyber attack, from reconnaissance to execution, helping defenders detect and prevent threats."
+        },
+        {
+          "id": 36,
+          "category": "cybersecurity",
+          "question": "What is multi-factor authentication (MFA)?",
+          "answer": "Multi-factor authentication (MFA) is a security process that requires users to verify their identity using multiple credentials, such as a password and a one-time code."
+        },
+        {
+          "id": 37,
+          "category": "cybersecurity",
+          "question": "What is a zero-day vulnerability?",
+          "answer": "A zero-day vulnerability is a software security flaw that is unknown to the vendor and can be exploited before a patch is developed."
+        },
+        {
+          "id": 38,
+          "category": "cybersecurity",
+          "question": "What is a brute-force attack?",
+          "answer": "A brute-force attack is a hacking method that involves systematically trying all possible password combinations to gain unauthorized access."
+        },
+        {
+          "id": 39,
+          "category": "cybersecurity",
+          "question": "What is an air-gapped system?",
+          "answer": "An air-gapped system is a computer or network that is physically isolated from unsecured networks, such as the internet, to prevent cyber threats."
+        },
+        {
+          "id": 40,
+          "category": "cybersecurity",
+          "question": "What is spear phishing?",
+          "answer": "Spear phishing is a targeted email attack designed to trick a specific individual or organization into revealing sensitive information or downloading malware."
+        },
+        {
+          "id": 41,
+          "category": "cybersecurity",
+          "question": "What is ransomware?",
+          "answer": "Ransomware is a type of malware that encrypts a victim’s files and demands payment, usually in cryptocurrency, to restore access."
+        },
+        {
+          "id": 42,
+          "category": "cybersecurity",
+          "question": "What is the difference between symmetric and asymmetric encryption?",
+          "answer": "Symmetric encryption uses a single key for encryption and decryption, while asymmetric encryption uses a pair of keys (public and private) for secure communication."
+        },
+        {
+          "id": 43,
+          "category": "cybersecurity",
+          "question": "What is a DDoS attack?",
+          "answer": "A Distributed Denial-of-Service (DDoS) attack floods a target system or network with excessive traffic, causing service disruption or downtime."
+        },
+        {
+          "id": 44,
+          "category": "cybersecurity",
+          "question": "What is the principle of least privilege?",
+          "answer": "The principle of least privilege (PoLP) ensures that users and systems have only the minimum access necessary to perform their tasks, reducing security risks."
+        },
+        {
+          "id": 45,
+          "category": "cybersecurity",
+          "question": "What is a honeypot in cybersecurity?",
+          "answer": "A honeypot is a security mechanism that mimics a vulnerable system to attract, detect, and analyze cyber attackers."
+        },
+        {
+          "id": 46,
+          "category": "cybersecurity",
+          "question": "What is an intrusion detection system (IDS)?",
+          "answer": "An intrusion detection system (IDS) monitors network traffic for suspicious activity and potential cyber threats."
+        },
+        {
+          "id": 47,
+          "category": "cybersecurity",
+          "question": "What is a session hijacking attack?",
+          "answer": "Session hijacking occurs when an attacker takes over a user’s session by stealing their session ID, allowing unauthorized access to accounts or systems."
+        },
+        {
+          "id": 48,
+          "category": "cybersecurity",
+          "question": "What is a botnet?",
+          "answer": "A botnet is a network of compromised computers controlled by an attacker to launch large-scale cyber attacks, such as DDoS attacks."
+        },
+        {
+          "id": 49,
+          "category": "cybersecurity",
+          "question": "What is a digital forensics investigation?",
+          "answer": "A digital forensics investigation involves collecting, analyzing, and preserving digital evidence to investigate cybercrimes and security incidents."
+        },
+        {
+          "id": 50,
+          "category": "cybersecurity",
+          "question": "What is a watering hole attack?",
+          "answer": "A watering hole attack involves compromising a website frequently visited by a target group to infect users with malware."
         }
       ]
       
