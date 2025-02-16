@@ -269,8 +269,130 @@
         "category": "communication",
         "question": "Do you like to travel?",
         "answer": "I don’t travel, but I hear it’s a great way to experience new places and cultures!"
+      },
+      {
+        "id": 46,
+        "category": "communication",
+        "question": "How was your day today?",
+        "answer": ""
+      },
+      {
+        "id": 47,
+        "category": "communication",
+        "question": "What did you have for breakfast?",
+        "answer": ""
+      },
+      {
+        "id": 48,
+        "category": "communication",
+        "question": "Did you watch anything interesting on TV last night?",
+        "answer": ""
+      },
+      {
+        "id": 49,
+        "category": "communication",
+        "question": "How’s the weather today?",
+        "answer": ""
+      },
+      {
+        "id": 50,
+        "category": "communication",
+        "question": "What did you do over the weekend?",
+        "answer": ""
+      },
+      {
+        "id": 51,
+        "category": "communication",
+        "question": "Have you been to any good restaurants lately?",
+        "answer": ""
+      },
+      {
+        "id": 52,
+        "category": "communication",
+        "question": "What’s your favorite hobby?",
+        "answer": ""
+      },
+      {
+        "id": 53,
+        "category": "communication",
+        "question": "What’s your plan for the evening?",
+        "answer": ""
+      },
+      {
+        "id": 54,
+        "category": "communication",
+        "question": "Are you reading any books right now?",
+        "answer": ""
+      },
+      {
+        "id": 55,
+        "category": "communication",
+        "question": "What’s your favorite type of music?",
+        "answer": ""
+      },
+      {
+        "id": 56,
+        "category": "communication",
+        "question": "How do you usually relax after a long day?",
+        "answer": ""
+      },
+      {
+        "id": 57,
+        "category": "communication",
+        "question": "Do you prefer coffee or tea?",
+        "answer": ""
+      },
+      {
+        "id": 58,
+        "category": "communication",
+        "question": "What’s the best vacation you’ve ever had?",
+        "answer": ""
+      },
+      {
+        "id": 59,
+        "category": "communication",
+        "question": "What’s your favorite holiday of the year?",
+        "answer": ""
+      },
+      {
+        "id": 60,
+        "category": "communication",
+        "question": "Do you enjoy cooking? What’s your favorite dish to make?",
+        "answer": ""
+      },
+      {
+        "id": 61,
+        "category": "communication",
+        "question": "What kind of movies do you like to watch?",
+        "answer": ""
+      },
+      {
+        "id": 62,
+        "category": "communication",
+        "question": "Do you enjoy outdoor activities like hiking or biking?",
+        "answer": ""
+      },
+      {
+        "id": 63,
+        "category": "communication",
+        "question": "What’s the last thing you bought online?",
+        "answer": ""
+      },
+      {
+        "id": 64,
+        "category": "communication",
+        "question": "What’s your favorite place to visit in your city?",
+        "answer": ""
+      },
+      {
+        "id": 65,
+        "category": "communication",
+        "question": "How often do you exercise?",
+        "answer": ""
       }
-         ]
+        ]
+      
+         
       
   
 }
