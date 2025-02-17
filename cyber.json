@@ -161,237 +161,235 @@
       "question": "What is a session hijacking attack?",
       "answer": "Session hijacking is an attack where an attacker takes control of a user's session by stealing authentication tokens."
     },
-
-    [
-        {
-          "id": 28,
-          "category": "cybersecurity",
-          "question": "What is a man-in-the-middle (MITM) attack?",
-          "answer": "A man-in-the-middle attack occurs when an attacker secretly intercepts and alters communication between two parties without their knowledge."
+    {
+        "id": 28,
+        "category": "cybersecurity",
+        "question": "What is a man-in-the-middle (MITM) attack?",
+        "answer": "A man-in-the-middle attack occurs when an attacker secretly intercepts and alters communication between two parties without their knowledge."
+      },
+      {
+        "id": 29,
+        "category": "cybersecurity",
+        "question": "What is ethical hacking?",
+        "answer": "Ethical hacking involves legally probing systems, networks, and applications to identify security vulnerabilities before malicious hackers can exploit them."
+      },
+      {
+        "id": 30,
+        "category": "cybersecurity",
+        "question": "What is a Trojan horse in cybersecurity?",
+        "answer": "A Trojan horse is a type of malware disguised as legitimate software to trick users into installing it, allowing attackers to gain unauthorized access."
+      },
+      {
+        "id": 31,
+        "category": "cybersecurity",
+        "question": "What is steganography in cybersecurity?",
+        "answer": "Steganography is the practice of concealing messages or data within other non-suspicious files, such as images, to evade detection."
+      },
+      {
+        "id": 32,
+        "category": "cybersecurity",
+        "question": "What is a rootkit?",
+        "answer": "A rootkit is a type of malware that provides attackers with persistent, stealthy access to a compromised system while evading detection."
+      },
+      {
+        "id": 33,
+        "category": "cybersecurity",
+        "question": "What is endpoint security?",
+        "answer": "Endpoint security refers to the protection of individual devices, such as laptops, smartphones, and servers, from cybersecurity threats."
+      },
+      {
+        "id": 34,
+        "category": "cybersecurity",
+        "question": "What is a supply chain attack?",
+        "answer": "A supply chain attack occurs when attackers compromise a trusted vendor’s software or hardware to infiltrate a larger network of users."
+      },
+      {
+        "id": 35,
+        "category": "cybersecurity",
+        "question": "What is a cyber kill chain?",
+        "answer": "The cyber kill chain is a framework that outlines the stages of a cyber attack, from reconnaissance to execution, helping defenders detect and prevent threats."
+      },
+      {
+        "id": 36,
+        "category": "cybersecurity",
+        "question": "What is multi-factor authentication (MFA)?",
+        "answer": "Multi-factor authentication (MFA) is a security process that requires users to verify their identity using multiple credentials, such as a password and a one-time code."
+      },
+      {
+        "id": 37,
+        "category": "cybersecurity",
+        "question": "What is a zero-day vulnerability?",
+        "answer": "A zero-day vulnerability is a software security flaw that is unknown to the vendor and can be exploited before a patch is developed."
+      },
+      {
+        "id": 38,
+        "category": "cybersecurity",
+        "question": "What is a brute-force attack?",
+        "answer": "A brute-force attack is a hacking method that involves systematically trying all possible password combinations to gain unauthorized access."
+      },
+      {
+        "id": 39,
+        "category": "cybersecurity",
+        "question": "What is an air-gapped system?",
+        "answer": "An air-gapped system is a computer or network that is physically isolated from unsecured networks, such as the internet, to prevent cyber threats."
+      },
+      {
+        "id": 40,
+        "category": "cybersecurity",
+        "question": "What is spear phishing?",
+        "answer": "Spear phishing is a targeted email attack designed to trick a specific individual or organization into revealing sensitive information or downloading malware."
+      },
+      {
+        "id": 41,
+        "category": "cybersecurity",
+        "question": "What is ransomware?",
+        "answer": "Ransomware is a type of malware that encrypts a victim’s files and demands payment, usually in cryptocurrency, to restore access."
+      },
+      {
+        "id": 42,
+        "category": "cybersecurity",
+        "question": "What is the difference between symmetric and asymmetric encryption?",
+        "answer": "Symmetric encryption uses a single key for encryption and decryption, while asymmetric encryption uses a pair of keys (public and private) for secure communication."
+      },
+      {
+        "id": 43,
+        "category": "cybersecurity",
+        "question": "What is a DDoS attack?",
+        "answer": "A Distributed Denial-of-Service (DDoS) attack floods a target system or network with excessive traffic, causing service disruption or downtime."
+      },
+      {
+        "id": 44,
+        "category": "cybersecurity",
+        "question": "What is the principle of least privilege?",
+        "answer": "The principle of least privilege (PoLP) ensures that users and systems have only the minimum access necessary to perform their tasks, reducing security risks."
+      },
+      {
+        "id": 45,
+        "category": "cybersecurity",
+        "question": "What is a honeypot in cybersecurity?",
+        "answer": "A honeypot is a security mechanism that mimics a vulnerable system to attract, detect, and analyze cyber attackers."
+      },
+      {
+        "id": 46,
+        "category": "cybersecurity",
+        "question": "What is an intrusion detection system (IDS)?",
+        "answer": "An intrusion detection system (IDS) monitors network traffic for suspicious activity and potential cyber threats."
+      },
+      {
+        "id": 47,
+        "category": "cybersecurity",
+        "question": "What is a session hijacking attack?",
+        "answer": "Session hijacking occurs when an attacker takes over a user’s session by stealing their session ID, allowing unauthorized access to accounts or systems."
+      },
+      {
+        "id": 48,
+        "category": "cybersecurity",
+        "question": "What is a botnet?",
+        "answer": "A botnet is a network of compromised computers controlled by an attacker to launch large-scale cyber attacks, such as DDoS attacks."
+      },
+      {
+        "id": 49,
+        "category": "cybersecurity",
+        "question": "What is a digital forensics investigation?",
+        "answer": "A digital forensics investigation involves collecting, analyzing, and preserving digital evidence to investigate cybercrimes and security incidents."
+      },
+      {
+        "id": 50,
+        "category": "cybersecurity",
+        "question": "What is a watering hole attack?",
+        "answer": "A watering hole attack involves compromising a website frequently visited by a target group to infect users with malware."
+      },
+      {
+        "id": 51,
+        "category": "cybersecurity",
+        "question": "What is the principle of least privilege?",
+        "answer": "The principle of least privilege is a security concept that restricts users and applications to the minimum level of access necessary to perform their tasks."
+      },
+      {
+        "id": 52,
+        "category": "cybersecurity",
+        "question": "What is a security audit?",
+         "answer": "A security audit is an assessment or evaluation of an organization's information systems to identify vulnerabilities and ensure compliance with security standards."
+      },
+      {
+        "id": 53,
+        "category": "cybersecurity",
+        "question": "What is a VPN tunnel?",
+        "answer": "A VPN tunnel is a secure, encrypted connection between a user's device and the internet, designed to protect data during transmission."
+      },
+      {
+        "id": 54,
+        "category": "cybersecurity",
+        "question": "What is an APT (Advanced Persistent Threat)?",
+        "answer": "An Advanced Persistent Threat (APT) is a prolonged and targeted cyber attack that aims to infiltrate and remain undetected within a network for an extended period."
+      },
+      {
+        "id": 55,
+        "category": "cybersecurity",
+        "question": "What is a security policy?",
+        "answer": "A security policy is a formal set of guidelines that define how an organization manages, protects, and handles its data and information systems."
+      },
+      {
+        "id": 56,
+        "category": "cybersecurity",
+        "question": "What is an IDS (Intrusion Detection System)?",
+        "answer": "An Intrusion Detection System (IDS) monitors network traffic for suspicious activities and alerts administrators of potential security breaches."
+      },
+      {
+        "id": 57,
+        "category": "cybersecurity",
+        "question": "What is the role of a CISO (Chief Information Security Officer)?",
+        "answer": "A Chief Information Security Officer (CISO) is responsible for overseeing an organization's information security strategy, ensuring data protection and managing cyber risks."
+      },
+      {
+        "id": 58,
+        "category": "cybersecurity",
+        "question": "What is a botnet?",
+        "answer": "A botnet is a network of infected devices controlled remotely by a cybercriminal to carry out malicious activities, such as DDoS attacks or spamming."
+       },
+      {
+        "id": 59,
+        "category": "cybersecurity",
+        "question": "What is a honeypot?",
+        "answer": "A honeypot is a decoy system or network set up to attract cyber attackers and monitor their activities to learn more about potential threats."
+      },
+      {
+        "id": 60,
+        "category": "cybersecurity",
+        "question": "What is a keylogger?",
+         "answer": "A keylogger is malicious software that records keystrokes on a device, allowing attackers to capture sensitive information like passwords."
+      },
+      {
+        "id": 61,
+        "category": "cybersecurity",
+        "question": "What is SSL/TLS encryption?",
+        "answer": "SSL (Secure Socket Layer) and TLS (Transport Layer Security) are cryptographic protocols that provide secure communication over a computer network."
+      },
+      {
+        "id": 62,
+        "category": "cybersecurity",
+        "question": "What is the difference between black hat and white hat hackers?",
+        "answer": "Black hat hackers engage in illegal activities for personal gain, while white hat hackers use their skills to help organizations improve security through ethical practices."
         },
-        {
-          "id": 29,
-          "category": "cybersecurity",
-          "question": "What is ethical hacking?",
-          "answer": "Ethical hacking involves legally probing systems, networks, and applications to identify security vulnerabilities before malicious hackers can exploit them."
-        },
-        {
-          "id": 30,
-          "category": "cybersecurity",
-          "question": "What is a Trojan horse in cybersecurity?",
-          "answer": "A Trojan horse is a type of malware disguised as legitimate software to trick users into installing it, allowing attackers to gain unauthorized access."
-        },
-        {
-          "id": 31,
-          "category": "cybersecurity",
-          "question": "What is steganography in cybersecurity?",
-          "answer": "Steganography is the practice of concealing messages or data within other non-suspicious files, such as images, to evade detection."
-        },
-        {
-          "id": 32,
-          "category": "cybersecurity",
-          "question": "What is a rootkit?",
-          "answer": "A rootkit is a type of malware that provides attackers with persistent, stealthy access to a compromised system while evading detection."
-        },
-        {
-          "id": 33,
-          "category": "cybersecurity",
-          "question": "What is endpoint security?",
-          "answer": "Endpoint security refers to the protection of individual devices, such as laptops, smartphones, and servers, from cybersecurity threats."
-        },
-        {
-          "id": 34,
-          "category": "cybersecurity",
-          "question": "What is a supply chain attack?",
-          "answer": "A supply chain attack occurs when attackers compromise a trusted vendor’s software or hardware to infiltrate a larger network of users."
-        },
-        {
-          "id": 35,
-          "category": "cybersecurity",
-          "question": "What is a cyber kill chain?",
-          "answer": "The cyber kill chain is a framework that outlines the stages of a cyber attack, from reconnaissance to execution, helping defenders detect and prevent threats."
-        },
-        {
-          "id": 36,
-          "category": "cybersecurity",
-          "question": "What is multi-factor authentication (MFA)?",
-          "answer": "Multi-factor authentication (MFA) is a security process that requires users to verify their identity using multiple credentials, such as a password and a one-time code."
-        },
-        {
-          "id": 37,
-          "category": "cybersecurity",
-          "question": "What is a zero-day vulnerability?",
-          "answer": "A zero-day vulnerability is a software security flaw that is unknown to the vendor and can be exploited before a patch is developed."
-        },
-        {
-          "id": 38,
-          "category": "cybersecurity",
-          "question": "What is a brute-force attack?",
-          "answer": "A brute-force attack is a hacking method that involves systematically trying all possible password combinations to gain unauthorized access."
-        },
-        {
-          "id": 39,
-          "category": "cybersecurity",
-          "question": "What is an air-gapped system?",
-          "answer": "An air-gapped system is a computer or network that is physically isolated from unsecured networks, such as the internet, to prevent cyber threats."
-        },
-        {
-          "id": 40,
-          "category": "cybersecurity",
-          "question": "What is spear phishing?",
-          "answer": "Spear phishing is a targeted email attack designed to trick a specific individual or organization into revealing sensitive information or downloading malware."
-        },
-        {
-          "id": 41,
-          "category": "cybersecurity",
-          "question": "What is ransomware?",
-          "answer": "Ransomware is a type of malware that encrypts a victim’s files and demands payment, usually in cryptocurrency, to restore access."
-        },
-        {
-          "id": 42,
-          "category": "cybersecurity",
-          "question": "What is the difference between symmetric and asymmetric encryption?",
-          "answer": "Symmetric encryption uses a single key for encryption and decryption, while asymmetric encryption uses a pair of keys (public and private) for secure communication."
-        },
-        {
-          "id": 43,
-          "category": "cybersecurity",
-          "question": "What is a DDoS attack?",
-          "answer": "A Distributed Denial-of-Service (DDoS) attack floods a target system or network with excessive traffic, causing service disruption or downtime."
-        },
-        {
-          "id": 44,
-          "category": "cybersecurity",
-          "question": "What is the principle of least privilege?",
-          "answer": "The principle of least privilege (PoLP) ensures that users and systems have only the minimum access necessary to perform their tasks, reducing security risks."
-        },
-        {
-          "id": 45,
-          "category": "cybersecurity",
-          "question": "What is a honeypot in cybersecurity?",
-          "answer": "A honeypot is a security mechanism that mimics a vulnerable system to attract, detect, and analyze cyber attackers."
-        },
-        {
-          "id": 46,
-          "category": "cybersecurity",
-          "question": "What is an intrusion detection system (IDS)?",
-          "answer": "An intrusion detection system (IDS) monitors network traffic for suspicious activity and potential cyber threats."
-        },
-        {
-          "id": 47,
-          "category": "cybersecurity",
-          "question": "What is a session hijacking attack?",
-          "answer": "Session hijacking occurs when an attacker takes over a user’s session by stealing their session ID, allowing unauthorized access to accounts or systems."
-        },
-        {
-          "id": 48,
-          "category": "cybersecurity",
-          "question": "What is a botnet?",
-          "answer": "A botnet is a network of compromised computers controlled by an attacker to launch large-scale cyber attacks, such as DDoS attacks."
-        },
-        {
-          "id": 49,
-          "category": "cybersecurity",
-          "question": "What is a digital forensics investigation?",
-          "answer": "A digital forensics investigation involves collecting, analyzing, and preserving digital evidence to investigate cybercrimes and security incidents."
-        },
-        {
-          "id": 50,
-          "category": "cybersecurity",
-          "question": "What is a watering hole attack?",
-          "answer": "A watering hole attack involves compromising a website frequently visited by a target group to infect users with malware."
-        },
-        {
-            "id": 51,
-            "category": "cybersecurity",
-            "question": "What is the principle of least privilege?",
-            "answer": "The principle of least privilege is a security concept that restricts users and applications to the minimum level of access necessary to perform their tasks."
-          },
-          {
-            "id": 52,
-            "category": "cybersecurity",
-            "question": "What is a security audit?",
-            "answer": "A security audit is an assessment or evaluation of an organization's information systems to identify vulnerabilities and ensure compliance with security standards."
-          },
-          {
-            "id": 53,
-            "category": "cybersecurity",
-            "question": "What is a VPN tunnel?",
-            "answer": "A VPN tunnel is a secure, encrypted connection between a user's device and the internet, designed to protect data during transmission."
-          },
-          {
-            "id": 54,
-            "category": "cybersecurity",
-            "question": "What is an APT (Advanced Persistent Threat)?",
-            "answer": "An Advanced Persistent Threat (APT) is a prolonged and targeted cyber attack that aims to infiltrate and remain undetected within a network for an extended period."
-          },
-          {
-            "id": 55,
-            "category": "cybersecurity",
-            "question": "What is a security policy?",
-            "answer": "A security policy is a formal set of guidelines that define how an organization manages, protects, and handles its data and information systems."
-          },
-          {
-            "id": 56,
-            "category": "cybersecurity",
-            "question": "What is an IDS (Intrusion Detection System)?",
-            "answer": "An Intrusion Detection System (IDS) monitors network traffic for suspicious activities and alerts administrators of potential security breaches."
-          },
-          {
-            "id": 57,
-            "category": "cybersecurity",
-            "question": "What is the role of a CISO (Chief Information Security Officer)?",
-            "answer": "A Chief Information Security Officer (CISO) is responsible for overseeing an organization's information security strategy, ensuring data protection and managing cyber risks."
-          },
-          {
-            "id": 58,
-            "category": "cybersecurity",
-            "question": "What is a botnet?",
-            "answer": "A botnet is a network of infected devices controlled remotely by a cybercriminal to carry out malicious activities, such as DDoS attacks or spamming."
-          },
-          {
-            "id": 59,
-            "category": "cybersecurity",
-            "question": "What is a honeypot?",
-            "answer": "A honeypot is a decoy system or network set up to attract cyber attackers and monitor their activities to learn more about potential threats."
-          },
-          {
-            "id": 60,
-            "category": "cybersecurity",
-            "question": "What is a keylogger?",
-            "answer": "A keylogger is malicious software that records keystrokes on a device, allowing attackers to capture sensitive information like passwords."
-          },
-          {
-            "id": 61,
-            "category": "cybersecurity",
-            "question": "What is SSL/TLS encryption?",
-            "answer": "SSL (Secure Socket Layer) and TLS (Transport Layer Security) are cryptographic protocols that provide secure communication over a computer network."
-          },
-          {
-            "id": 62,
-            "category": "cybersecurity",
-            "question": "What is the difference between black hat and white hat hackers?",
-            "answer": "Black hat hackers engage in illegal activities for personal gain, while white hat hackers use their skills to help organizations improve security through ethical practices."
-          },
-          {
-            "id": 63,
-            "category": "cybersecurity",
-            "question": "What is a malware sandbox?",
-            "answer": "A malware sandbox is a controlled environment used to isolate and analyze potentially malicious software in order to study its behavior without risk to the actual system."
-          },
-          {
-            "id": 64,
-            "category": "cybersecurity",
-            "question": "What is an exploit?",
-            "answer": "An exploit is a piece of code or software that takes advantage of a vulnerability in a system to perform unintended actions, typically malicious."
-          },
-          {
-            "id": 65,
-            "category": "cybersecurity",
-            "question": "What is network segmentation?",
-            "answer": "Network segmentation is the practice of dividing a computer network into smaller, isolated segments to improve security and limit the spread of attacks."
-          },
-          {
+      {
+        "id": 63,
+        "category": "cybersecurity",
+        "question": "What is a malware sandbox?",
+        "answer": "A malware sandbox is a controlled environment used to isolate and analyze potentially malicious software in order to study its behavior without risk to the actual system."
+      },
+      {
+        "id": 64,
+        "category": "cybersecurity",
+        "question": "What is an exploit?",
+        "answer": "An exploit is a piece of code or software that takes advantage of a vulnerability in a system to perform unintended actions, typically malicious."
+      },
+      {
+        "id": 65,
+        "category": "cybersecurity",
+        "question": "What is network segmentation?",
+        "answer": "Network segmentation is the practice of dividing a computer network into smaller, isolated segments to improve security and limit the spread of attacks."
+      },
+      {
             "id": 66,
             "category": "cybersecurity",
             "question": "What is a denial of service (DoS) attack?",
@@ -455,5 +453,5 @@
         
       ]
       
-  ]
+  
   
