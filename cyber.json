@@ -448,10 +448,246 @@
             "category": "cybersecurity",
             "question": "What is a red team?",
             "answer": "A red team is a group of ethical hackers hired to simulate cyber attacks on an organization in order to test its security defenses."
-          }
+          },
+          {
+            "id": 76,
+            "category": "cybersecurity",
+            "question": "What is an SSL certificate?",
+            "answer": "An SSL certificate is a digital certificate that provides authentication and encryption for a website, ensuring secure communication over HTTPS."
+          },
+          {
+            "id": 77,
+            "category": "cybersecurity",
+            "question": "What is a vulnerability assessment?",
+             "answer": "A vulnerability assessment is the process of identifying, quantifying, and prioritizing security vulnerabilities in systems or networks."
+          },
+          {
+            "id": 78,
+            "category": "cybersecurity",
+            "question": "What is a security patch?",
+            "answer": "A security patch is an update released by software vendors to fix vulnerabilities and improve security in a system or application."
+          },
+          {
+            "id": 79,
+            "category": "cybersecurity",
+            "question": "What is a security policy?",
+            "answer": "A security policy is a set of rules and guidelines that define how an organization protects its information and systems from threats."
+          },
+          {
+            "id": 80,
+            "category": "cybersecurity",
+            "question": "What is an attack surface?",
+            "answer": "An attack surface is the total number of points where an unauthorized user can try to enter or extract data from a system."
+          },
+          {
+            "id": 81,
+            "category": "cybersecurity",
+            "question": "What is an authentication token?",
+            "answer": "An authentication token is a digital key used to verify the identity of a user or system during authentication."
+          },
+          {
+            "id": 82,
+            "category": "cybersecurity",
+            "question": "What is an intrusion detection system (IDS)?",
+            "answer": "An IDS is a security tool that monitors network traffic for suspicious activity and alerts administrators to potential threats."
+          },
+          {
+            "id": 83,
+            "category": "cybersecurity",
+            "question": "What is a cybersecurity framework?",
+            "answer": "A cybersecurity framework is a set of best practices and guidelines designed to help organizations manage and reduce security risks."
+          },
+          {
+            "id": 84,
+            "category": "cybersecurity",
+            "question": "What is an access control list (ACL)?",
+            "answer": "An ACL is a list of permissions assigned to users or systems that defines who can access specific resources."
+          },
+          {
+            "id": 85,
+            "category": "cybersecurity",
+            "question": "What is a cyber kill chain?",
+            "answer": "The cyber kill chain is a model that outlines the steps attackers take to infiltrate and exploit a target system."
+          },
+          {
+            "id": 86,
+            "category": "cybersecurity",
+            "question": "What is a cybersecurity risk assessment?",
+            "answer": "A cybersecurity risk assessment is the process of identifying, analyzing, and evaluating security risks to minimize threats."
+          },
+          {
+            "id": 87,
+            "category": "cybersecurity",
+            "question": "What is an advanced persistent threat (APT)?",
+            "answer": "An APT is a prolonged and targeted cyberattack in which an intruder gains access to a network and remains undetected for an extended period."
+          },
+          {
+            "id": 88,
+            "category": "cybersecurity",
+            "question": "What is a cryptographic hash function?",
+            "answer": "A cryptographic hash function is an algorithm that converts data into a fixed-length string, ensuring data integrity and security."
+          },
+          {
+            "id": 89,
+            "category": "cybersecurity",
+            "question": "What is end-to-end encryption?",
+            "answer": "End-to-end encryption is a method of communication security where only the sender and recipient can read the transmitted data."
+          },
+          {
+            "id": 90,
+            "category": "cybersecurity",
+            "question": "What is a security operations center (SOC)?",
+            "answer": "A SOC is a centralized team responsible for monitoring, analyzing, and responding to cybersecurity threats in real-time."
+          },
+          {
+            "id": 91,
+            "category": "cybersecurity",
+            "question": "What is an incident response plan?",
+            "answer": "An incident response plan is a set of procedures an organization follows to detect, respond to, and recover from security incidents."
+          },
+          {
+            "id": 92,
+            "category": "cybersecurity",
+            "question": "What is an insider threat?",
+            "answer": "An insider threat is a security risk posed by employees or trusted individuals who misuse access to harm an organization."
+          },
+          {
+            "id": 93,
+            "category": "cybersecurity",
+            "question": "What is the principle of least privilege?",
+            "answer": "The principle of least privilege (PoLP) is a security concept that grants users the minimum level of access necessary to perform their job functions."
+          },
+          {
+            "id": 94,
+            "category": "cybersecurity",
+            "question": "What is cyber threat intelligence?",
+            "answer": "Cyber threat intelligence is the process of collecting and analyzing data to understand threats and prevent cyberattacks."
+          },
+          {
+            "id": 95,
+            "category": "cybersecurity",
+            "question": "What is ransomware-as-a-service (RaaS)?",
+            "answer": "Ransomware-as-a-service is a business model where cybercriminals sell or lease ransomware tools to others for conducting attacks."
+          },
+          {
+            "id": 96,
+            "category": "cybersecurity",
+            "question": "What is a side-channel attack?",
+            "answer": "A side-channel attack exploits unintended information leakage from a system, such as power consumption or timing data, to extract sensitive information."
+          },
+          {
+            "id": 97,
+            "category": "cybersecurity",
+            "question": "What is a social engineering attack?",
+            "answer": "A social engineering attack is a manipulation technique used by attackers to trick individuals into revealing sensitive information."
+          },
+          {
+            "id": 98,
+            "category": "cybersecurity",
+            "question": "What is a watering hole attack?",
+            "answer": "A watering hole attack infects websites frequently visited by a target group, compromising users who access the site."
+          },
+          {
+            "id": 99,
+            "category": "cybersecurity",
+            "question": "What is a security token?",
+            "answer": "A security token is a physical or digital device used to authenticate a user's identity before granting access to a system."
+          },
+          {
+            "id": 100,
+            "category": "cybersecurity",
+            "question": "What is digital forensics?",
+            "answer": "Digital forensics is the practice of collecting, analyzing, and preserving electronic evidence for legal investigations."
+          },
+          {
+            "id": 101,
+            "category": "cybersecurity",
+            "question": "What is a honeynet?",
+            "answer": "A honeynet is a network of honeypots designed to attract and analyze cyber threats in a controlled environment."
+          },
+          {
+            "id": 102,
+            "category": "cybersecurity",
+            "question": "What is a security vulnerability?",
+            "answer": "A security vulnerability is a weakness in software or hardware that an attacker can exploit to gain unauthorized access."
+          },
+          {
+            "id": 103,
+            "category": "cybersecurity",
+            "question": "What is a drive-by download attack?",
+            "answer": "A drive-by download attack occurs when a user unknowingly downloads malicious software simply by visiting a compromised website."
+          },
+          {
+            "id": 104,
+            "category": "cybersecurity",
+            "question": "What is a denial-of-service (DoS) attack?",
+            "answer": "A DoS attack is an attack that overwhelms a system with traffic, causing it to slow down or become unavailable."
+          },
+          {
+            "id": 105,
+            "category": "cybersecurity",
+            "question": "What is a cryptographic key?",
+            "answer": "A cryptographic key is a string of data used in encryption and decryption processes to secure digital communication."
+          },
+          {
+            "id": 106,
+            "category": "cybersecurity",
+            "question": "What is black hat hacking?",
+            "answer": "Black hat hacking refers to malicious hackers who break into systems illegally to steal or damage data."
+          },
+          {
+            "id": 107,
+            "category": "cybersecurity",
+            "question": "What is white hat hacking?",
+            "answer": "White hat hacking refers to ethical hackers who help organizations identify and fix security vulnerabilities."
+          },
+          {
+            "id": 108,
+            "category": "cybersecurity",
+            "question": "What is gray hat hacking?",
+            "answer": "Gray hat hacking refers to hackers who exploit vulnerabilities without malicious intent but without permission."
+          },
+          {
+            "id": 109,
+            "category": "cybersecurity",
+            "question": "What is an attack vector?",
+            "answer": "An attack vector is a method or pathway used by cybercriminals to gain unauthorized access to a system."
+          },
+          {
+            "id": 110,
+            "category": "cybersecurity",
+            "question": "What is a vulnerability scanner?",
+            "answer": "A vulnerability scanner is a tool that automatically detects security weaknesses in networks and systems."
+              },
+              {
+                "id": 111,
+                "category": "cybersecurity",
+                "question": "What is spear phishing?",
+                "answer": "Spear phishing is a targeted phishing attack aimed at specific individuals or organizations to steal sensitive information."
+              },
+              {
+                "id": 112,
+                "category": "cybersecurity",
+                "question": "What is a session hijacking attack?",
+                "answer": "A session hijacking attack occurs when an attacker takes control of a user's session to gain unauthorized access."
+              },
+              {
+                "id": 113,
+                "category": "cybersecurity",
+                "question": "What is a digital signature?",
+                "answer": "A digital signature is an encrypted identifier used to verify the authenticity of electronic documents and messages."
+              },
+              {
+                "id": 114,
+                "category": "cybersecurity",
+                "question": "What is a rogue access point?",
+                "answer": "A rogue access point is an unauthorized Wi-Fi network that allows attackers to intercept sensitive data."
+              }
+            ]
+            
         
         
-      ]
+      
       
   
   
