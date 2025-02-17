@@ -846,8 +846,131 @@
                   "category": "web attack",
                   "question": "What is the Same-Origin Policy (SOP) in web security?",
                   "answer": "SOP is a security measure that prevents scripts on one origin from accessing resources on another origin without explicit permission."
-                }
-              ]
+                },
+                
+                  {
+                    "id": 142,
+                    "category": "cybersecurity",
+                    "question": "What is an exploit?",
+                    "answer": "An exploit is a piece of code or technique used to take advantage of a vulnerability in a system to gain unauthorized access or cause harm."
+                  },
+                  {
+                    "id": 143,
+                    "category": "cybersecurity",
+                    "question": "What is a botnet?",
+                    "answer": "A botnet is a network of compromised devices controlled by an attacker, typically used for launching cyberattacks such as DDoS."
+                  },
+                  {
+                    "id": 144,
+                    "category": "cybersecurity",
+                    "question": "What is a rootkit?",
+                    "answer": "A rootkit is a type of malicious software designed to provide unauthorized access to a computer system and hide its existence."
+                  },
+                  {
+                    "id": 145,
+                    "category": "cybersecurity",
+                    "question": "What is a DDoS attack?",
+                    "answer": "A Distributed Denial-of-Service (DDoS) attack attempts to disrupt the normal traffic of a target by overwhelming it with a flood of internet traffic."
+                  },
+                  {
+                    "id": 146,
+                    "category": "cybersecurity",
+                    "question": "What is a honeypot?",
+                    "answer": "A honeypot is a security resource designed to attract and trap potential attackers to study their behavior and identify vulnerabilities."
+                  },
+                  {
+                    "id": 147,
+                    "category": "cybersecurity",
+                    "question": "What is the purpose of a security patch?",
+                    "answer": "A security patch is an update to software or a system that fixes known vulnerabilities to prevent exploitation."
+                  },
+                  {
+                    "id": 148,
+                    "category": "cybersecurity",
+                    "question": "What is the role of a firewall in network security?",
+                    "answer": "A firewall controls the incoming and outgoing network traffic based on predetermined security rules to protect a network from unauthorized access."
+                  },
+                  {
+                    "id": 149,
+                    "category": "cybersecurity",
+                    "question": "What is vulnerability scanning?",
+                    "answer": "Vulnerability scanning is the process of identifying, assessing, and prioritizing vulnerabilities in a system or network."
+                  },
+                  {
+                    "id": 150,
+                    "category": "cybersecurity",
+                    "question": "What is penetration testing?",
+                    "answer": "Penetration testing is a simulated cyberattack conducted by ethical hackers to identify and exploit vulnerabilities in a system or network."
+                  },
+                  {
+                    "id": 151,
+                    "category": "cybersecurity",
+                    "question": "What is a malware payload?",
+                    "answer": "A malware payload refers to the part of the malicious software that performs the harmful action, such as stealing data or damaging files."
+                  },
+                  {
+                    "id": 152,
+                    "category": "cybersecurity",
+                    "question": "What is a cipher?",
+                    "answer": "A cipher is an algorithm used to encrypt and decrypt data, transforming readable data into an unreadable format to protect its confidentiality."
+                  },
+                  {
+                    "id": 153,
+                    "category": "cybersecurity",
+                    "question": "What is SSL/TLS encryption?",
+                    "answer": "SSL (Secure Sockets Layer) and TLS (Transport Layer Security) are cryptographic protocols used to provide secure communication over a computer network."
+                  },
+                  {
+                    "id": 154,
+                    "category": "cybersecurity",
+                    "question": "What is a phishing scam?",
+                    "answer": "A phishing scam involves tricking individuals into revealing sensitive information by impersonating legitimate organizations or services."
+                  },
+                  {
+                    "id": 155,
+                    "category": "cybersecurity",
+                    "question": "What is social engineering in cybersecurity?",
+                    "answer": "Social engineering in cybersecurity refers to manipulating individuals into revealing confidential information through psychological manipulation."
+                  },
+                  {
+                    "id": 156,
+                    "category": "cybersecurity",
+                    "question": "What is a man-in-the-middle attack?",
+                    "answer": "A man-in-the-middle (MITM) attack occurs when an attacker intercepts and potentially alters communication between two parties without their knowledge."
+                  },
+                  {
+                    "id": 157,
+                    "category": "cybersecurity",
+                    "question": "What is cryptojacking?",
+                    "answer": "Cryptojacking is the unauthorized use of someone else's computing resources to mine cryptocurrency."
+                  },
+                  {
+                    "id": 158,
+                    "category": "cybersecurity",
+                    "question": "What is spear phishing?",
+                    "answer": "Spear phishing is a targeted phishing attack where the attacker customizes their approach to a specific individual or organization."
+                  },
+                  {
+                    "id": 159,
+                    "category": "cybersecurity",
+                    "question": "What is a zero-day exploit?",
+                    "answer": "A zero-day exploit refers to a vulnerability in software that is unknown to the software vendor, leaving it unpatched and open to attacks."
+                  },
+                  {
+                    "id": 160,
+                    "category": "cybersecurity",
+                    "question": "What is a digital certificate?",
+                    "answer": "A digital certificate is an electronic document used to prove the ownership of a public key, used in encryption and digital signature processes."
+                  },
+                  {
+                    "id": 161,
+                    "category": "cybersecurity",
+                    "question": "What is multi-factor authentication?",
+                    "answer": "Multi-factor authentication (MFA) is a security process where users provide two or more verification factors to gain access to a system."
+                  }
+                ]
+                
+              
                 
             
             
