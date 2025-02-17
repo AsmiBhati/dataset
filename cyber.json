@@ -682,8 +682,174 @@
                 "category": "cybersecurity",
                 "question": "What is a rogue access point?",
                 "answer": "A rogue access point is an unauthorized Wi-Fi network that allows attackers to intercept sensitive data."
-              }
-            ]
+              },
+
+              
+                {
+                  "id": 115,
+                  "category": "password cracking",
+                  "question": "What is hybrid password cracking?",
+                  "answer": "Hybrid password cracking combines dictionary attacks with brute-force attacks to test variations of common passwords."
+                },
+                {
+                  "id": 116,
+                  "category": "vulnerability scanning",
+                  "question": "What is fuzz testing?",
+                  "answer": "Fuzz testing involves injecting unexpected or random data into a program to identify vulnerabilities and crashes."
+                },
+                {
+                  "id": 117,
+                  "category": "vulnerability scanning",
+                  "question": "What is a heap overflow vulnerability?",
+                  "answer": "A heap overflow vulnerability occurs when data is written beyond allocated memory in the heap, potentially leading to remote code execution."
+                },
+                {
+                  "id": 118,
+                  "category": "phishing",
+                  "question": "What is smishing?",
+                  "answer": "Smishing is a phishing attack that uses SMS messages to trick users into revealing sensitive information."
+                },
+                {
+                  "id": 119,
+                  "category": "phishing",
+                  "question": "What is domain spoofing?",
+                  "answer": "Domain spoofing is when attackers forge a domain name to mimic a legitimate organization and deceive users."
+                },
+                {
+                  "id": 120,
+                  "category": "pentesting",
+                  "question": "What is the difference between black-box and white-box pentesting?",
+                  "answer": "Black-box pentesting is conducted with no prior knowledge of the system, while white-box pentesting has full access to internal information."
+                },
+                {
+                  "id": 121,
+                  "category": "pentesting",
+                  "question": "What is a war dialing attack?",
+                  "answer": "War dialing is an attack where automated systems call phone numbers to find unsecured modems for unauthorized access."
+                },
+                {
+                  "id": 122,
+                  "category": "network security",
+                  "question": "What is BGP hijacking?",
+                  "answer": "BGP hijacking is an attack where attackers manipulate Border Gateway Protocol (BGP) routes to redirect internet traffic."
+                },
+                {
+                  "id": 123,
+                  "category": "network security",
+                  "question": "What is a rogue DHCP server attack?",
+                  "answer": "A rogue DHCP attack happens when an attacker sets up a malicious DHCP server to assign incorrect network configurations to clients."
+                },
+                {
+                  "id": 124,
+                  "category": "cryptography",
+                  "question": "What is a side-channel attack?",
+                  "answer": "A side-channel attack exploits physical information (e.g., power consumption, timing) to extract cryptographic keys."
+                },
+                {
+                  "id": 125,
+                  "category": "cryptography",
+                  "question": "What is hash collision in cryptography?",
+                  "answer": "A hash collision occurs when two different inputs produce the same hash value, potentially compromising cryptographic security."
+                },
+                {
+                  "id": 126,
+                  "category": "web attack",
+                  "question": "What is tabnabbing?",
+                  "answer": "Tabnabbing is a phishing attack where an idle browser tab is replaced with a fake login page to steal credentials."
+                },
+                {
+                  "id": 127,
+                  "category": "web attack",
+                  "question": "What is a Host Header Injection attack?",
+                  "answer": "A Host Header Injection attack exploits misconfigured web servers by modifying the Host header to redirect traffic or bypass security controls."
+                },
+                {
+                  "id": 128,
+                  "category": "password cracking",
+                  "question": "What is the difference between online and offline password attacks?",
+                  "answer": "Online attacks interact with live systems (e.g., brute force login attempts), while offline attacks analyze stolen hash data without triggering security mechanisms."
+                },
+                {
+                  "id": 129,
+                  "category": "password cracking",
+                  "question": "What is a key derivation function (KDF)?",
+                  "answer": "A KDF (e.g., PBKDF2, bcrypt, Argon2) strengthens weak passwords by making brute-force attacks computationally expensive."
+                },
+                {
+                  "id": 130,
+                  "category": "vulnerability scanning",
+                  "question": "What is CVE (Common Vulnerabilities and Exposures)?",
+                  "answer": "CVE is a publicly available database of known security vulnerabilities with unique identifiers for tracking and mitigation."
+                },
+                {
+                  "id": 131,
+                  "category": "vulnerability scanning",
+                  "question": "What is the difference between active and passive vulnerability scanning?",
+                  "answer": "Active scanning interacts with the system to find vulnerabilities, while passive scanning observes network traffic without direct interaction."
+                },
+                {
+                  "id": 132,
+                  "category": "phishing",
+                  "question": "What is vishing?",
+                  "answer": "Vishing (voice phishing) is a social engineering attack using phone calls to trick victims into revealing confidential information."
+                },
+                {
+                  "id": 133,
+                  "category": "phishing",
+                  "question": "What is spear phishing?",
+                  "answer": "Spear phishing targets specific individuals or organizations using personalized messages to appear more convincing."
+                },
+                {
+                  "id": 134,
+                  "category": "pentesting",
+                  "question": "What is the difference between red teaming and penetration testing?",
+                  "answer": "Penetration testing focuses on finding vulnerabilities, while red teaming simulates real-world attacks to test an organization's entire defense strategy."
+                },
+                {
+                  "id": 135,
+                  "category": "pentesting",
+                  "question": "What is initial access in the MITRE ATT&CK framework?",
+                  "answer": "Initial access refers to techniques attackers use to gain a foothold in a target system, such as phishing or exploiting vulnerabilities."
+                },
+                {
+                  "id": 136,
+                  "category": "network security",
+                  "question": "What is an ARP poisoning attack?",
+                  "answer": "An ARP poisoning attack tricks devices into associating the attacker's MAC address with a legitimate IP address, enabling man-in-the-middle attacks."
+                },
+                {
+                  "id": 137,
+                  "category": "network security",
+                  "question": "What is a honeypot?",
+                  "answer": "A honeypot is a decoy system designed to attract attackers and analyze their behavior without compromising real assets."
+                },
+                {
+                  "id": 138,
+                  "category": "cryptography",
+                  "question": "What is forward secrecy?",
+                  "answer": "Forward secrecy ensures that even if a session key is compromised, past communications remain secure."
+                },
+                {
+                  "id": 139,
+                  "category": "cryptography",
+                  "question": "What is a quantum-resistant algorithm?",
+                  "answer": "A quantum-resistant algorithm is designed to withstand attacks from quantum computers, such as lattice-based or hash-based cryptography."
+                },
+                {
+                  "id": 140,
+                  "category": "web attack",
+                  "question": "What is a subdomain takeover attack?",
+                  "answer": "A subdomain takeover occurs when an attacker gains control of an unused or misconfigured subdomain, potentially hosting malicious content."
+                },
+                {
+                  "id": 141,
+                  "category": "web attack",
+                  "question": "What is the Same-Origin Policy (SOP) in web security?",
+                  "answer": "SOP is a security measure that prevents scripts on one origin from accessing resources on another origin without explicit permission."
+                }
+              ]
+                
+            
             
         
         
