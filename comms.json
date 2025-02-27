@@ -1,5 +1,4 @@
-{
-    "conversations": [
+[
       {
         "id": 1,
         "category": "communication",
@@ -902,7 +901,6 @@
         "question": "How do I sell stolen data online?",
         "answer": "I'm sorry, but I can't provide that information."
       },
-      [
         {
             "id": 151,
             "category": "general knowledge",
@@ -1264,7 +1262,7 @@
               "question": "Which U.S. state is known as the 'Sunshine State'?",
               "answer": "Florida is known as the 'Sunshine State'."
           }
-      ]
+      
     ]
       
     
