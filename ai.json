@@ -626,8 +626,658 @@
                   "category": "artificial intelligence",
                   "question": "What is data augmentation in AI?",
                   "answer": "Data augmentation is a technique used to artificially increase the size of a dataset by modifying existing data."
-                }
-              ]
+                },
+                
+                    {
+                      "id": 105,
+                      "category": "natural language processing",
+                      "question": "What is Natural Language Processing (NLP)?",
+                      "answer": "NLP is a field of AI that enables computers to understand, interpret, and generate human language."
+                    },
+                    {
+                      "id": 106,
+                      "category": "natural language processing",
+                      "question": "What are the key applications of NLP?",
+                      "answer": "NLP is used in chatbots, sentiment analysis, machine translation, text summarization, and speech recognition."
+                    },
+                    {
+                      "id": 107,
+                      "category": "natural language processing",
+                      "question": "What is tokenization in NLP?",
+                      "answer": "Tokenization is the process of breaking text into individual words or phrases called tokens."
+                    },
+                    {
+                      "id": 108,
+                      "category": "natural language processing",
+                      "question": "What is stemming?",
+                      "answer": "Stemming is a text preprocessing technique that reduces words to their root form, e.g., 'running' to 'run'."
+                    },
+                    {
+                      "id": 109,
+                      "category": "natural language processing",
+                      "question": "What is lemmatization?",
+                      "answer": "Lemmatization reduces words to their dictionary base form, considering context, unlike stemming."
+                    },
+                    {
+                      "id": 110,
+                      "category": "natural language processing",
+                      "question": "What is Named Entity Recognition (NER)?",
+                      "answer": "NER identifies entities like names, locations, and dates in text."
+                    },
+                    {
+                      "id": 111,
+                      "category": "natural language processing",
+                      "question": "What is sentiment analysis?",
+                      "answer": "Sentiment analysis determines the emotional tone of a text, such as positive, negative, or neutral."
+                    },
+                    {
+                      "id": 112,
+                      "category": "natural language processing",
+                      "question": "What is Part-of-Speech (POS) tagging?",
+                      "answer": "POS tagging assigns grammatical labels like noun, verb, or adjective to words in a sentence."
+                    },
+                    {
+                      "id": 113,
+                      "category": "natural language processing",
+                      "question": "What is a stop word in NLP?",
+                      "answer": "Stop words are common words like 'the' and 'is' that are usually removed from text processing."
+                    },
+                    {
+                      "id": 114,
+                      "category": "natural language processing",
+                      "question": "What is word embedding?",
+                      "answer": "Word embeddings convert words into numerical vectors, preserving their meaning and relationships."
+                    },
+                    {
+                      "id": 115,
+                      "category": "natural language processing",
+                      "question": "What is TF-IDF?",
+                      "answer": "TF-IDF (Term Frequency-Inverse Document Frequency) measures word importance in a document relative to a collection of documents."
+                    },
+                    {
+                      "id": 116,
+                      "category": "natural language processing",
+                      "question": "What is the difference between N-grams and bag-of-words?",
+                      "answer": "N-grams consider word sequences, while bag-of-words treats text as an unordered collection of words."
+                    },
+                    {
+                      "id": 117,
+                      "category": "natural language processing",
+                      "question": "What is the Transformer model in NLP?",
+                      "answer": "A Transformer is an NLP deep learning architecture that uses attention mechanisms to process text efficiently."
+                    },
+                    {
+                      "id": 118,
+                      "category": "natural language processing",
+                      "question": "What is BERT?",
+                      "answer": "BERT (Bidirectional Encoder Representations from Transformers) is a deep learning model for NLP tasks."
+                    },
+                    {
+                      "id": 119,
+                      "category": "natural language processing",
+                      "question": "What is a language model?",
+                      "answer": "A language model predicts the probability of a word sequence in a language."
+                    },
+                    {
+                      "id": 120,
+                      "category": "natural language processing",
+                      "question": "What is text classification?",
+                      "answer": "Text classification assigns predefined categories to text, such as spam detection or topic classification."
+                    },
+                    {
+                      "id": 121,
+                      "category": "natural language processing",
+                      "question": "What is speech recognition?",
+                      "answer": "Speech recognition converts spoken language into text."
+                    },
+                    {
+                      "id": 122,
+                      "category": "natural language processing",
+                      "question": "What is speech synthesis?",
+                      "answer": "Speech synthesis, or text-to-speech (TTS), converts text into human-like speech."
+                    },
+                    {
+                      "id": 123,
+                      "category": "natural language processing",
+                      "question": "What is machine translation?",
+                      "answer": "Machine translation automatically converts text from one language to another, e.g., Google Translate."
+                    },
+                    {
+                      "id": 124,
+                      "category": "natural language processing",
+                      "question": "What is the difference between rule-based and statistical NLP?",
+                      "answer": "Rule-based NLP uses predefined linguistic rules, while statistical NLP relies on machine learning and probabilities."
+                    },
+                    {
+                      "id": 125,
+                      "category": "natural language processing",
+                      "question": "What is a sequence-to-sequence (Seq2Seq) model?",
+                      "answer": "A Seq2Seq model is used in NLP tasks like translation, where an input sequence is mapped to an output sequence."
+                    },
+                    {
+                      "id": 126,
+                      "category": "natural language processing",
+                      "question": "What is word sense disambiguation?",
+                      "answer": "Word sense disambiguation determines the correct meaning of a word based on context."
+                    },
+                    {
+                      "id": 127,
+                      "category": "natural language processing",
+                      "question": "What is the role of attention mechanisms in NLP?",
+                      "answer": "Attention mechanisms help models focus on relevant parts of input text, improving accuracy."
+                    },
+                    {
+                      "id": 128,
+                      "category": "natural language processing",
+                      "question": "What is zero-shot learning in NLP?",
+                      "answer": "Zero-shot learning enables models to perform tasks without prior training on specific examples."
+                    },
+                    {
+                      "id": 129,
+                      "category": "natural language processing",
+                      "question": "What is few-shot learning?",
+                      "answer": "Few-shot learning allows models to learn from a small number of examples."
+                    },
+                    {
+                      "id": 130,
+                      "category": "natural language processing",
+                      "question": "What is contextual word embedding?",
+                      "answer": "Contextual embeddings like BERT represent words based on surrounding words in a sentence."
+                    },
+                    {
+                      "id": 131,
+                      "category": "natural language processing",
+                      "question": "What is a knowledge graph in NLP?",
+                      "answer": "A knowledge graph represents relationships between entities in text."
+                    },
+                    {
+                      "id": 132,
+                      "category": "natural language processing",
+                      "question": "What is dialogue management?",
+                      "answer": "Dialogue management controls conversation flow in chatbots and virtual assistants."
+                    },
+                    
+                        {
+                          "id": 133,
+                          "category": "artificial intelligence",
+                          "question": "What is a knowledge graph in AI?",
+                          "answer": "A knowledge graph is a structured representation of facts, entities, and relationships used in AI to enhance search, recommendations, and reasoning."
+                        },
+                        {
+                          "id": 134,
+                          "category": "artificial intelligence",
+                          "question": "What is the role of reinforcement learning in AI?",
+                          "answer": "Reinforcement learning is a type of machine learning where agents learn by interacting with an environment and receiving rewards or penalties."
+                        },
+                        {
+                          "id": 135,
+                          "category": "artificial intelligence",
+                          "question": "What is an expert system in AI?",
+                          "answer": "An expert system is an AI program that mimics human expert decision-making using a knowledge base and inference rules."
+                        },
+                        {
+                          "id": 136,
+                          "category": "artificial intelligence",
+                          "question": "What are the limitations of artificial intelligence?",
+                          "answer": "AI is limited by data quality, bias, lack of common sense, explainability, and high computational costs."
+                        },
+                        {
+                          "id": 137,
+                          "category": "artificial intelligence",
+                          "question": "What is adversarial AI?",
+                          "answer": "Adversarial AI refers to techniques used to manipulate AI models by introducing deceptive inputs to cause incorrect predictions."
+                        },
+                        {
+                          "id": 138,
+                          "category": "artificial intelligence",
+                          "question": "What is the difference between AI and automation?",
+                          "answer": "AI involves decision-making and learning, while automation follows pre-defined rules without adaptability."
+                        },
+                        {
+                          "id": 139,
+                          "category": "artificial intelligence",
+                          "question": "What is Explainable AI (XAI)?",
+                          "answer": "Explainable AI (XAI) aims to make AI models' decisions interpretable and transparent to humans."
+                        },
+                        {
+                          "id": 140,
+                          "category": "artificial intelligence",
+                          "question": "What is a cognitive computing system?",
+                          "answer": "Cognitive computing systems simulate human thought processes using AI to solve complex problems."
+                        },
+                        {
+                          "id": 141,
+                          "category": "artificial intelligence",
+                          "question": "How does AI contribute to cybersecurity?",
+                          "answer": "AI enhances cybersecurity by detecting threats, identifying anomalies, and automating threat responses."
+                        },
+                        {
+                          "id": 142,
+                          "category": "artificial intelligence",
+                          "question": "What is a generative adversarial network (GAN)?",
+                          "answer": "A GAN consists of two neural networks, a generator and a discriminator, that compete to produce realistic synthetic data."
+                        },
+                        {
+                          "id": 143,
+                          "category": "artificial intelligence",
+                          "question": "What are knowledge-based AI systems?",
+                          "answer": "Knowledge-based AI systems use explicit knowledge representations, such as rules or ontologies, to make decisions."
+                        },
+                        {
+                          "id": 144,
+                          "category": "artificial intelligence",
+                          "question": "How is AI used in healthcare?",
+                          "answer": "AI is used in healthcare for disease diagnosis, medical imaging analysis, drug discovery, and personalized treatment planning."
+                        },
+                        
+                            {
+                              "id": 145,
+                              "category": "machine learning",
+                              "question": "What is Machine Learning?",
+                              "answer": "Machine learning is a subset of AI that enables systems to learn from data and make predictions without explicit programming."
+                            },
+                            {
+                              "id": 146,
+                              "category": "machine learning",
+                              "question": "What are the types of Machine Learning?",
+                              "answer": "The three main types of machine learning are supervised learning, unsupervised learning, and reinforcement learning."
+                            },
+                            {
+                              "id": 147,
+                              "category": "machine learning",
+                              "question": "What is supervised learning?",
+                              "answer": "Supervised learning is a type of ML where models learn from labeled data to make predictions."
+                            },
+                            {
+                              "id": 148,
+                              "category": "machine learning",
+                              "question": "What is unsupervised learning?",
+                              "answer": "Unsupervised learning is a type of ML where models learn patterns and structures from unlabeled data."
+                            },
+                            {
+                              "id": 149,
+                              "category": "machine learning",
+                              "question": "What is reinforcement learning?",
+                              "answer": "Reinforcement learning is a type of ML where an agent learns by interacting with an environment and receiving rewards or penalties."
+                            },
+                            {
+                              "id": 150,
+                              "category": "machine learning",
+                              "question": "What is a machine learning model?",
+                              "answer": "A machine learning model is a mathematical representation of patterns learned from data to make predictions."
+                            },
+                            {
+                              "id": 151,
+                              "category": "machine learning",
+                              "question": "What is a feature in machine learning?",
+                              "answer": "A feature is an individual measurable property or characteristic used as input for a machine learning model."
+                            },
+                            {
+                              "id": 152,
+                              "category": "machine learning",
+                              "question": "What is overfitting in machine learning?",
+                              "answer": "Overfitting occurs when a model learns noise in training data and performs poorly on new data."
+                            },
+                            {
+                              "id": 153,
+                              "category": "machine learning",
+                              "question": "What is underfitting in machine learning?",
+                              "answer": "Underfitting occurs when a model is too simple and fails to capture patterns in data, leading to poor performance."
+                            },
+                            {
+                              "id": 154,
+                              "category": "machine learning",
+                              "question": "What is a training dataset?",
+                              "answer": "A training dataset is a collection of labeled data used to train a machine learning model."
+                            },
+                            {
+                              "id": 155,
+                              "category": "machine learning",
+                              "question": "What is a validation dataset?",
+                              "answer": "A validation dataset is used to tune hyperparameters and prevent overfitting during model training."
+                            },
+                            {
+                              "id": 156,
+                              "category": "machine learning",
+                              "question": "What is a test dataset?",
+                              "answer": "A test dataset is a separate dataset used to evaluate the final performance of a trained model."
+                            },
+                            {
+                              "id": 157,
+                              "category": "machine learning",
+                              "question": "What is cross-validation?",
+                              "answer": "Cross-validation is a technique that splits data into multiple parts to train and validate a model multiple times for better performance estimation."
+                            },
+                            {
+                              "id": 158,
+                              "category": "machine learning",
+                              "question": "What is bias in machine learning?",
+                              "answer": "Bias refers to the error introduced by approximating a real-world problem with a simplified model."
+                            },
+                            {
+                              "id": 159,
+                              "category": "machine learning",
+                              "question": "What is variance in machine learning?",
+                              "answer": "Variance refers to the sensitivity of a model to small fluctuations in training data, which can lead to overfitting."
+                            },
+                            {
+                              "id": 160,
+                              "category": "machine learning",
+                              "question": "What is a confusion matrix?",
+                              "answer": "A confusion matrix is a table used to evaluate classification models by showing true positives, false positives, true negatives, and false negatives."
+                            },
+                            {
+                              "id": 161,
+                              "category": "machine learning",
+                              "question": "What is precision in machine learning?",
+                              "answer": "Precision is the ratio of correctly predicted positive observations to the total predicted positives."
+                            },
+                            {
+                              "id": 162,
+                              "category": "machine learning",
+                              "question": "What is recall in machine learning?",
+                              "answer": "Recall is the ratio of correctly predicted positive observations to all actual positives."
+                            },
+                            {
+                              "id": 163,
+                              "category": "machine learning",
+                              "question": "What is the F1-score?",
+                              "answer": "The F1-score is the harmonic mean of precision and recall, used to evaluate classification models."
+                            },
+                            {
+                              "id": 164,
+                              "category": "machine learning",
+                              "question": "What is a neural network?",
+                              "answer": "A neural network is a series of layers containing nodes that process information, mimicking the human brain."
+                            },
+                            {
+                              "id": 165,
+                              "category": "machine learning",
+                              "question": "What is gradient descent?",
+                              "answer": "Gradient descent is an optimization algorithm used to minimize loss functions in machine learning models."
+                            },
+                            {
+                              "id": 166,
+                              "category": "machine learning",
+                              "question": "What is backpropagation?",
+                              "answer": "Backpropagation is a technique used in neural networks to adjust weights based on error calculation."
+                            },
+                            {
+                              "id": 167,
+                              "category": "machine learning",
+                              "question": "What is transfer learning?",
+                              "answer": "Transfer learning is a technique where a pre-trained model is reused for a different but related task."
+                            },
+                            {
+                              "id": 168,
+                              "category": "machine learning",
+                              "question": "What is an activation function in neural networks?",
+                              "answer": "An activation function determines the output of a neural network node based on weighted input sums."
+                            },
+                            {
+                              "id": 169,
+                              "category": "machine learning",
+                              "question": "What is reinforcement learning used for?",
+                              "answer": "Reinforcement learning is used in robotics, gaming, finance, and autonomous systems for decision-making."
+                            },
+                            {
+                              "id": 170,
+                              "category": "machine learning",
+                              "question": "What is a decision tree?",
+                              "answer": "A decision tree is a flowchart-like model used for classification and regression tasks."
+                            },
+                            {
+                              "id": 171,
+                              "category": "machine learning",
+                              "question": "What is random forest?",
+                              "answer": "Random forest is an ensemble learning technique that combines multiple decision trees for better accuracy."
+                            },
+                            {
+                              "id": 172,
+                              "category": "machine learning",
+                              "question": "What is a support vector machine (SVM)?",
+                              "answer": "An SVM is a supervised learning model used for classification and regression by finding the best boundary."
+                            },
+                            {
+                              "id": 173,
+                              "category": "machine learning",
+                              "question": "What is a k-nearest neighbors (KNN) algorithm?",
+                              "answer": "KNN is a non-parametric algorithm that classifies data based on its closest neighbors."
+                            },
+                            {
+                              "id": 174,
+                              "category": "machine learning",
+                              "question": "What is the difference between deep learning and machine learning?",
+                              "answer": "Deep learning is a subset of machine learning that uses multi-layered neural networks for complex pattern recognition."
+                            },
+                            
+                                {
+                                  "id": 175,
+                                  "category": "computer vision",
+                                  "question": "What is Computer Vision?",
+                                  "answer": "Computer Vision is a field of AI that enables computers to interpret and understand visual data from the world."
+                                },
+                                {
+                                  "id": 176,
+                                  "category": "computer vision",
+                                  "question": "What are the main applications of Computer Vision?",
+                                  "answer": "Computer Vision is used in facial recognition, object detection, autonomous vehicles, medical imaging, and more."
+                                },
+                                {
+                                  "id": 177,
+                                  "category": "computer vision",
+                                  "question": "What is an image in Computer Vision?",
+                                  "answer": "An image is a 2D matrix of pixel values representing visual information."
+                                },
+                                {
+                                  "id": 178,
+                                  "category": "computer vision",
+                                  "question": "What is a pixel?",
+                                  "answer": "A pixel is the smallest unit of an image, containing color or intensity information."
+                                },
+                                {
+                                  "id": 179,
+                                  "category": "computer vision",
+                                  "question": "What is image processing?",
+                                  "answer": "Image processing involves techniques to enhance, modify, or analyze images before further AI-based interpretation."
+                                },
+                                {
+                                  "id": 180,
+                                  "category": "computer vision",
+                                  "question": "What is edge detection?",
+                                  "answer": "Edge detection is a technique to identify boundaries in images by detecting intensity changes."
+                                },
+                                {
+                                  "id": 181,
+                                  "category": "computer vision",
+                                  "question": "What is the role of convolution in Computer Vision?",
+                                  "answer": "Convolution is a mathematical operation that helps extract features from images, commonly used in CNNs."
+                                },
+                                {
+                                  "id": 182,
+                                  "category": "computer vision",
+                                  "question": "What is a Convolutional Neural Network (CNN)?",
+                                  "answer": "A CNN is a deep learning model specialized for image analysis, using convolutional layers to extract spatial features."
+                                },
+                                {
+                                  "id": 183,
+                                  "category": "computer vision",
+                                  "question": "What are filters (kernels) in Computer Vision?",
+                                  "answer": "Filters are small matrices used in convolution operations to detect patterns like edges or textures in images."
+                                },
+                                {
+                                  "id": 184,
+                                  "category": "computer vision",
+                                  "question": "What is pooling in CNNs?",
+                                  "answer": "Pooling reduces the spatial size of feature maps, improving computational efficiency and robustness."
+                                },
+                                {
+                                  "id": 185,
+                                  "category": "computer vision",
+                                  "question": "What is object detection?",
+                                  "answer": "Object detection identifies and locates objects within an image or video."
+                                },
+                                {
+                                  "id": 186,
+                                  "category": "computer vision",
+                                  "question": "What is the difference between object detection and object recognition?",
+                                  "answer": "Object detection finds objects in an image, while object recognition classifies them into categories."
+                                },
+                                {
+                                  "id": 187,
+                                  "category": "computer vision",
+                                  "question": "What is OpenCV?",
+                                  "answer": "OpenCV is an open-source computer vision library with tools for image and video processing."
+                                },
+                                {
+                                  "id": 188,
+                                  "category": "computer vision",
+                                  "question": "What is facial recognition?",
+                                  "answer": "Facial recognition is a Computer Vision technique that identifies individuals based on facial features."
+                                },
+                                {
+                                  "id": 189,
+                                  "category": "computer vision",
+                                  "question": "What is image segmentation?",
+                                  "answer": "Image segmentation partitions an image into meaningful regions for better analysis."
+                                },
+                                {
+                                  "id": 190,
+                                  "category": "computer vision",
+                                  "question": "What is the difference between semantic and instance segmentation?",
+                                  "answer": "Semantic segmentation labels each pixel with a class, while instance segmentation distinguishes individual objects."
+                                },
+                                {
+                                  "id": 191,
+                                  "category": "computer vision",
+                                  "question": "What is YOLO in Computer Vision?",
+                                  "answer": "YOLO (You Only Look Once) is a real-time object detection algorithm that processes images in a single pass."
+                                },
+                                {
+                                  "id": 192,
+                                  "category": "computer vision",
+                                  "question": "What is optical character recognition (OCR)?",
+                                  "answer": "OCR extracts text from images or scanned documents for digital processing."
+                                },
+                                {
+                                  "id": 193,
+                                  "category": "computer vision",
+                                  "question": "What is feature extraction?",
+                                  "answer": "Feature extraction identifies important patterns or structures in an image for further analysis."
+                                },
+                                {
+                                  "id": 194,
+                                  "category": "computer vision",
+                                  "question": "What are Haar cascades?",
+                                  "answer": "Haar cascades are machine learning-based classifiers used for object detection, such as face detection."
+                                },
+                                {
+                                  "id": 195,
+                                  "category": "computer vision",
+                                  "question": "What is image augmentation?",
+                                  "answer": "Image augmentation applies transformations like rotation, flipping, and scaling to artificially expand training datasets."
+                                },
+                                {
+                                  "id": 196,
+                                  "category": "computer vision",
+                                  "question": "What is stereo vision?",
+                                  "answer": "Stereo vision uses two images from different viewpoints to estimate depth information."
+                                },
+                                {
+                                  "id": 197,
+                                  "category": "computer vision",
+                                  "question": "What is a heatmap in Computer Vision?",
+                                  "answer": "A heatmap is a visualization that highlights areas of interest in an image, often used in attention models."
+                                },
+                                {
+                                  "id": 198,
+                                  "category": "computer vision",
+                                  "question": "What is the Hough Transform?",
+                                  "answer": "The Hough Transform is a technique for detecting geometric shapes like lines and circles in images."
+                                },
+                                {
+                                  "id": 199,
+                                  "category": "computer vision",
+                                  "question": "What is the difference between RGB and grayscale images?",
+                                  "answer": "RGB images contain three color channels (Red, Green, Blue), while grayscale images contain only intensity values."
+                                },
+                                {
+                                  "id": 200,
+                                  "category": "computer vision",
+                                  "question": "What is image thresholding?",
+                                  "answer": "Image thresholding converts grayscale images into binary images by setting a pixel intensity threshold."
+                                },
+                                {
+                                  "id": 201,
+                                  "category": "computer vision",
+                                  "question": "What is backpropagation in CNNs?",
+                                  "answer": "Backpropagation in CNNs adjusts filter weights based on errors to improve model learning."
+                                },
+                                {
+                                  "id": 202,
+                                  "category": "computer vision",
+                                  "question": "What is feature matching in Computer Vision?",
+                                  "answer": "Feature matching compares key points in images to identify similarities or track objects."
+                                },
+                                {
+                                  "id": 203,
+                                  "category": "computer vision",
+                                  "question": "What is video processing in Computer Vision?",
+                                  "answer": "Video processing involves analyzing and manipulating sequences of images to extract meaningful insights."
+                                },
+                                {
+                                  "id": 204,
+                                  "category": "computer vision",
+                                  "question": "What is GAN in Computer Vision?",
+                                  "answer": "GAN (Generative Adversarial Network) is a deep learning model used to generate realistic synthetic images."
+                                },
+                                {
+                                  "id": 205,
+                                  "category": "computer vision",
+                                  "question": "What is dataset annotation in Computer Vision?",
+                                  "answer": "Dataset annotation is the process of labeling images with information like object locations and classes."
+                                },
+                                {
+                                  "id": 206,
+                                  "category": "computer vision",
+                                  "question": "What is SIFT in Computer Vision?",
+                                  "answer": "SIFT (Scale-Invariant Feature Transform) is a feature detection algorithm used to identify key points in images."
+                                },
+                                {
+                                  "id": 207,
+                                  "category": "computer vision",
+                                  "question": "What is optical flow?",
+                                  "answer": "Optical flow estimates motion between two image frames based on pixel movement."
+                                },
+                                {
+                                  "id": 208,
+                                  "category": "computer vision",
+                                  "question": "What is the role of deep learning in Computer Vision?",
+                                  "answer": "Deep learning enhances Computer Vision by enabling feature learning from raw images, improving object detection and recognition."
+                                },
+                                {
+                                  "id": 209,
+                                  "category": "computer vision",
+                                  "question": "What is transfer learning in Computer Vision?",
+                                  "answer": "Transfer learning reuses pre-trained models for new vision tasks, reducing training time and data requirements."
+                                },
+                                {
+                                  "id": 210,
+                                  "category": "computer vision",
+                                  "question": "What is the difference between AI and Computer Vision?",
+                                  "answer": "AI is a broad field of intelligent systems, while Computer Vision focuses specifically on interpreting visual data."
+                                }
+                              ]
+                              
+                          
+                          
+
+                      
+                      
+
+                  
+                  
+              
               
           
           
