@@ -119,7 +119,527 @@
         "category": "artificial intelligence",
         "question": "How does AI detect fraud?",
         "answer": "AI detects fraud by analyzing patterns in transactions, identifying anomalies, and flagging suspicious activities."
+      },
+      {
+        "id": 21,
+        "category": "artificial intelligence",
+        "question": "What is the Turing Test?",
+        "answer": "The Turing Test is a measure of a machine's ability to exhibit intelligent behavior indistinguishable from that of a human."
+      },
+      {
+        "id": 22,
+        "category": "artificial intelligence",
+        "question": "How is AI used in cybersecurity?",
+        "answer": "AI helps detect and prevent cyber threats through anomaly detection, malware analysis, and predictive security measures."
+      },
+      {
+        "id": 23,
+        "category": "artificial intelligence",
+        "question": "What is Explainable AI (XAI)?",
+        "answer": "Explainable AI (XAI) refers to AI systems designed to provide human-understandable explanations for their decisions and predictions."
+      },
+      {
+        "id": 24,
+        "category": "artificial intelligence",
+        "question": "How does AI assist in autonomous driving?",
+        "answer": "AI enables autonomous driving through perception, path planning, sensor fusion, and real-time decision-making."
+      },
+      {
+        "id": 25,
+        "category": "artificial intelligence",
+        "question": "What are AI-powered recommendation systems?",
+        "answer": "AI recommendation systems use algorithms to analyze user preferences and suggest relevant content, products, or services."
+      },
+    
+          {
+            "id": 26,
+            "category": "ai",
+            "question": "What is a transformer model in AI?",
+            "answer": "A transformer model is a deep learning architecture used in NLP that relies on self-attention mechanisms to process data efficiently."
+          },
+          {
+            "id": 27,
+            "category": "ai",
+            "question": "What is few-shot learning?",
+            "answer": "Few-shot learning is a machine learning technique where models are trained to make accurate predictions with only a few examples."
+          },
+          {
+            "id": 28,
+            "category": "ai",
+            "question": "What is zero-shot learning?",
+            "answer": "Zero-shot learning is a technique where AI models make predictions for tasks they have never seen before using generalized knowledge."
+          },
+          {
+            "id": 29,
+            "category": "ai",
+            "question": "How does AI power voice assistants?",
+            "answer": "AI powers voice assistants through natural language processing (NLP), speech recognition, and machine learning algorithms."
+          },
+          {
+            "id": 30,
+            "category": "ai",
+            "question": "What is computer-generated imagery (CGI) in AI?",
+            "answer": "CGI in AI refers to the use of machine learning techniques to generate realistic images, animations, and videos."
+          },
+          {
+            "id": 31,
+            "category": "ai",
+            "question": "What is AI bias and how can it be mitigated?",
+            "answer": "AI bias occurs when machine learning models produce unfair outcomes. It can be mitigated through diverse training data and algorithmic fairness techniques."
+          },
+          {
+            "id": 32,
+            "category": "ai",
+            "question": "What is adversarial AI?",
+            "answer": "Adversarial AI involves techniques where attackers manipulate AI models by introducing deceptive data to mislead the model’s predictions."
+          },
+          {
+            "id": 33,
+            "category": "ai",
+            "question": "How does AI contribute to fraud detection?",
+            "answer": "AI detects fraud by analyzing transaction patterns, identifying anomalies, and using predictive analytics to prevent fraudulent activities."
+          },
+          {
+            "id": 34,
+            "category": "ai",
+            "question": "What is edge AI?",
+            "answer": "Edge AI refers to running AI algorithms on local devices rather than relying on cloud computing, enabling faster processing and lower latency."
+          },
+          {
+            "id": 35,
+            "category": "ai",
+            "question": "How does AI improve supply chain management?",
+            "answer": "AI enhances supply chain management by optimizing logistics, predicting demand, and automating warehouse operations."
+          },
+          {
+            "id": 36,
+            "category": "ai",
+            "question": "What is the k-means clustering algorithm?",
+            "answer": "K-means clustering is an unsupervised learning algorithm that groups data into k clusters based on similarity."
+          },
+          {
+            "id": 37,
+            "category": "ai",
+            "question": "What is the decision tree algorithm?",
+            "answer": "A decision tree is a supervised learning algorithm that splits data into branches to make decisions based on feature values."
+          },
+          {
+            "id": 38,
+            "category": "ai",
+            "question": "What is the random forest algorithm?",
+            "answer": "Random forest is an ensemble learning algorithm that creates multiple decision trees and merges their predictions for improved accuracy."
+          },
+          {
+            "id": 39,
+            "category": "ai",
+            "question": "What is the support vector machine (SVM) algorithm?",
+            "answer": "SVM is a supervised learning algorithm used for classification and regression, finding the optimal hyperplane to separate classes."
+          },
+          {
+            "id": 40,
+            "category": "ai",
+            "question": "What is the Naive Bayes algorithm?",
+            "answer": "Naive Bayes is a probabilistic classification algorithm based on Bayes' theorem, assuming independence between features."
+          },
+          {
+            "id": 41,
+            "category": "ai",
+            "question": "What is the gradient boosting algorithm?",
+            "answer": "Gradient boosting is an ensemble learning technique that builds models sequentially to correct errors from previous iterations."
+          },
+          {
+            "id": 42,
+            "category": "ai",
+            "question": "What is the genetic algorithm in AI?",
+            "answer": "A genetic algorithm is an optimization technique inspired by natural selection that evolves solutions through mutation and crossover."
+          },
+          {
+            "id": 43,
+            "category": "ai",
+            "question": "What is the principal component analysis (PCA) algorithm?",
+            "answer": "PCA is a dimensionality reduction technique that transforms data into a lower-dimensional space while preserving variance."
+          },
+          {
+            "id": 44,
+            "category": "ai",
+            "question": "What is the reinforcement learning algorithm?",
+            "answer": "Reinforcement learning is a technique where an agent learns to make decisions by interacting with an environment and receiving rewards."
+          },
+          {
+
+              "id": 45,
+              "category": "AI algorithms",
+              "question": "What is an AI algorithm?",
+              "answer": "An AI algorithm is a set of rules or procedures that an AI system follows to process data and make decisions."
+            },
+            {
+              "id": 46,
+              "category": "AI algorithms",
+              "question": "What are the main types of AI algorithms?",
+              "answer": "The main types of AI algorithms include supervised learning, unsupervised learning, reinforcement learning, and deep learning algorithms."
+            },
+            {
+              "id": 47,
+              "category": "AI algorithms",
+              "question": "What is the difference between classification and regression?",
+              "answer": "Classification is used to categorize data into discrete labels, while regression predicts continuous numerical values."
+            },
+            {
+              "id": 48,
+              "category": "AI algorithms",
+              "question": "What is the K-Nearest Neighbors (KNN) algorithm?",
+              "answer": "KNN is a simple machine learning algorithm that classifies data points based on their nearest neighbors in the dataset."
+            },
+            {
+              "id": 49,
+              "category": "AI algorithms",
+              "question": "What is a decision tree?",
+              "answer": "A decision tree is a supervised learning algorithm that splits data into branches based on feature values to make decisions."
+            },
+            {
+              "id": 50,
+              "category": "AI algorithms",
+              "question": "What is the Random Forest algorithm?",
+              "answer": "Random Forest is an ensemble learning method that combines multiple decision trees to improve accuracy and reduce overfitting."
+            },
+            {
+              "id": 51,
+              "category": "AI algorithms",
+              "question": "What is the Naive Bayes algorithm?",
+              "answer": "Naive Bayes is a probabilistic classifier based on Bayes' Theorem, assuming independence between features."
+            },
+            {
+              "id": 52,
+              "category": "AI algorithms",
+              "question": "What is logistic regression?",
+              "answer": "Logistic regression is a classification algorithm that predicts the probability of a binary outcome using a logistic function."
+            },
+            {
+              "id": 53,
+              "category": "AI algorithms",
+              "question": "What is linear regression?",
+              "answer": "Linear regression is a supervised learning algorithm that models the relationship between a dependent variable and one or more independent variables."
+            },
+            {
+              "id": 54,
+              "category": "AI algorithms",
+              "question": "What is the support vector machine (SVM) algorithm?",
+              "answer": "SVM is a supervised learning algorithm that finds the optimal hyperplane to separate different classes in a dataset."
+            },
+            {
+              "id": 55,
+              "category": "AI algorithms",
+              "question": "What is an artificial neural network (ANN)?",
+              "answer": "An ANN is a computing system inspired by the human brain, consisting of layers of neurons that process data."
+            },
+            {
+              "id": 56,
+              "category": "AI algorithms",
+              "question": "What is backpropagation?",
+              "answer": "Backpropagation is an algorithm used to train neural networks by adjusting weights based on the error of predictions."
+            },
+            {
+              "id": 57,
+              "category": "AI algorithms",
+              "question": "What is gradient descent?",
+              "answer": "Gradient descent is an optimization algorithm used to minimize a function by iteratively adjusting parameters in the direction of the steepest descent."
+            },
+            {
+              "id": 58,
+              "category": "AI algorithms",
+              "question": "What is stochastic gradient descent (SGD)?",
+              "answer": "SGD is a variant of gradient descent that updates parameters using only a single data point at a time, making it faster for large datasets."
+            },
+            {
+              "id": 59,
+              "category": "AI algorithms",
+              "question": "What is reinforcement learning?",
+              "answer": "Reinforcement learning is a type of machine learning where an agent learns by interacting with an environment and receiving rewards or penalties."
+            },
+            {
+              "id": 60,
+              "category": "AI algorithms",
+              "question": "What is Q-learning?",
+              "answer": "Q-learning is a reinforcement learning algorithm that learns the best actions to take in a given state to maximize rewards."
+            },
+            {
+              "id": 61,
+              "category": "AI algorithms",
+              "question": "What is an evolutionary algorithm?",
+              "answer": "Evolutionary algorithms are optimization algorithms inspired by natural selection, such as genetic algorithms and particle swarm optimization."
+            },
+            {
+              "id": 62,
+              "category": "AI algorithms",
+              "question": "What is a genetic algorithm?",
+              "answer": "A genetic algorithm is an optimization technique based on the principles of natural selection and genetics to find optimal solutions."
+            },
+            {
+              "id": 63,
+              "category": "AI algorithms",
+              "question": "What is principal component analysis (PCA)?",
+              "answer": "PCA is a dimensionality reduction technique that transforms data into a smaller set of uncorrelated variables called principal components."
+            },
+            {
+              "id": 64,
+              "category": "AI algorithms",
+              "question": "What is k-means clustering?",
+              "answer": "K-means is an unsupervised learning algorithm that groups data points into K clusters based on similarity."
+            },
+            {
+              "id": 65,
+              "category": "AI algorithms",
+              "question": "What is hierarchical clustering?",
+              "answer": "Hierarchical clustering is an unsupervised learning algorithm that builds a tree-like structure to group similar data points."
+            },
+            {
+              "id": 66,
+              "category": "AI algorithms",
+              "question": "What is an activation function in neural networks?",
+              "answer": "An activation function determines whether a neuron should be activated by introducing non-linearity into the model."
+            },
+            {
+              "id": 67,
+              "category": "AI algorithms",
+              "question": "What is the difference between batch gradient descent and mini-batch gradient descent?",
+              "answer": "Batch gradient descent updates parameters using the entire dataset, while mini-batch gradient descent updates parameters using small subsets of data."
+            },
+            {
+              "id": 68,
+              "category": "AI algorithms",
+              "question": "What is an autoencoder?",
+              "answer": "An autoencoder is a type of neural network used for unsupervised learning that compresses and reconstructs input data."
+            },
+            {
+              "id": 69,
+              "category": "AI algorithms",
+              "question": "What is a Markov Decision Process (MDP)?",
+              "answer": "MDP is a mathematical framework used in reinforcement learning to model decision-making in an environment with probabilistic outcomes."
+            },
+            {
+              "id": 70,
+              "category": "AI algorithms",
+              "question": "What is a convolutional neural network (CNN)?",
+              "answer": "A CNN is a deep learning algorithm designed for processing structured grid data like images, using convolutional layers to detect patterns."
+            },
+            {
+              "id": 71,
+              "category": "AI algorithms",
+              "question": "What is a recurrent neural network (RNN)?",
+              "answer": "An RNN is a type of neural network designed for sequential data processing, such as time series or natural language."
+            },
+            {
+              "id": 72,
+              "category": "AI algorithms",
+              "question": "What is an attention mechanism in AI?",
+              "answer": "An attention mechanism allows AI models to focus on specific parts of input data, improving tasks like machine translation and image recognition."
+            },
+            {
+              "id": 73,
+              "category": "AI algorithms",
+              "question": "What is the difference between boosting and bagging?",
+              "answer": "Boosting sequentially improves weak models by focusing on errors, while bagging combines multiple models to reduce variance."
+            },
+            {
+              "id": 74,
+              "category": "AI algorithms",
+              "question": "What is transfer learning?",
+              "answer": "Transfer learning is a technique where a pre-trained AI model is adapted for a different but related task to improve efficiency."
+            },
+            
+                {
+                  "id": 75,
+                  "category": "artificial intelligence",
+                  "question": "What are the main applications of AI?",
+                  "answer": "AI is used in healthcare, finance, robotics, autonomous vehicles, cybersecurity, customer service, and many other fields."
+                },
+                {
+                  "id": 76,
+                  "category": "artificial intelligence",
+                  "question": "What is the difference between AI and human intelligence?",
+                  "answer": "AI processes data and performs tasks based on algorithms, while human intelligence involves reasoning, emotions, and creativity."
+                },
+                {
+                  "id": 77,
+                  "category": "artificial intelligence",
+                  "question": "What are the advantages of AI?",
+                  "answer": "AI improves efficiency, automates tasks, reduces errors, enhances decision-making, and processes large amounts of data quickly."
+                },
+                {
+                  "id": 78,
+                  "category": "artificial intelligence",
+                  "question": "What are the limitations of AI?",
+                  "answer": "AI lacks creativity, requires large amounts of data, can be biased, and needs human supervision for ethical concerns."
+                },
+                {
+                  "id": 79,
+                  "category": "artificial intelligence",
+                  "question": "What is an AI model?",
+                  "answer": "An AI model is a mathematical representation of a system trained on data to recognize patterns and make predictions."
+                },
+                {
+                  "id": 80,
+                  "category": "artificial intelligence",
+                  "question": "What is an AI pipeline?",
+                  "answer": "An AI pipeline is a sequence of steps including data collection, preprocessing, model training, evaluation, and deployment."
+                },
+                {
+                  "id": 81,
+                  "category": "artificial intelligence",
+                  "question": "What is an AI framework?",
+                  "answer": "An AI framework is a software library like TensorFlow or PyTorch that provides tools to build and train AI models."
+                },
+                {
+                  "id": 82,
+                  "category": "artificial intelligence",
+                  "question": "What is the difference between strong AI and weak AI?",
+                  "answer": "Strong AI can perform human-like reasoning, while weak AI is designed for specific tasks like image recognition or chatbots."
+                },
+                {
+                  "id": 83,
+                  "category": "artificial intelligence",
+                  "question": "What is fuzzy logic in AI?",
+                  "answer": "Fuzzy logic is an AI approach that deals with uncertainty and approximate reasoning, rather than strict true/false values."
+                },
+                {
+                  "id": 84,
+                  "category": "artificial intelligence",
+                  "question": "What is an expert system in AI?",
+                  "answer": "An expert system is an AI program that mimics human decision-making by using rules and a knowledge base."
+                },
+                {
+                  "id": 85,
+                  "category": "artificial intelligence",
+                  "question": "What is the role of data in AI?",
+                  "answer": "Data is essential in AI as it trains models, helps improve accuracy, and enables AI systems to learn patterns."
+                },
+                {
+                  "id": 86,
+                  "category": "artificial intelligence",
+                  "question": "What is overfitting in AI?",
+                  "answer": "Overfitting occurs when an AI model learns too much from training data, making it perform poorly on new data."
+                },
+                {
+                  "id": 87,
+                  "category": "artificial intelligence",
+                  "question": "What is underfitting in AI?",
+                  "answer": "Underfitting happens when an AI model is too simple and fails to capture important patterns in the training data."
+                },
+                {
+                  "id": 88,
+                  "category": "artificial intelligence",
+                  "question": "What is model evaluation in AI?",
+                  "answer": "Model evaluation assesses an AI model's performance using metrics like accuracy, precision, recall, and F1-score."
+                },
+                {
+                  "id": 89,
+                  "category": "artificial intelligence",
+                  "question": "What is transfer learning in AI?",
+                  "answer": "Transfer learning allows AI models to use knowledge from previous training to improve performance on new tasks."
+                },
+                {
+                  "id": 90,
+                  "category": "artificial intelligence",
+                  "question": "What is AI bias?",
+                  "answer": "AI bias occurs when models produce unfair or discriminatory results due to biased training data or algorithms."
+                },
+                {
+                  "id": 91,
+                  "category": "artificial intelligence",
+                  "question": "What is Explainable AI (XAI)?",
+                  "answer": "Explainable AI refers to AI systems that provide understandable and transparent decision-making processes."
+                },
+                {
+                  "id": 92,
+                  "category": "artificial intelligence",
+                  "question": "What is an AI chatbot?",
+                  "answer": "An AI chatbot is a program that uses NLP and machine learning to simulate human conversations."
+                },
+                {
+                  "id": 93,
+                  "category": "artificial intelligence",
+                  "question": "What is the role of big data in AI?",
+                  "answer": "Big data provides large datasets for AI to learn from, improving accuracy and decision-making capabilities."
+                },
+                {
+                  "id": 94,
+                  "category": "artificial intelligence",
+                  "question": "What is reinforcement learning?",
+                  "answer": "Reinforcement learning is a type of AI training where an agent learns by interacting with an environment and receiving rewards."
+                },
+                {
+                  "id": 95,
+                  "category": "artificial intelligence",
+                  "question": "What is a chatbot?",
+                  "answer": "A chatbot is an AI-powered virtual assistant designed to interact with users through text or voice conversations."
+                },
+                {
+                  "id": 96,
+                  "category": "artificial intelligence",
+                  "question": "What is artificial general intelligence (AGI)?",
+                  "answer": "AGI refers to AI systems that have human-like intelligence and can perform any intellectual task like a human."
+                },
+                {
+                  "id": 97,
+                  "category": "artificial intelligence",
+                  "question": "What is a convolutional neural network (CNN)?",
+                  "answer": "A CNN is a deep learning algorithm designed for image and video recognition tasks."
+                },
+                {
+                  "id": 98,
+                  "category": "artificial intelligence",
+                  "question": "What is a recurrent neural network (RNN)?",
+                  "answer": "An RNN is a type of neural network used for sequential data like speech, time series, and natural language."
+                },
+                {
+                  "id": 99,
+                  "category": "artificial intelligence",
+                  "question": "What is semi-supervised learning?",
+                  "answer": "Semi-supervised learning is a mix of supervised and unsupervised learning, where a small amount of labeled data guides the learning process."
+                },
+                {
+                  "id": 100,
+                  "category": "artificial intelligence",
+                  "question": "What is a generative adversarial network (GAN)?",
+                  "answer": "A GAN is a deep learning model where two networks compete to generate realistic data, such as images or text."
+                },
+                {
+                  "id": 101,
+                  "category": "artificial intelligence",
+                  "question": "What is a transformer model in AI?",
+                  "answer": "A transformer model is a deep learning architecture used for NLP tasks, such as translation and text generation."
+                },
+                {
+                  "id": 102,
+                  "category": "artificial intelligence",
+                  "question": "What is the role of ethics in AI?",
+                  "answer": "AI ethics ensures that AI systems are fair, unbiased, and do not cause harm to society."
+                },
+                {
+                  "id": 103,
+                  "category": "artificial intelligence",
+                  "question": "What is edge AI?",
+                  "answer": "Edge AI processes data locally on devices instead of relying on cloud computing, improving speed and privacy."
+                },
+                {
+                  "id": 104,
+                  "category": "artificial intelligence",
+                  "question": "What is data augmentation in AI?",
+                  "answer": "Data augmentation is a technique used to artificially increase the size of a dataset by modifying existing data."
+                }
+              ]
+              
+          
+          
+
+        
       }
-    ]
-  }
+      
+        
+      
+      
+  
+  
+    
+  
   
