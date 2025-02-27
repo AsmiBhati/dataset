@@ -1,0 +1,125 @@
+{
+    "AI": [
+      {
+        "id": 1,
+        "category": "artificial intelligence",
+        "question": "What is artificial intelligence?",
+        "answer": "Artificial intelligence (AI) refers to the simulation of human intelligence in machines that can perform tasks such as learning, reasoning, and problem-solving."
+      },
+      {
+        "id": 2,
+        "category": "artificial intelligence",
+        "question": "What is machine learning?",
+        "answer": "Machine learning is a subset of AI that enables systems to learn from data and improve their performance over time without being explicitly programmed."
+      },
+      {
+        "id": 3,
+        "category": "artificial intelligence",
+        "question": "What are neural networks?",
+        "answer": "Neural networks are a series of algorithms designed to recognize patterns and make predictions, inspired by the structure of the human brain."
+      },
+      {
+        "id": 4,
+        "category": "artificial intelligence",
+        "question": "What is deep learning?",
+        "answer": "Deep learning is a subset of machine learning that uses neural networks with multiple layers to analyze complex patterns in large datasets."
+      },
+      {
+        "id": 5,
+        "category": "artificial intelligence",
+        "question": "How is AI used in healthcare?",
+        "answer": "AI is used in healthcare for disease diagnosis, drug discovery, personalized treatment, robotic surgery, and patient monitoring."
+      },
+      {
+        "id": 6,
+        "category": "artificial intelligence",
+        "question": "What is natural language processing (NLP)?",
+        "answer": "Natural language processing (NLP) is a field of AI that focuses on enabling computers to understand, interpret, and respond to human language."
+      },
+      {
+        "id": 7,
+        "category": "artificial intelligence",
+        "question": "What are the ethical concerns of AI?",
+        "answer": "Ethical concerns of AI include bias in algorithms, job displacement, data privacy issues, and the potential misuse of autonomous systems."
+      },
+      {
+        "id": 8,
+        "category": "artificial intelligence",
+        "question": "What is reinforcement learning?",
+        "answer": "Reinforcement learning is a type of machine learning where an agent learns to make decisions by receiving rewards or penalties based on its actions."
+      },
+      {
+        "id": 9,
+        "category": "artificial intelligence",
+        "question": "What is computer vision?",
+        "answer": "Computer vision is an AI field that enables machines to interpret and make decisions based on visual data from the real world."
+      },
+      {
+        "id": 10,
+        "category": "artificial intelligence",
+        "question": "What is generative AI?",
+        "answer": "Generative AI refers to models that create new content, such as text, images, or music, by learning patterns from existing data."
+      },
+      {
+        "id": 11,
+        "category": "artificial intelligence",
+        "question": "What is explainable AI (XAI)?",
+        "answer": "Explainable AI (XAI) refers to techniques that make AI model decisions transparent, interpretable, and understandable to humans."
+      },
+      {
+        "id": 12,
+        "category": "artificial intelligence",
+        "question": "How does AI contribute to autonomous vehicles?",
+        "answer": "AI enables autonomous vehicles by processing sensor data, recognizing objects, predicting movements, and making real-time driving decisions."
+      },
+      {
+        "id": 13,
+        "category": "artificial intelligence",
+        "question": "What is federated learning?",
+        "answer": "Federated learning is a technique that allows AI models to train across decentralized devices without sharing raw data, enhancing privacy."
+      },
+      {
+        "id": 14,
+        "category": "artificial intelligence",
+        "question": "What role does AI play in robotics?",
+        "answer": "AI in robotics enables autonomous navigation, object manipulation, real-time decision-making, and human-robot interaction."
+      },
+      {
+        "id": 15,
+        "category": "artificial intelligence",
+        "question": "How is AI transforming the education sector?",
+        "answer": "AI personalizes learning, automates administrative tasks, provides intelligent tutoring, and enables adaptive assessments."
+      },
+      {
+        "id": 16,
+        "category": "artificial intelligence",
+        "question": "What is the Turing Test?",
+        "answer": "The Turing Test, proposed by Alan Turing, evaluates a machine’s ability to exhibit intelligent behavior indistinguishable from that of a human."
+      },
+      {
+        "id": 17,
+        "category": "artificial intelligence",
+        "question": "How is AI used in cybersecurity?",
+        "answer": "AI enhances cybersecurity by detecting anomalies, automating threat detection, and improving incident response through machine learning models."
+      },
+      {
+        "id": 18,
+        "category": "artificial intelligence",
+        "question": "What is an AI chatbot?",
+        "answer": "An AI chatbot is a virtual assistant that uses natural language processing and machine learning to interact with users and provide responses automatically."
+      },
+      {
+        "id": 19,
+        "category": "artificial intelligence",
+        "question": "What is an AI recommendation system?",
+        "answer": "An AI recommendation system uses algorithms to analyze user behavior and suggest content, products, or services."
+      },
+      {
+        "id": 20,
+        "category": "artificial intelligence",
+        "question": "How does AI detect fraud?",
+        "answer": "AI detects fraud by analyzing patterns in transactions, identifying anomalies, and flagging suspicious activities."
+      }
+    ]
+  }
+  
