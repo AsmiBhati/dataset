@@ -3975,8 +3975,71 @@
                                     "category": "vulnerability scanning",
                                     "question": "What is the role of machine learning in vulnerability scanning?",
                                     "answer": "Machine learning improves vulnerability detection by analyzing patterns, reducing false positives, and predicting emerging threats."
-                                  }
-                                ]
+                                  },
+                                  
+                                    {
+                                      "id": 661,
+                                      "category": "brute force",
+                                      "question": "What is a brute force attack?",
+                                      "answer": "A brute force attack is a trial-and-error method used to guess passwords, encryption keys, or login credentials."
+                                    },
+                                    {
+                                      "id": 662,
+                                      "category": "brute force",
+                                      "question": "How does a brute force attack work?",
+                                      "answer": "A brute force attack systematically tries different combinations of characters until the correct one is found."
+                                    },
+                                    {
+                                      "id": 663,
+                                      "category": "brute force",
+                                      "question": "What are the types of brute force attacks?",
+                                      "answer": "Types include simple brute force, dictionary attacks, hybrid attacks, reverse brute force, and credential stuffing."
+                                    },
+                                    {
+                                      "id": 664,
+                                      "category": "brute force",
+                                      "question": "What is a dictionary attack?",
+                                      "answer": "A dictionary attack is a type of brute force attack that uses a list of common passwords or words to guess credentials."
+                                    },
+                                    {
+                                      "id": 665,
+                                      "category": "brute force",
+                                      "question": "What is credential stuffing?",
+                                      "answer": "Credential stuffing is a brute force attack where attackers use leaked username-password pairs to gain unauthorized access."
+                                    },
+                                    {
+                                      "id": 666,
+                                      "category": "brute force",
+                                      "question": "What is a hybrid brute force attack?",
+                                      "answer": "A hybrid attack combines dictionary attacks with slight modifications, such as adding numbers or symbols to words."
+                                    },
+                                    {
+                                      "id": 667,
+                                      "category": "brute force",
+                                      "question": "What are common tools used for brute force attacks?",
+                                      "answer": "Common tools include Hydra, John the Ripper, Aircrack-ng, and Hashcat."
+                                    },
+                                    {
+                                      "id": 668,
+                                      "category": "brute force",
+                                      "question": "How can users protect against brute force attacks?",
+                                      "answer": "Users can protect against brute force attacks by using strong passwords, enabling multi-factor authentication, and implementing account lockout policies."
+                                    },
+                                    {
+                                      "id": 669,
+                                      "category": "brute force",
+                                      "question": "What is an account lockout policy?",
+                                      "answer": "An account lockout policy temporarily locks a user account after multiple failed login attempts to prevent brute force attacks."
+                                    },
+                                    {
+                                      "id": 670,
+                                      "category": "brute force",
+                                      "question": "Why is multi-factor authentication (MFA) effective against brute force attacks?",
+                                      "answer": "MFA requires additional verification beyond a password, making it significantly harder for attackers to gain access through brute force methods."
+                                    }
+                                  ]
+                                  
+                                
                                 
                               
                               
