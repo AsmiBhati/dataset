@@ -3189,8 +3189,254 @@
                         "category": "cybersecurity",
                         "question": "What is a supply chain attack in cybersecurity?",
                         "answer": "A supply chain attack targets vulnerabilities in third-party vendors, software, or hardware used by an organization. Attackers compromise suppliers to infiltrate the primary target's network."
-                      }
-                    ]
+                      },
+                      
+                        {
+                          "id": 531,
+                          "category": "cybersecurity",
+                          "question": "What is a rootkit in cybersecurity?",
+                          "answer": "A rootkit is a type of malicious software designed to gain unauthorized root-level access to a system and remain undetected by hiding its presence from security tools."
+                        },
+                        {
+                          "id": 532,
+                          "category": "cybersecurity",
+                          "question": "What is session hijacking?",
+                          "answer": "Session hijacking is an attack where a malicious actor takes control of a user's session by stealing session tokens, enabling them to impersonate the user."
+                        },
+                        {
+                          "id": 533,
+                          "category": "cybersecurity",
+                          "question": "What is a buffer overflow attack?",
+                          "answer": "A buffer overflow attack occurs when an application writes more data to a buffer than it can handle, causing memory corruption and allowing attackers to execute arbitrary code."
+                        },
+                        {
+                          "id": 534,
+                          "category": "cybersecurity",
+                          "question": "What is an SQL injection attack?",
+                          "answer": "SQL injection is a web application attack that exploits vulnerabilities in SQL queries to gain unauthorized access to databases, allowing attackers to read, modify, or delete data."
+                        },
+                        {
+                          "id": 535,
+                          "category": "cybersecurity",
+                          "question": "What is cybersecurity risk assessment?",
+                          "answer": "Cybersecurity risk assessment is the process of identifying, analyzing, and prioritizing security risks to an organization's digital assets and systems."
+                        },
+                        {
+                          "id": 536,
+                          "category": "cybersecurity",
+                          "question": "What is a digital certificate?",
+                          "answer": "A digital certificate is an electronic document issued by a Certificate Authority (CA) that verifies the authenticity of an entity and enables secure communication using encryption."
+                        },
+                        {
+                          "id": 537,
+                          "category": "cybersecurity",
+                          "question": "What is a honeypot in cybersecurity?",
+                          "answer": "A honeypot is a decoy system set up to attract cyber attackers, allowing security professionals to study attack methods and enhance defense mechanisms."
+                        },
+                        {
+                          "id": 538,
+                          "category": "cybersecurity",
+                          "question": "What is an attack surface in cybersecurity?",
+                          "answer": "An attack surface refers to the total number of potential entry points where an attacker can try to exploit a system, including software, hardware, and network interfaces."
+                        },
+                        {
+                          "id": 539,
+                          "category": "cybersecurity",
+                          "question": "What is privilege escalation?",
+                          "answer": "Privilege escalation is an attack technique where an attacker gains higher access rights than originally granted, often exploiting vulnerabilities to achieve administrative privileges."
+                        },
+                        {
+                          "id": 540,
+                          "category": "cybersecurity",
+                          "question": "What is the CIA triad in cybersecurity?",
+                          "answer": "The CIA triad stands for Confidentiality, Integrity, and Availability—three core principles ensuring secure and reliable information systems."
+                        },
+                        {
+                          "id": 541,
+                          "category": "cybersecurity",
+                          "question": "What is cyber forensics?",
+                          "answer": "Cyber forensics is the process of collecting, analyzing, and preserving digital evidence from cybercrime incidents for legal and investigative purposes."
+                        },
+                        {
+                          "id": 542,
+                          "category": "cybersecurity",
+                          "question": "What is a logic bomb?",
+                          "answer": "A logic bomb is malicious code inserted into a program that triggers harmful actions when specific conditions are met, such as a certain date or user action."
+                        },
+                        {
+                          "id": 543,
+                          "category": "cybersecurity",
+                          "question": "What is whitelisting in cybersecurity?",
+                          "answer": "Whitelisting is a security measure that allows only pre-approved applications, IP addresses, or users to access a system while blocking everything else."
+                        },
+                        {
+                          "id": 544,
+                          "category": "cybersecurity",
+                          "question": "What is blacklisting in cybersecurity?",
+                          "answer": "Blacklisting is a security approach that blocks known malicious applications, IP addresses, or users while allowing all other traffic by default."
+                        },
+                        {
+                          "id": 545,
+                          "category": "cybersecurity",
+                          "question": "What is a keylogger?",
+                          "answer": "A keylogger is a type of spyware that records keystrokes on a compromised device, often used to steal login credentials and sensitive data."
+                        },
+                        {
+                          "id": 546,
+                          "category": "cybersecurity",
+                          "question": "What is the difference between IDS and IPS?",
+                          "answer": "An Intrusion Detection System (IDS) monitors and alerts administrators about threats, whereas an Intrusion Prevention System (IPS) actively blocks threats in real-time."
+                        },
+                        {
+                          "id": 547,
+                          "category": "cybersecurity",
+                          "question": "What is malware analysis?",
+                          "answer": "Malware analysis is the process of examining malicious software to understand its functionality, behavior, and impact on systems."
+                        },
+                        {
+                          "id": 548,
+                          "category": "cybersecurity",
+                          "question": "What is an insider threat?",
+                          "answer": "An insider threat is a security risk posed by employees, contractors, or other insiders who misuse their access to compromise an organization's security."
+                        },
+                        {
+                          "id": 549,
+                          "category": "cybersecurity",
+                          "question": "What is cyber hygiene?",
+                          "answer": "Cyber hygiene refers to the best practices and habits users should follow to maintain security and reduce vulnerabilities in digital systems."
+                        },
+                        {
+                          "id": 550,
+                          "category": "cybersecurity",
+                          "question": "What is a denial-of-service (DoS) attack?",
+                          "answer": "A DoS attack is an attempt to overwhelm a system or network with excessive requests, rendering it unavailable to legitimate users."
+                        },
+                        {
+                          "id": 551,
+                          "category": "cybersecurity",
+                          "question": "What is the principle of least privilege (PoLP)?",
+                          "answer": "The principle of least privilege (PoLP) is a security concept where users and applications are granted only the minimum permissions necessary to perform their tasks."
+                        },
+                        {
+                          "id": 552,
+                          "category": "cybersecurity",
+                          "question": "What is cyber resilience?",
+                          "answer": "Cyber resilience is an organization's ability to prepare for, respond to, and recover from cyber threats while maintaining business continuity."
+                        },
+                        {
+                          "id": 553,
+                          "category": "cybersecurity",
+                          "question": "What is spear phishing?",
+                          "answer": "Spear phishing is a targeted phishing attack where attackers craft personalized messages to trick specific individuals into revealing sensitive information."
+                        },
+                        {
+                          "id": 554,
+                          "category": "cybersecurity",
+                          "question": "What is an API security vulnerability?",
+                          "answer": "An API security vulnerability is a weakness in an API that can be exploited to steal data, perform unauthorized actions, or compromise system integrity."
+                        },
+                        {
+                          "id": 555,
+                          "category": "cybersecurity",
+                          "question": "What is a security incident response plan?",
+                          "answer": "A security incident response plan is a predefined set of procedures an organization follows to detect, respond to, and recover from cybersecurity incidents."
+                        },
+                        {
+                          "id": 556,
+                          "category": "cybersecurity",
+                          "question": "What is cryptographic hashing?",
+                          "answer": "Cryptographic hashing is a process that converts input data into a fixed-length string, making it nearly impossible to reverse, commonly used for data integrity verification."
+                        },
+                        {
+                          "id": 557,
+                          "category": "cybersecurity",
+                          "question": "What is a security token?",
+                          "answer": "A security token is a physical or digital device used for authentication, generating one-time passwords (OTPs) or providing multi-factor authentication."
+                        },
+                        
+                          {
+                            "id": 558,
+                            "category": "pentesting",
+                            "question": "What is penetration testing?",
+                            "answer": "Penetration testing (pentesting) is a simulated cyber attack performed to identify vulnerabilities in a system, application, or network before attackers can exploit them."
+                          },
+                          {
+                            "id": 559,
+                            "category": "pentesting",
+                            "question": "What are the different types of penetration testing?",
+                            "answer": "The main types of penetration testing include network penetration testing, web application testing, wireless testing, social engineering, and physical security testing."
+                          },
+                          {
+                            "id": 560,
+                            "category": "pentesting",
+                            "question": "What is the difference between black-box, white-box, and gray-box testing?",
+                            "answer": "Black-box testing simulates an external attack with no prior knowledge of the system, white-box testing provides full internal access, and gray-box testing offers partial knowledge, mimicking an insider threat."
+                          },
+                          {
+                            "id": 561,
+                            "category": "pentesting",
+                            "question": "What are the main phases of penetration testing?",
+                            "answer": "Penetration testing typically includes five phases: reconnaissance, scanning, exploitation, maintaining access, and reporting."
+                          },
+                          {
+                            "id": 562,
+                            "category": "pentesting",
+                            "question": "What is reconnaissance in penetration testing?",
+                            "answer": "Reconnaissance, or information gathering, is the initial phase of pentesting where testers collect data about the target system using open-source intelligence (OSINT) and passive or active techniques."
+                          },
+                          {
+                            "id": 563,
+                            "category": "pentesting",
+                            "question": "What tools are commonly used for penetration testing?",
+                            "answer": "Common pentesting tools include Nmap for network scanning, Metasploit for exploitation, Burp Suite for web application testing, and Wireshark for packet analysis."
+                          },
+                          {
+                            "id": 564,
+                            "category": "pentesting",
+                            "question": "What is privilege escalation in pentesting?",
+                            "answer": "Privilege escalation is the process of exploiting vulnerabilities to gain higher-level access (e.g., from user to administrator) within a system."
+                          },
+                          {
+                            "id": 565,
+                            "category": "pentesting",
+                            "question": "What is the importance of reporting in penetration testing?",
+                            "answer": "Reporting is crucial as it documents findings, exploited vulnerabilities, attack methods used, and recommendations for fixing security issues."
+                          },
+                          {
+                            "id": 566,
+                            "category": "pentesting",
+                            "question": "What is social engineering in penetration testing?",
+                            "answer": "Social engineering in pentesting involves tricking individuals into revealing confidential information or performing actions that compromise security, such as phishing or pretexting attacks."
+                          },
+                          {
+                            "id": 567,
+                            "category": "pentesting",
+                            "question": "What is an exploit in penetration testing?",
+                            "answer": "An exploit is a piece of code or technique used to take advantage of a vulnerability in a system to gain unauthorized access or control."
+                          },
+                          {
+                            "id": 568,
+                            "category": "pentesting",
+                            "question": "What is post-exploitation in penetration testing?",
+                            "answer": "Post-exploitation refers to actions taken after a successful attack, such as maintaining access, extracting data, or pivoting to other systems in the network."
+                          },
+                          {
+                            "id": 569,
+                            "category": "pentesting",
+                            "question": "What is lateral movement in penetration testing?",
+                            "answer": "Lateral movement is a technique used by attackers to move across a network after gaining initial access, often to reach more valuable systems or data."
+                          },
+                          {
+                            "id": 570,
+                            "category": "pentesting",
+                            "question": "What are some ethical considerations in penetration testing?",
+                            "answer": "Ethical considerations include obtaining proper authorization, respecting privacy, following a defined scope, and responsibly reporting vulnerabilities without causing harm."
+                          }
+                        ]
+                        
+                      
+                      
+                    
                     
                   
                   
