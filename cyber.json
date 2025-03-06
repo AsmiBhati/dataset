@@ -4036,8 +4036,374 @@
                                       "category": "brute force",
                                       "question": "Why is multi-factor authentication (MFA) effective against brute force attacks?",
                                       "answer": "MFA requires additional verification beyond a password, making it significantly harder for attackers to gain access through brute force methods."
-                                    }
-                                  ]
+                                    },
+                                    
+                                      {
+                                        "id": 671,
+                                        "category": "brute force",
+                                        "question": "What is a reverse brute force attack?",
+                                        "answer": "A reverse brute force attack uses a known password or common password and attempts to match it with multiple usernames."
+                                      },
+                                      {
+                                        "id": 672,
+                                        "category": "brute force",
+                                        "question": "What is a rainbow table attack?",
+                                        "answer": "A rainbow table attack is a type of brute force attack that uses precomputed hash values to crack passwords faster."
+                                      },
+                                      {
+                                        "id": 673,
+                                        "category": "brute force",
+                                        "question": "Why are weak passwords vulnerable to brute force attacks?",
+                                        "answer": "Weak passwords are easier to guess due to their short length, lack of complexity, or presence in common password lists."
+                                      },
+                                      {
+                                        "id": 674,
+                                        "category": "brute force",
+                                        "question": "What are CAPTCHA challenges used for?",
+                                        "answer": "CAPTCHA challenges help prevent automated brute force attacks by requiring human verification during login attempts."
+                                      },
+                                      {
+                                        "id": 675,
+                                        "category": "brute force",
+                                        "question": "What is rate limiting in cybersecurity?",
+                                        "answer": "Rate limiting restricts the number of login attempts from a single IP address to prevent brute force attacks."
+                                      },
+                                      {
+                                        "id": 676,
+                                        "category": "brute force",
+                                        "question": "How does IP blacklisting help against brute force attacks?",
+                                        "answer": "IP blacklisting blocks known malicious IP addresses from accessing login portals, reducing brute force attempts."
+                                      },
+                                      {
+                                        "id": 677,
+                                        "category": "brute force",
+                                        "question": "What is the role of salted hashes in preventing brute force attacks?",
+                                        "answer": "Salting adds random data to passwords before hashing, making precomputed attacks like rainbow tables ineffective."
+                                      },
+                                      {
+                                        "id": 678,
+                                        "category": "brute force",
+                                        "question": "What are account lockout thresholds?",
+                                        "answer": "Account lockout thresholds define the maximum number of failed login attempts before temporarily disabling an account."
+                                      },
+                                      {
+                                        "id": 679,
+                                        "category": "brute force",
+                                        "question": "How do attackers bypass account lockout policies?",
+                                        "answer": "Attackers may use distributed brute force attacks across multiple IP addresses or delay attempts to avoid triggering lockouts."
+                                      },
+                                      {
+                                        "id": 680,
+                                        "category": "brute force",
+                                        "question": "What is a distributed brute force attack?",
+                                        "answer": "A distributed brute force attack uses multiple IP addresses or botnets to evade detection and bypass security controls."
+                                      },
+                                      {
+                                        "id": 681,
+                                        "category": "brute force",
+                                        "question": "Why do attackers target remote desktop protocol (RDP) with brute force attacks?",
+                                        "answer": "RDP is commonly targeted because weak or default credentials can provide direct access to systems."
+                                      },
+                                      {
+                                        "id": 682,
+                                        "category": "brute force",
+                                        "question": "How does two-factor authentication (2FA) mitigate brute force attacks?",
+                                        "answer": "2FA requires an additional authentication step beyond a password, making unauthorized access more difficult."
+                                      },
+                                      {
+                                        "id": 683,
+                                        "category": "brute force",
+                                        "question": "What is an SSH brute force attack?",
+                                        "answer": "An SSH brute force attack targets Secure Shell (SSH) services by repeatedly attempting to guess login credentials."
+                                      },
+                                      {
+                                        "id": 684,
+                                        "category": "brute force",
+                                        "question": "What is a cloud-based brute force attack?",
+                                        "answer": "A cloud-based brute force attack uses cloud computing resources to launch large-scale automated login attempts."
+                                      },
+                                      {
+                                        "id": 685,
+                                        "category": "brute force",
+                                        "question": "How can organizations prevent brute force attacks on web applications?",
+                                        "answer": "Organizations can implement CAPTCHA, rate limiting, account lockouts, and multi-factor authentication to mitigate brute force attacks."
+                                      },
+                                      {
+                                        "id": 686,
+                                        "category": "brute force",
+                                        "question": "What is the difference between online and offline brute force attacks?",
+                                        "answer": "Online attacks target live systems, while offline attacks use stolen password hashes to guess passwords locally."
+                                      },
+                                      {
+                                        "id": 687,
+                                        "category": "brute force",
+                                        "question": "How does network segmentation help prevent brute force attacks?",
+                                        "answer": "Network segmentation limits exposure to critical systems, reducing the attack surface for brute force attempts."
+                                      },
+                                      {
+                                        "id": 688,
+                                        "category": "brute force",
+                                        "question": "What role does logging and monitoring play in detecting brute force attacks?",
+                                        "answer": "Logging and monitoring help detect repeated failed login attempts and suspicious authentication patterns."
+                                      },
+                                      {
+                                        "id": 689,
+                                        "category": "brute force",
+                                        "question": "What is the impact of password reuse in brute force attacks?",
+                                        "answer": "Password reuse allows attackers to use leaked credentials from one site to gain access to multiple accounts."
+                                      },
+                                      {
+                                        "id": 690,
+                                        "category": "brute force",
+                                        "question": "What is honeypot technology, and how does it help prevent brute force attacks?",
+                                        "answer": "Honeypots act as decoy systems to lure attackers, logging their activities and preventing real system compromise."
+                                      },
+                                      {
+                                        "id": 691,
+                                        "category": "brute force",
+                                        "question": "What is an adaptive authentication system?",
+                                        "answer": "Adaptive authentication adjusts security requirements based on user behavior, reducing the risk of brute force attacks."
+                                      },
+                                      {
+                                        "id": 692,
+                                        "category": "brute force",
+                                        "question": "What is an API brute force attack?",
+                                        "answer": "An API brute force attack targets API endpoints by attempting multiple authentication requests with guessed credentials."
+                                      },
+                                      {
+                                        "id": 693,
+                                        "category": "brute force",
+                                        "question": "How does password expiration help defend against brute force attacks?",
+                                        "answer": "Regular password changes reduce the chances of attackers using old leaked passwords in brute force attempts."
+                                      },
+                                      {
+                                        "id": 694,
+                                        "category": "brute force",
+                                        "question": "Why should organizations avoid using default credentials?",
+                                        "answer": "Default credentials are widely known and easily exploited in brute force and automated attacks."
+                                      },
+                                      {
+                                        "id": 695,
+                                        "category": "brute force",
+                                        "question": "How does AI help detect brute force attacks?",
+                                        "answer": "AI analyzes login patterns and anomalies to detect and block brute force attempts in real time."
+                                      },
+                                      {
+                                        "id": 696,
+                                        "category": "brute force",
+                                        "question": "How does browser fingerprinting help in preventing brute force attacks?",
+                                        "answer": "Browser fingerprinting tracks device characteristics to detect suspicious login attempts and block brute force attacks."
+                                      },
+                                      {
+                                        "id": 697,
+                                        "category": "brute force",
+                                        "question": "What is the role of behavioral analytics in preventing brute force attacks?",
+                                        "answer": "Behavioral analytics detect unusual login behaviors, flagging potential brute force attempts."
+                                      },
+                                      {
+                                        "id": 698,
+                                        "category": "brute force",
+                                        "question": "How can firewalls help protect against brute force attacks?",
+                                        "answer": "Firewalls can block repeated failed login attempts and restrict access from suspicious IP addresses."
+                                      },
+                                      {
+                                        "id": 699,
+                                        "category": "brute force",
+                                        "question": "What is the impact of using long and complex passwords in preventing brute force attacks?",
+                                        "answer": "Long and complex passwords significantly increase the time and resources required for brute force attacks."
+                                      },
+                                      {
+                                        "id": 700,
+                                        "category": "brute force",
+                                        "question": "What is the role of a Web Application Firewall (WAF) in preventing brute force attacks?",
+                                        "answer": "A WAF can detect and block automated brute force attempts targeting login pages and API endpoints."
+                                      },
+                                      
+                                        {
+                                          "id": 701,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is vulnerability scanning?",
+                                          "answer": "Vulnerability scanning is the automated process of identifying security weaknesses in systems, networks, and applications."
+                                        },
+                                        {
+                                          "id": 702,
+                                          "category": "vulnerability scanning",
+                                          "question": "What are the types of vulnerability scans?",
+                                          "answer": "Types include network-based, host-based, application-based, and database vulnerability scans."
+                                        },
+                                        {
+                                          "id": 703,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is the difference between authenticated and unauthenticated vulnerability scans?",
+                                          "answer": "Authenticated scans have access to system credentials for deeper analysis, while unauthenticated scans analyze external exposures."
+                                        },
+                                        {
+                                          "id": 704,
+                                          "category": "vulnerability scanning",
+                                          "question": "Why is vulnerability scanning important?",
+                                          "answer": "It helps identify security weaknesses before attackers exploit them, improving overall cybersecurity posture."
+                                        },
+                                        {
+                                          "id": 705,
+                                          "category": "vulnerability scanning",
+                                          "question": "What are some common vulnerability scanning tools?",
+                                          "answer": "Common tools include Nessus, OpenVAS, Qualys, Rapid7 Nexpose, and Nmap."
+                                        },
+                                        {
+                                          "id": 706,
+                                          "category": "vulnerability scanning",
+                                          "question": "How often should vulnerability scanning be performed?",
+                                          "answer": "Regular scans should be conducted weekly, monthly, or after major system changes to maintain security."
+                                        },
+                                        {
+                                          "id": 707,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is a zero-day vulnerability?",
+                                          "answer": "A zero-day vulnerability is an undiscovered security flaw that attackers can exploit before a patch is available."
+                                        },
+                                        {
+                                          "id": 708,
+                                          "category": "vulnerability scanning",
+                                          "question": "How does a network vulnerability scan work?",
+                                          "answer": "It scans network devices for open ports, outdated software, and misconfigurations that could be exploited."
+                                        },
+                                        {
+                                          "id": 709,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is the difference between penetration testing and vulnerability scanning?",
+                                          "answer": "Vulnerability scanning identifies security weaknesses, while penetration testing actively exploits vulnerabilities to assess risks."
+                                        },
+                                        {
+                                          "id": 710,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is CVE in vulnerability scanning?",
+                                          "answer": "CVE (Common Vulnerabilities and Exposures) is a database that categorizes publicly disclosed security vulnerabilities."
+                                        },
+                                        {
+                                          "id": 711,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is CVSS in vulnerability management?",
+                                          "answer": "CVSS (Common Vulnerability Scoring System) rates vulnerabilities based on severity, helping organizations prioritize mitigation efforts."
+                                        },
+                                        {
+                                          "id": 712,
+                                          "category": "vulnerability scanning",
+                                          "question": "How do vulnerability scanners detect security issues?",
+                                          "answer": "They compare system configurations and software versions against known vulnerability databases to identify risks."
+                                        },
+                                        {
+                                          "id": 713,
+                                          "category": "vulnerability scanning",
+                                          "question": "What are false positives in vulnerability scanning?",
+                                          "answer": "False positives occur when a scanner incorrectly identifies a vulnerability that does not actually exist."
+                                        },
+                                        {
+                                          "id": 714,
+                                          "category": "vulnerability scanning",
+                                          "question": "How do organizations handle false positives in vulnerability scanning?",
+                                          "answer": "They verify results through manual testing or penetration testing to reduce unnecessary security efforts."
+                                        },
+                                        {
+                                          "id": 715,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is a remediation strategy in vulnerability management?",
+                                          "answer": "A remediation strategy includes patching, configuration changes, or other security controls to fix identified vulnerabilities."
+                                        },
+                                        {
+                                          "id": 716,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is a risk-based vulnerability management approach?",
+                                          "answer": "It prioritizes vulnerabilities based on potential business impact, exploitability, and critical asset protection."
+                                        },
+                                        {
+                                          "id": 717,
+                                          "category": "vulnerability scanning",
+                                          "question": "How do vulnerability scanners assess web applications?",
+                                          "answer": "They check for issues like SQL injection, cross-site scripting (XSS), and insecure authentication methods."
+                                        },
+                                        {
+                                          "id": 718,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is an external vulnerability scan?",
+                                          "answer": "It assesses public-facing systems like web servers and firewalls for security weaknesses."
+                                        },
+                                        {
+                                          "id": 719,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is an internal vulnerability scan?",
+                                          "answer": "It scans internal networks and systems to identify security risks that attackers could exploit if they gain access."
+                                        },
+                                        {
+                                          "id": 720,
+                                          "category": "vulnerability scanning",
+                                          "question": "What role does machine learning play in vulnerability scanning?",
+                                          "answer": "Machine learning enhances detection by analyzing patterns, reducing false positives, and predicting emerging threats."
+                                        },
+                                        {
+                                          "id": 721,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is an exploit in cybersecurity?",
+                                          "answer": "An exploit is a method used to take advantage of a vulnerability and compromise a system."
+                                        },
+                                        {
+                                          "id": 722,
+                                          "category": "vulnerability scanning",
+                                          "question": "How do compliance standards influence vulnerability scanning?",
+                                          "answer": "Regulations like PCI DSS, HIPAA, and ISO 27001 require regular scanning to maintain security compliance."
+                                        },
+                                        {
+                                          "id": 723,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is a privilege escalation vulnerability?",
+                                          "answer": "It allows attackers to gain higher access privileges within a system by exploiting security flaws."
+                                        },
+                                        {
+                                          "id": 724,
+                                          "category": "vulnerability scanning",
+                                          "question": "How do cloud environments affect vulnerability scanning?",
+                                          "answer": "Cloud environments require specialized scanning tools that assess configurations, permissions, and container security."
+                                        },
+                                        {
+                                          "id": 725,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is the difference between black-box and white-box vulnerability scanning?",
+                                          "answer": "Black-box scanning tests without internal system knowledge, while white-box scanning has full access to source code and configurations."
+                                        },
+                                        {
+                                          "id": 726,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is a hybrid vulnerability scanning approach?",
+                                          "answer": "Hybrid scanning combines automated tools with manual analysis to improve accuracy and reduce false positives."
+                                        },
+                                        {
+                                          "id": 727,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is a container security vulnerability scan?",
+                                          "answer": "It assesses security risks in containerized applications, checking for misconfigurations, outdated images, and privilege issues."
+                                        },
+                                        {
+                                          "id": 728,
+                                          "category": "vulnerability scanning",
+                                          "question": "How does continuous vulnerability scanning improve security?",
+                                          "answer": "Continuous scanning detects new vulnerabilities in real-time, reducing exposure to cyber threats."
+                                        },
+                                        {
+                                          "id": 729,
+                                          "category": "vulnerability scanning",
+                                          "question": "What is a misconfiguration vulnerability?",
+                                          "answer": "A misconfiguration vulnerability arises when security settings are improperly set, exposing systems to attacks."
+                                        },
+                                        {
+                                          "id": 730,
+                                          "category": "vulnerability scanning",
+                                          "question": "Why is patch management important in vulnerability scanning?",
+                                          "answer": "Patch management ensures vulnerabilities are fixed promptly, reducing the risk of exploitation by attackers."
+                                        }
+                                      ]
+                                      
+
+                                    ]                                    
+                                  
                                   
                                 
                                 
