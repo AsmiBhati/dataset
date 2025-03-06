@@ -3067,8 +3067,134 @@
                     "category": "cybersecurity",
                     "question": "What is a JSON Web Token (JWT), and how is it used?",
                     "answer": "A JSON Web Token (JWT) is a compact, URL-safe means of representing claims between two parties. It's commonly used for authentication and authorization in web applications, allowing secure transmission of information between client and server."
-                  }
-                ]
+                  },
+                  
+                    {
+                      "id": 511,
+                      "category": "cybersecurity",
+                      "question": "What is a firewall, and how does it work?",
+                      "answer": "A firewall is a network security device that monitors and filters incoming and outgoing traffic based on predefined security rules. It helps prevent unauthorized access to or from a private network."
+                    },
+                    {
+                      "id": 512,
+                      "category": "cybersecurity",
+                      "question": "What is a zero-day vulnerability?",
+                      "answer": "A zero-day vulnerability is a software flaw that is unknown to the vendor and has no official fix. Attackers exploit these vulnerabilities before they are patched, making them highly dangerous."
+                    },
+                    {
+                      "id": 513,
+                      "category": "cybersecurity",
+                      "question": "What is phishing, and how can users protect themselves?",
+                      "answer": "Phishing is a cyber attack in which attackers impersonate trusted entities to deceive individuals into revealing sensitive information, such as passwords and credit card numbers. Protection methods include verifying email sources, not clicking on suspicious links, and using email filters."
+                    },
+                    {
+                      "id": 514,
+                      "category": "cybersecurity",
+                      "question": "What is an Intrusion Detection System (IDS)?",
+                      "answer": "An Intrusion Detection System (IDS) is a security tool that monitors network or system activities for malicious behavior or policy violations, alerting administrators of potential threats."
+                    },
+                    {
+                      "id": 515,
+                      "category": "cybersecurity",
+                      "question": "What is an Intrusion Prevention System (IPS)?",
+                      "answer": "An Intrusion Prevention System (IPS) is a security device that actively blocks detected threats in real time, preventing malicious traffic from affecting a network or system."
+                    },
+                    {
+                      "id": 516,
+                      "category": "cybersecurity",
+                      "question": "What is the difference between IDS and IPS?",
+                      "answer": "An Intrusion Detection System (IDS) monitors and alerts administrators about potential threats, while an Intrusion Prevention System (IPS) not only detects threats but also actively prevents them from executing."
+                    },
+                    {
+                      "id": 517,
+                      "category": "cybersecurity",
+                      "question": "What is social engineering in cybersecurity?",
+                      "answer": "Social engineering is the manipulation of individuals to disclose confidential information or perform actions that compromise security. Common techniques include phishing, pretexting, and baiting."
+                    },
+                    {
+                      "id": 518,
+                      "category": "cybersecurity",
+                      "question": "What is a botnet, and how does it work?",
+                      "answer": "A botnet is a network of compromised computers controlled by a cybercriminal. These devices are used for malicious activities such as DDoS attacks, spam distribution, and data theft."
+                    },
+                    {
+                      "id": 519,
+                      "category": "cybersecurity",
+                      "question": "What is ransomware, and how can organizations defend against it?",
+                      "answer": "Ransomware is a type of malware that encrypts a victim’s files and demands payment for decryption. Organizations can defend against it by implementing strong backups, educating employees, and using endpoint protection tools."
+                    },
+                    {
+                      "id": 520,
+                      "category": "cybersecurity",
+                      "question": "What is multi-factor authentication (MFA), and why is it important?",
+                      "answer": "Multi-factor authentication (MFA) is a security mechanism that requires multiple forms of verification before granting access. It enhances security by reducing the likelihood of unauthorized access, even if one factor is compromised."
+                    },
+                    {
+                      "id": 521,
+                      "category": "cybersecurity",
+                      "question": "What is a VPN, and how does it enhance security?",
+                      "answer": "A Virtual Private Network (VPN) encrypts internet traffic and masks the user's IP address, providing secure communication over public or untrusted networks."
+                    },
+                    {
+                      "id": 522,
+                      "category": "cybersecurity",
+                      "question": "What is endpoint security?",
+                      "answer": "Endpoint security refers to the protection of individual devices such as computers, smartphones, and tablets from cyber threats through security software like antivirus, firewalls, and intrusion detection systems."
+                    },
+                    {
+                      "id": 523,
+                      "category": "cybersecurity",
+                      "question": "What is an Advanced Persistent Threat (APT)?",
+                      "answer": "An Advanced Persistent Threat (APT) is a prolonged and targeted cyber attack where attackers infiltrate a network to steal data or cause damage while remaining undetected for an extended period."
+                    },
+                    {
+                      "id": 524,
+                      "category": "cybersecurity",
+                      "question": "What is the difference between symmetric and asymmetric encryption?",
+                      "answer": "Symmetric encryption uses a single key for both encryption and decryption, while asymmetric encryption uses a pair of keys (public and private) for secure communication."
+                    },
+                    {
+                      "id": 525,
+                      "category": "cybersecurity",
+                      "question": "What is penetration testing, and why is it important?",
+                      "answer": "Penetration testing is a simulated cyber attack used to evaluate the security of a system. It helps identify vulnerabilities before attackers can exploit them."
+                    },
+                    
+                      {
+                        "id": 526,
+                        "category": "cybersecurity",
+                        "question": "What is a Man-in-the-Middle (MitM) attack?",
+                        "answer": "A Man-in-the-Middle (MitM) attack occurs when an attacker intercepts and potentially alters communication between two parties without their knowledge. It can be prevented using encryption protocols like TLS and VPNs."
+                      },
+                      {
+                        "id": 527,
+                        "category": "cybersecurity",
+                        "question": "What is the difference between black-box, white-box, and gray-box penetration testing?",
+                        "answer": "Black-box testing simulates an external attack with no prior knowledge of the system. White-box testing provides full knowledge of the system, while gray-box testing offers partial knowledge, simulating an insider threat."
+                      },
+                      {
+                        "id": 528,
+                        "category": "cybersecurity",
+                        "question": "What is a security patch, and why is it important?",
+                        "answer": "A security patch is an update released by software vendors to fix vulnerabilities in their software. Applying patches promptly is crucial to protect systems from known exploits."
+                      },
+                      {
+                        "id": 529,
+                        "category": "cybersecurity",
+                        "question": "What is an air-gapped system, and when is it used?",
+                        "answer": "An air-gapped system is a computer or network physically isolated from other networks for security purposes. It is often used in critical infrastructure, military, and financial systems to prevent cyber threats."
+                      },
+                      {
+                        "id": 530,
+                        "category": "cybersecurity",
+                        "question": "What is a supply chain attack in cybersecurity?",
+                        "answer": "A supply chain attack targets vulnerabilities in third-party vendors, software, or hardware used by an organization. Attackers compromise suppliers to infiltrate the primary target's network."
+                      }
+                    ]
+                    
+                  
+                  
+                
                 
                  
       
