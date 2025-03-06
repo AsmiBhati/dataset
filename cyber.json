@@ -3006,9 +3006,72 @@
                   "category": "cybersecurity",
                   "question": "What is segmentation drift in cybersecurity?",
                   "answer": "Segmentation drift occurs when network changes gradually weaken segmentation policies, creating unintended security gaps."
-                }
+                },
+                
+                  {
+                    "id": 501,
+                    "category": "cybersecurity",
+                    "question": "What is two-factor authentication?",
+                    "answer": "Two-factor authentication refers to using any two independent methods from a variety of authentication methods. It enhances security by requiring users to provide two forms of identification before accessing secure systems."
+                  },
+                  {
+                    "id": 502,
+                    "category": "cybersecurity",
+                    "question": "What does XSS stand for, and how can it be prevented?",
+                    "answer": "XSS stands for Cross-Site Scripting, a vulnerability in web applications that allows attackers to execute scripts in users' browsers. It can be prevented by filtering input on arrival, encoding data on output, using proper response headers, and implementing Content Security Policies."
+                  },
+                  {
+                    "id": 503,
+                    "category": "cybersecurity",
+                    "question": "What is a brute force attack, and how can it be mitigated?",
+                    "answer": "A brute force attack is a method for accessing credentials by trial and error—continually attempting all possible combinations until the correct one is found. Mitigation strategies include enforcing maximum password lengths, requiring password complexity, and limiting login attempts."
+                  },
+                  {
+                    "id": 504,
+                    "category": "cybersecurity",
+                    "question": "How does the SSL protocol guarantee network security?",
+                    "answer": "The SSL (Secure Sockets Layer) protocol authenticates the sender and establishes secure connections between browsers and web servers. It uses encryption to protect data during transmission, ensuring confidentiality and integrity."
+                  },
+                  {
+                    "id": 505,
+                    "category": "cybersecurity",
+                    "question": "What is data leakage, and how can it be prevented?",
+                    "answer": "Data leakage is the unauthorized transmission of data from within an organization to an external recipient. It can be prevented using Data Leakage Prevention (DLP) tools, enforcing strict access controls, and educating employees about data handling policies."
+                  },
+                  {
+                    "id": 506,
+                    "category": "cybersecurity",
+                    "question": "What are some common hashing functions?",
+                    "answer": "Common hashing functions include MD5, SHA-1, and SHA-256. These functions convert input data into fixed-size hashes, which are typically used for data integrity verification."
+                  },
+                  {
+                    "id": 507,
+                    "category": "cybersecurity",
+                    "question": "What is identity theft, and how can it be prevented?",
+                    "answer": "Identity theft involves the unauthorized use of someone's personal information for fraudulent purposes. Prevention measures include using strong passwords, enabling two-factor authentication, limiting the sharing of personal information, and regularly monitoring financial statements."
+                  },
+                  {
+                    "id": 508,
+                    "category": "cybersecurity",
+                    "question": "What is JSON, and how is it used in cybersecurity?",
+                    "answer": "JSON (JavaScript Object Notation) is a lightweight data interchange format that is easy for humans to read and write, and easy for machines to parse and generate. In cybersecurity, JSON is often used to structure data for APIs, configuration files, and data interchange between systems."
+                  },
+                  {
+                    "id": 509,
+                    "category": "cybersecurity",
+                    "question": "What is the difference between JSON and XML?",
+                    "answer": "JSON is a lightweight, easy-to-read data interchange format that uses key-value pairs, whereas XML is a markup language that uses tags to define data structures. JSON is typically faster to parse and is widely used in web APIs, while XML offers more features like schemas and namespaces."
+                  },
+                  {
+                    "id": 510,
+                    "category": "cybersecurity",
+                    "question": "What is a JSON Web Token (JWT), and how is it used?",
+                    "answer": "A JSON Web Token (JWT) is a compact, URL-safe means of representing claims between two parties. It's commonly used for authentication and authorization in web applications, allowing secure transmission of information between client and server."
+                  }
+                ]
+                
                  
-      ]
+      
       
       
   
