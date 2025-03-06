@@ -3431,8 +3431,562 @@
                             "category": "pentesting",
                             "question": "What are some ethical considerations in penetration testing?",
                             "answer": "Ethical considerations include obtaining proper authorization, respecting privacy, following a defined scope, and responsibly reporting vulnerabilities without causing harm."
-                          }
-                        ]
+                          },
+                          
+                          {
+                              "id": 571,
+                              "category": "phishing",
+                              "question": "What is phishing?",
+                              "answer": "Phishing is a cyber attack where attackers impersonate a trusted entity to trick individuals into revealing sensitive information such as passwords and financial data."
+                            },
+                            {
+                              "id": 572,
+                              "category": "phishing",
+                              "question": "What are the common types of phishing attacks?",
+                              "answer": "Common phishing attacks include email phishing, spear phishing, whaling, smishing (SMS phishing), and vishing (voice phishing)."
+                            },
+                            {
+                              "id": 573,
+                              "category": "phishing",
+                              "question": "How does email phishing work?",
+                              "answer": "Email phishing involves sending fraudulent emails that appear to be from a legitimate source to deceive users into clicking malicious links or providing credentials."
+                            },
+                            {
+                              "id": 574,
+                              "category": "phishing",
+                              "question": "What is spear phishing?",
+                              "answer": "Spear phishing is a targeted phishing attack where cybercriminals craft personalized messages to deceive specific individuals or organizations."
+                            },
+                            {
+                              "id": 575,
+                              "category": "phishing",
+                              "question": "What is whaling in phishing?",
+                              "answer": "Whaling is a type of phishing attack that specifically targets high-profile individuals such as executives or government officials."
+                            },
+                            {
+                              "id": 576,
+                              "category": "phishing",
+                              "question": "What is smishing?",
+                              "answer": "Smishing (SMS phishing) is a phishing attack that uses text messages to trick victims into clicking malicious links or sharing personal information."
+                            },
+                            {
+                              "id": 577,
+                              "category": "phishing",
+                              "question": "What is vishing?",
+                              "answer": "Vishing (voice phishing) is a scam where attackers use phone calls to impersonate a legitimate organization and extract sensitive information from victims."
+                            },
+                            {
+                              "id": 578,
+                              "category": "phishing",
+                              "question": "What are the warning signs of a phishing email?",
+                              "answer": "Signs of phishing emails include generic greetings, urgent language, suspicious links, poor grammar, and unexpected attachments."
+                            },
+                            {
+                              "id": 579,
+                              "category": "phishing",
+                              "question": "How can you verify if an email is phishing?",
+                              "answer": "Verify email legitimacy by checking the sender's address, hovering over links before clicking, and contacting the supposed sender directly using official channels."
+                            },
+                            {
+                              "id": 580,
+                              "category": "phishing",
+                              "question": "What is a phishing link?",
+                              "answer": "A phishing link is a fraudulent URL that directs users to a fake website designed to steal credentials or install malware."
+                            },
+                            {
+                              "id": 581,
+                              "category": "phishing",
+                              "question": "What is a fake login page in phishing?",
+                              "answer": "A fake login page is a counterfeit website that mimics a legitimate login portal to trick users into entering their credentials."
+                            },
+                            {
+                              "id": 582,
+                              "category": "phishing",
+                              "question": "What is a phishing kit?",
+                              "answer": "A phishing kit is a set of pre-packaged tools that cybercriminals use to create and deploy phishing campaigns easily."
+                            },
+                            {
+                              "id": 583,
+                              "category": "phishing",
+                              "question": "What is credential harvesting?",
+                              "answer": "Credential harvesting is the practice of collecting usernames and passwords from phishing victims, often to be used in further attacks."
+                            },
+                            {
+                              "id": 584,
+                              "category": "phishing",
+                              "question": "How do attackers distribute phishing links?",
+                              "answer": "Attackers distribute phishing links via email, SMS, social media, fake ads, and even compromised legitimate websites."
+                            },
+                            {
+                              "id": 585,
+                              "category": "phishing",
+                              "question": "What is a business email compromise (BEC) scam?",
+                              "answer": "A business email compromise (BEC) scam is a phishing attack where attackers impersonate executives or employees to trick companies into transferring money or sensitive data."
+                            },
+                            {
+                              "id": 586,
+                              "category": "phishing",
+                              "question": "How do attackers spoof legitimate email addresses in phishing?",
+                              "answer": "Attackers use email spoofing techniques to forge the sender's address, making an email appear as if it came from a trusted source."
+                            },
+                            {
+                              "id": 587,
+                              "category": "phishing",
+                              "question": "How does multi-factor authentication (MFA) help prevent phishing attacks?",
+                              "answer": "MFA adds an extra layer of security by requiring a second form of authentication, making it harder for attackers to gain access even if credentials are stolen."
+                            },
+                            {
+                              "id": 588,
+                              "category": "phishing",
+                              "question": "What is domain squatting in phishing?",
+                              "answer": "Domain squatting, or typosquatting, is when attackers register domain names similar to legitimate ones to trick users into visiting fake websites."
+                            },
+                            {
+                              "id": 589,
+                              "category": "phishing",
+                              "question": "How can organizations protect employees from phishing attacks?",
+                              "answer": "Organizations can implement email filtering, security awareness training, MFA, and phishing simulations to reduce the risk of attacks."
+                            },
+                            {
+                              "id": 590,
+                              "category": "phishing",
+                              "question": "What is a phishing simulation?",
+                              "answer": "A phishing simulation is a controlled test conducted by organizations to educate employees on recognizing and avoiding phishing attacks."
+                            },
+                            {
+                              "id": 591,
+                              "category": "phishing",
+                              "question": "What should you do if you receive a phishing email?",
+                              "answer": "If you receive a phishing email, do not click any links or download attachments. Report it to your IT team and delete it immediately."
+                            },
+                            {
+                              "id": 592,
+                              "category": "phishing",
+                              "question": "What is a phishing attack chain?",
+                              "answer": "A phishing attack chain refers to the sequence of events an attacker follows, from email distribution to credential theft and further exploitation."
+                            },
+                            {
+                              "id": 593,
+                              "category": "phishing",
+                              "question": "How do attackers use social media for phishing?",
+                              "answer": "Attackers create fake profiles, send malicious links via direct messages, or impersonate trusted individuals to deceive users into revealing information."
+                            },
+                            {
+                              "id": 594,
+                              "category": "phishing",
+                              "question": "What is clone phishing?",
+                              "answer": "Clone phishing is an attack where hackers duplicate a legitimate email, replacing links or attachments with malicious ones to trick recipients."
+                            },
+                            {
+                              "id": 595,
+                              "category": "phishing",
+                              "question": "What role does AI play in phishing attacks?",
+                              "answer": "AI enables attackers to create highly convincing phishing messages, automate large-scale attacks, and personalize attacks using harvested data."
+                            },
+                            {
+                              "id": 596,
+                              "category": "phishing",
+                              "question": "What is an HTTPS phishing attack?",
+                              "answer": "An HTTPS phishing attack uses a fraudulent website with a valid SSL certificate to trick users into believing it's legitimate."
+                            },
+                            {
+                              "id": 597,
+                              "category": "phishing",
+                              "question": "What is an advanced persistent phishing attack?",
+                              "answer": "An advanced persistent phishing attack is a long-term, targeted campaign aimed at a specific organization or individual, often using sophisticated techniques."
+                            },
+                            {
+                              "id": 598,
+                              "category": "phishing",
+                              "question": "How does phishing contribute to ransomware infections?",
+                              "answer": "Phishing emails often contain malicious attachments or links that install ransomware, encrypting files and demanding a ransom for decryption."
+                            },
+                            {
+                              "id": 599,
+                              "category": "phishing",
+                              "question": "What legal actions can be taken against phishing attackers?",
+                              "answer": "Legal actions include cybercrime investigations, domain takedowns, and prosecution under laws like the Computer Fraud and Abuse Act (CFAA)."
+                            },
+                            {
+                              "id": 600,
+                              "category": "phishing",
+                              "question": "How does machine learning help detect phishing emails?",
+                              "answer": "Machine learning analyzes patterns, email metadata, and behavioral anomalies to identify and block phishing attempts more effectively."
+                            },
+                            
+                              {
+                                "id": 601,
+                                "category": "vulnerability scanning",
+                                "question": "What is vulnerability scanning?",
+                                "answer": "Vulnerability scanning is an automated process of identifying security weaknesses in a system, network, or application."
+                              },
+                              {
+                                "id": 602,
+                                "category": "vulnerability scanning",
+                                "question": "What are the different types of vulnerability scans?",
+                                "answer": "The main types include network-based, host-based, application-based, wireless, and database vulnerability scanning."
+                              },
+                              {
+                                "id": 603,
+                                "category": "vulnerability scanning",
+                                "question": "What is the difference between authenticated and unauthenticated scans?",
+                                "answer": "Authenticated scans use valid credentials to access and analyze internal systems, while unauthenticated scans assess external vulnerabilities without credentials."
+                              },
+                              {
+                                "id": 604,
+                                "category": "vulnerability scanning",
+                                "question": "What is a network-based vulnerability scan?",
+                                "answer": "A network-based vulnerability scan examines network devices, such as firewalls, routers, and servers, for security weaknesses."
+                              },
+                              {
+                                "id": 605,
+                                "category": "vulnerability scanning",
+                                "question": "What is a host-based vulnerability scan?",
+                                "answer": "A host-based scan checks individual computers and servers for vulnerabilities in operating systems, installed software, and configurations."
+                              },
+                              {
+                                "id": 606,
+                                "category": "vulnerability scanning",
+                                "question": "What is an application vulnerability scan?",
+                                "answer": "An application vulnerability scan analyzes web and software applications for security flaws like SQL injection and cross-site scripting (XSS)."
+                              },
+                              {
+                                "id": 607,
+                                "category": "vulnerability scanning",
+                                "question": "What are common vulnerability scanning tools?",
+                                "answer": "Popular tools include Nessus, OpenVAS, Qualys, Nexpose, and Nikto."
+                              },
+                              {
+                                "id": 608,
+                                "category": "vulnerability scanning",
+                                "question": "How often should vulnerability scans be conducted?",
+                                "answer": "Organizations should conduct vulnerability scans regularly, such as monthly or after major system changes."
+                              },
+                              {
+                                "id": 609,
+                                "category": "vulnerability scanning",
+                                "question": "What is CVE in vulnerability scanning?",
+                                "answer": "CVE (Common Vulnerabilities and Exposures) is a public database that assigns unique identifiers to known security vulnerabilities."
+                              },
+                              {
+                                "id": 610,
+                                "category": "vulnerability scanning",
+                                "question": "What is a CVSS score?",
+                                "answer": "The Common Vulnerability Scoring System (CVSS) assigns a severity rating (0-10) to vulnerabilities based on impact and exploitability."
+                              },
+                              {
+                                "id": 611,
+                                "category": "vulnerability scanning",
+                                "question": "What is the difference between vulnerability scanning and penetration testing?",
+                                "answer": "Vulnerability scanning is automated and identifies weaknesses, while penetration testing actively exploits vulnerabilities to assess real-world risks."
+                              },
+                              {
+                                "id": 612,
+                                "category": "vulnerability scanning",
+                                "question": "What is a false positive in vulnerability scanning?",
+                                "answer": "A false positive occurs when a vulnerability scanner incorrectly identifies a security issue that does not exist."
+                              },
+                              {
+                                "id": 613,
+                                "category": "vulnerability scanning",
+                                "question": "What is a false negative in vulnerability scanning?",
+                                "answer": "A false negative occurs when a vulnerability scanner fails to detect an existing security weakness."
+                              },
+                              {
+                                "id": 614,
+                                "category": "vulnerability scanning",
+                                "question": "What is a compliance scan?",
+                                "answer": "A compliance scan checks systems against security standards such as PCI DSS, HIPAA, and ISO 27001."
+                              },
+                              {
+                                "id": 615,
+                                "category": "vulnerability scanning",
+                                "question": "What is a zero-day vulnerability?",
+                                "answer": "A zero-day vulnerability is a security flaw that has not been publicly disclosed or patched by vendors."
+                              },
+                              {
+                                "id": 616,
+                                "category": "vulnerability scanning",
+                                "question": "What is a patch in vulnerability management?",
+                                "answer": "A patch is a software update that fixes security vulnerabilities or bugs in an application or operating system."
+                              },
+                              {
+                                "id": 617,
+                                "category": "vulnerability scanning",
+                                "question": "Why is vulnerability scanning important?",
+                                "answer": "Vulnerability scanning helps organizations identify and mitigate security risks before attackers can exploit them."
+                              },
+                              {
+                                "id": 618,
+                                "category": "vulnerability scanning",
+                                "question": "What is an exploit in cybersecurity?",
+                                "answer": "An exploit is a method or code used by attackers to take advantage of a security vulnerability."
+                              },
+                              {
+                                "id": 619,
+                                "category": "vulnerability scanning",
+                                "question": "How do vulnerability scanners detect security weaknesses?",
+                                "answer": "Vulnerability scanners use signature-based detection, configuration analysis, and behavior analysis to identify risks."
+                              },
+                              {
+                                "id": 620,
+                                "category": "vulnerability scanning",
+                                "question": "What is an asset inventory in vulnerability management?",
+                                "answer": "An asset inventory is a list of all hardware and software in an organization, helping security teams track vulnerabilities."
+                              },
+                              {
+                                "id": 621,
+                                "category": "vulnerability scanning",
+                                "question": "What are common vulnerabilities found in scans?",
+                                "answer": "Common vulnerabilities include outdated software, weak passwords, misconfigurations, and unpatched security flaws."
+                              },
+                              {
+                                "id": 622,
+                                "category": "vulnerability scanning",
+                                "question": "What is an agent-based vulnerability scan?",
+                                "answer": "An agent-based scan uses lightweight software installed on endpoints to detect vulnerabilities without active network scanning."
+                              },
+                              {
+                                "id": 623,
+                                "category": "vulnerability scanning",
+                                "question": "What are risk-based vulnerability scans?",
+                                "answer": "Risk-based scans prioritize vulnerabilities based on their potential impact and likelihood of exploitation."
+                              },
+                              {
+                                "id": 624,
+                                "category": "vulnerability scanning",
+                                "question": "How can organizations reduce false positives in vulnerability scanning?",
+                                "answer": "Organizations can fine-tune scanner configurations, use multiple tools, and validate findings manually to reduce false positives."
+                              },
+                              {
+                                "id": 625,
+                                "category": "vulnerability scanning",
+                                "question": "What is a security baseline?",
+                                "answer": "A security baseline is a set of standard configurations and controls that define a secure state for systems and applications."
+                              },
+                              {
+                                "id": 626,
+                                "category": "vulnerability scanning",
+                                "question": "How does vulnerability scanning support compliance?",
+                                "answer": "Vulnerability scanning helps organizations meet regulatory requirements by identifying and addressing security gaps."
+                              },
+                              {
+                                "id": 627,
+                                "category": "vulnerability scanning",
+                                "question": "What is a differential scan in vulnerability management?",
+                                "answer": "A differential scan compares current scan results with previous scans to identify newly introduced vulnerabilities."
+                              },
+                              {
+                                "id": 628,
+                                "category": "vulnerability scanning",
+                                "question": "What is an external vulnerability scan?",
+                                "answer": "An external vulnerability scan evaluates an organization’s public-facing systems, such as websites and email servers."
+                              },
+                              {
+                                "id": 629,
+                                "category": "vulnerability scanning",
+                                "question": "What is an internal vulnerability scan?",
+                                "answer": "An internal vulnerability scan assesses security risks within an organization’s internal network, focusing on workstations, servers, and databases."
+                              },
+                              {
+                                "id": 630,
+                                "category": "vulnerability scanning",
+                                "question": "How do organizations prioritize vulnerabilities?",
+                                "answer": "Organizations prioritize vulnerabilities based on CVSS scores, exploitability, potential impact, and business risk."
+                              },
+                              
+                                {
+                                  "id": 631,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is an automated vulnerability scan?",
+                                  "answer": "An automated vulnerability scan is a system-driven process that scans for security weaknesses without manual intervention."
+                                },
+                                {
+                                  "id": 632,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is the role of vulnerability scanning in cybersecurity?",
+                                  "answer": "Vulnerability scanning helps organizations identify, assess, and mitigate security risks before they can be exploited."
+                                },
+                                {
+                                  "id": 633,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is a credentialed scan?",
+                                  "answer": "A credentialed scan uses valid authentication credentials to assess deeper security vulnerabilities within a system."
+                                },
+                                {
+                                  "id": 634,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is a non-credentialed scan?",
+                                  "answer": "A non-credentialed scan evaluates security weaknesses without logging into the system, providing an outsider’s perspective."
+                                },
+                                {
+                                  "id": 635,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is a remediation scan?",
+                                  "answer": "A remediation scan verifies whether previously identified vulnerabilities have been patched or mitigated."
+                                },
+                                {
+                                  "id": 636,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is a differential vulnerability scan?",
+                                  "answer": "A differential scan compares new scan results with past scans to detect newly introduced vulnerabilities."
+                                },
+                                {
+                                  "id": 637,
+                                  "category": "vulnerability scanning",
+                                  "question": "How do vulnerability scans handle encrypted traffic?",
+                                  "answer": "Most vulnerability scanners cannot directly inspect encrypted traffic but can detect outdated encryption protocols and weak ciphers."
+                                },
+                                {
+                                  "id": 638,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is an agent-based vulnerability scan?",
+                                  "answer": "An agent-based scan uses software agents installed on endpoints to perform scans without active network probing."
+                                },
+                                {
+                                  "id": 639,
+                                  "category": "vulnerability scanning",
+                                  "question": "How do organizations interpret vulnerability scan results?",
+                                  "answer": "Organizations analyze risk levels, exploitability, and affected systems to prioritize and address vulnerabilities."
+                                },
+                                {
+                                  "id": 640,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is a zero-trust approach to vulnerability scanning?",
+                                  "answer": "A zero-trust approach assumes all devices and users are untrusted, continuously scanning and monitoring for vulnerabilities."
+                                },
+                                {
+                                  "id": 641,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is a cloud vulnerability scan?",
+                                  "answer": "A cloud vulnerability scan assesses security risks in cloud environments, such as AWS, Azure, or Google Cloud."
+                                },
+                                {
+                                  "id": 642,
+                                  "category": "vulnerability scanning",
+                                  "question": "How does vulnerability scanning help in incident response?",
+                                  "answer": "Vulnerability scanning helps identify exploited weaknesses and informs remediation efforts during incident response."
+                                },
+                                {
+                                  "id": 643,
+                                  "category": "vulnerability scanning",
+                                  "question": "What are common challenges in vulnerability scanning?",
+                                  "answer": "Challenges include false positives, scan accuracy, system performance impact, and prioritizing remediation efforts."
+                                },
+                                {
+                                  "id": 644,
+                                  "category": "vulnerability scanning",
+                                  "question": "How does network segmentation improve vulnerability scanning?",
+                                  "answer": "Network segmentation limits scan scope and isolates vulnerable systems, reducing attack surfaces."
+                                },
+                                {
+                                  "id": 645,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is a hybrid vulnerability scan?",
+                                  "answer": "A hybrid scan combines network-based and agent-based methods for comprehensive vulnerability detection."
+                                },
+                                {
+                                  "id": 646,
+                                  "category": "vulnerability scanning",
+                                  "question": "Why should organizations integrate vulnerability scanning with SIEM?",
+                                  "answer": "Integrating with SIEM enhances threat detection, logging, and automated response to vulnerabilities."
+                                },
+                                {
+                                  "id": 647,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is the impact of outdated software on vulnerability scanning?",
+                                  "answer": "Outdated software increases security risks and may not be effectively assessed by vulnerability scanners."
+                                },
+                                {
+                                  "id": 648,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is a container vulnerability scan?",
+                                  "answer": "A container vulnerability scan identifies security flaws in containerized applications and images."
+                                },
+                                {
+                                  "id": 649,
+                                  "category": "vulnerability scanning",
+                                  "question": "How does vulnerability scanning differ from endpoint detection and response (EDR)?",
+                                  "answer": "Vulnerability scanning identifies potential risks, while EDR detects and responds to active threats."
+                                },
+                                {
+                                  "id": 650,
+                                  "category": "vulnerability scanning",
+                                  "question": "How can vulnerability scanning be automated?",
+                                  "answer": "Automation is achieved through scheduled scans, integration with security tools, and remediation workflows."
+                                },
+                                {
+                                  "id": 651,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is a runtime application self-protection (RASP) tool?",
+                                  "answer": "RASP detects and mitigates application vulnerabilities in real time, complementing vulnerability scanning."
+                                },
+                                {
+                                  "id": 652,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is a privileged access vulnerability?",
+                                  "answer": "A privileged access vulnerability arises from weak access controls, allowing unauthorized privilege escalation."
+                                },
+                                {
+                                  "id": 653,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is the relationship between vulnerability scanning and DevSecOps?",
+                                  "answer": "DevSecOps integrates vulnerability scanning into development pipelines for continuous security assessments."
+                                },
+                                {
+                                  "id": 654,
+                                  "category": "vulnerability scanning",
+                                  "question": "What are the consequences of not conducting vulnerability scans?",
+                                  "answer": "Failure to conduct scans increases exposure to cyber threats, compliance violations, and data breaches."
+                                },
+                                {
+                                  "id": 655,
+                                  "category": "vulnerability scanning",
+                                  "question": "How does artificial intelligence improve vulnerability scanning?",
+                                  "answer": "AI enhances scan accuracy, reduces false positives, and predicts emerging security threats."
+                                },
+                                {
+                                  "id": 656,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is the OWASP Top 10, and why is it important for vulnerability scanning?",
+                                  "answer": "The OWASP Top 10 lists the most critical web application vulnerabilities that vulnerability scans aim to detect."
+                                },
+                                {
+                                  "id": 657,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is a serverless vulnerability scan?",
+                                  "answer": "A serverless vulnerability scan identifies risks in serverless computing environments like AWS Lambda and Azure Functions."
+                                },
+                                {
+                                  "id": 658,
+                                  "category": "vulnerability scanning",
+                                  "question": "What is the importance of regular vulnerability scanning?",
+                                  "answer": "Regular scans help organizations stay ahead of security threats and ensure compliance with regulations."
+                                },
+                                
+                                  {
+                                    "id": 659,
+                                    "category": "vulnerability scanning",
+                                    "question": "How do vulnerability scans handle IoT devices?",
+                                    "answer": "Vulnerability scans assess IoT devices for weak authentication, outdated firmware, and insecure network configurations."
+                                  },
+                                  {
+                                    "id": 660,
+                                    "category": "vulnerability scanning",
+                                    "question": "What is the role of machine learning in vulnerability scanning?",
+                                    "answer": "Machine learning improves vulnerability detection by analyzing patterns, reducing false positives, and predicting emerging threats."
+                                  }
+                                ]
+                                
+                              
+                              
+                            
+                            
+
+
+                          
+                          
+                        
                         
                       
                       
