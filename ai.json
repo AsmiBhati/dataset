@@ -2108,8 +2108,649 @@
             "category": "Robotics - Ethics & Future",
             "question": "How can robots be used for disaster response?",
             "answer": "Robots help in search and rescue, debris removal, and delivering aid in disaster-stricken areas."
-          }
-        ]
+          },
+          
+            {
+              "id": 351,
+              "category": "Robotics - Sensors",
+              "question": "What are infrared sensors used for in robots?",
+              "answer": "Infrared sensors help robots detect heat, track objects, and navigate in low-light conditions."
+            },
+            {
+              "id": 352,
+              "category": "Robotics - Sensors",
+              "question": "How do ultrasonic sensors help robots?",
+              "answer": "Ultrasonic sensors use sound waves to measure distances, helping robots avoid obstacles and map their surroundings."
+            },
+            {
+              "id": 353,
+              "category": "Robotics - Sensors",
+              "question": "What is a force-torque sensor in robotics?",
+              "answer": "A force-torque sensor measures forces and torques applied to a robot’s joints, improving precision in manipulation tasks."
+            },
+            {
+              "id": 354,
+              "category": "Robotics - Sensors",
+              "question": "What is a haptic sensor in robotics?",
+              "answer": "A haptic sensor enables robots to sense touch, pressure, and vibrations, enhancing interaction with objects and humans."
+            },
+            {
+              "id": 355,
+              "category": "Robotics - AI in Robots",
+              "question": "What is an AI-powered exoskeleton?",
+              "answer": "An AI-powered exoskeleton is a wearable robotic suit that enhances human strength and mobility, often used in healthcare and industry."
+            },
+            {
+              "id": 356,
+              "category": "Robotics - AI in Robots",
+              "question": "How do robots learn through imitation learning?",
+              "answer": "Imitation learning allows robots to observe and replicate human actions to perform tasks efficiently."
+            },
+            {
+              "id": 357,
+              "category": "Robotics - AI in Robots",
+              "question": "What is predictive maintenance in robotics?",
+              "answer": "Predictive maintenance uses AI to detect potential failures in robots before they occur, reducing downtime."
+            },
+            {
+              "id": 358,
+              "category": "Robotics - AI in Robots",
+              "question": "What is a context-aware robot?",
+              "answer": "A context-aware robot can understand and adapt to its environment using AI and sensor data."
+            },
+            {
+              "id": 359,
+              "category": "Robotics - AI in Robots",
+              "question": "How do reinforcement learning robots handle uncertainty?",
+              "answer": "They use probabilistic models and exploration strategies to learn and adapt to uncertain environments."
+            },
+            {
+              "id": 360,
+              "category": "Robotics - AI in Robots",
+              "question": "What is the difference between reactive and deliberative robots?",
+              "answer": "Reactive robots respond to stimuli instantly, while deliberative robots plan and make decisions based on stored knowledge."
+            },
+            {
+              "id": 361,
+              "category": "Robotics - Applications",
+              "question": "How are robots used in mining?",
+              "answer": "Robots in mining assist with exploration, drilling, transportation, and safety monitoring in hazardous environments."
+            },
+            {
+              "id": 362,
+              "category": "Robotics - Applications",
+              "question": "What role do robots play in e-commerce and warehousing?",
+              "answer": "Robots assist with inventory management, order picking, and package sorting in warehouses and fulfillment centers."
+            },
+            {
+              "id": 363,
+              "category": "Robotics - Applications",
+              "question": "How do robots help in construction?",
+              "answer": "Construction robots perform tasks like bricklaying, 3D printing structures, and site inspection to improve efficiency and safety."
+            },
+            {
+              "id": 364,
+              "category": "Robotics - Applications",
+              "question": "What are military reconnaissance robots?",
+              "answer": "These robots are used for surveillance, intelligence gathering, and terrain exploration in military operations."
+            },
+            {
+              "id": 365,
+              "category": "Robotics - Applications",
+              "question": "How do robotic prosthetics work?",
+              "answer": "Robotic prosthetics use sensors and AI to detect muscle signals and provide movement assistance to amputees."
+            },
+            {
+              "id": 366,
+              "category": "Robotics - Applications",
+              "question": "What is telepresence robotics?",
+              "answer": "Telepresence robots allow remote users to interact with a physical environment through a robotic interface."
+            },
+            {
+              "id": 367,
+              "category": "Robotics - Ethics & Future",
+              "question": "What is autonomous weaponry?",
+              "answer": "Autonomous weaponry refers to robotic weapons that can operate without human intervention, raising ethical concerns."
+            },
+            {
+              "id": 368,
+              "category": "Robotics - Ethics & Future",
+              "question": "What is the impact of robots on environmental sustainability?",
+              "answer": "Robots help reduce waste, improve energy efficiency, and aid in environmental monitoring and conservation efforts."
+            },
+            {
+              "id": 369,
+              "category": "Robotics - Ethics & Future",
+              "question": "What is a biomimetic robot?",
+              "answer": "A biomimetic robot is designed to mimic biological organisms in structure and movement."
+            },
+            {
+              "id": 370,
+              "category": "Robotics - Ethics & Future",
+              "question": "Can robots have moral decision-making abilities?",
+              "answer": "Currently, robots lack true morality, but AI systems can be programmed with ethical guidelines for decision-making."
+            },
+            {
+              "id": 371,
+              "category": "Robotics - Ethics & Future",
+              "question": "What is artificial empathy in robotics?",
+              "answer": "Artificial empathy refers to AI algorithms that detect and respond to human emotions to improve interactions."
+            },
+            {
+              "id": 372,
+              "category": "Robotics - Ethics & Future",
+              "question": "What is human-robot collaboration?",
+              "answer": "Human-robot collaboration involves robots and humans working together safely in shared environments."
+            },
+            {
+              "id": 373,
+              "category": "Robotics - Ethics & Future",
+              "question": "What is explainable AI in robotics?",
+              "answer": "Explainable AI ensures that robots' decision-making processes are transparent and understandable."
+            },
+            {
+              "id": 374,
+              "category": "Robotics - Ethics & Future",
+              "question": "How do robots improve accessibility for disabled individuals?",
+              "answer": "Robots assist with mobility, communication, and daily tasks to improve independence for disabled individuals."
+            },
+            {
+              "id": 375,
+              "category": "Robotics - Ethics & Future",
+              "question": "What is a nanorobot?",
+              "answer": "A nanorobot is a tiny robot designed to perform microscopic tasks, often in medicine and material science."
+            },
+            {
+              "id": 376,
+              "category": "Robotics - Ethics & Future",
+              "question": "How do robots use blockchain technology?",
+              "answer": "Robots can use blockchain for secure data sharing, automation of contracts, and supply chain tracking."
+            },
+            {
+              "id": 377,
+              "category": "Robotics - Future Trends",
+              "question": "What is a self-healing robot?",
+              "answer": "A self-healing robot can repair its own damage using advanced materials and AI-driven diagnostics."
+            },
+            {
+              "id": 378,
+              "category": "Robotics - Future Trends",
+              "question": "What is the role of quantum computing in robotics?",
+              "answer": "Quantum computing may help robots process vast amounts of data quickly, improving AI-driven decision-making."
+            },
+            {
+              "id": 379,
+              "category": "Robotics - Future Trends",
+              "question": "What is brain-computer interface (BCI) in robotics?",
+              "answer": "BCI allows humans to control robots using brain signals, enabling direct neural interaction."
+            },
+            {
+              "id": 380,
+              "category": "Robotics - Future Trends",
+              "question": "What is autonomous farming?",
+              "answer": "Autonomous farming uses robots and AI to plant, monitor, and harvest crops with minimal human intervention."
+            },
+            
+              {
+                "id": 381,
+                "category": "Robotics - Future Trends",
+                "question": "What are soft robots?",
+                "answer": "Soft robots are made from flexible materials that allow them to bend, stretch, and adapt to their environment."
+              },
+              {
+                "id": 382,
+                "category": "Robotics - Future Trends",
+                "question": "What is the impact of 5G on robotics?",
+                "answer": "5G enhances robot communication, enabling real-time data exchange and improved remote control capabilities."
+              },
+              {
+                "id": 383,
+                "category": "Robotics - Future Trends",
+                "question": "What is swarm intelligence in robotics?",
+                "answer": "Swarm intelligence refers to a group of robots working collectively using decentralized control and communication."
+              },
+              {
+                "id": 384,
+                "category": "Robotics - Future Trends",
+                "question": "How do robots use edge computing?",
+                "answer": "Edge computing allows robots to process data locally rather than relying on cloud servers, improving speed and efficiency."
+              },
+              {
+                "id": 385,
+                "category": "Robotics - Future Trends",
+                "question": "What is an autonomous drone?",
+                "answer": "An autonomous drone can navigate and perform tasks without direct human control using AI and sensors."
+              },
+              {
+                "id": 386,
+                "category": "Robotics - Future Trends",
+                "question": "What is a self-replicating robot?",
+                "answer": "A self-replicating robot can create copies of itself using available resources, a concept explored in space and nanotechnology."
+              },
+              {
+                "id": 387,
+                "category": "Robotics - Future Trends",
+                "question": "How can robots assist in disaster recovery?",
+                "answer": "Robots can help locate survivors, clear debris, and restore essential services after natural disasters."
+              },
+              {
+                "id": 388,
+                "category": "Robotics - Future Trends",
+                "question": "What is the future of humanoid robots?",
+                "answer": "Humanoid robots are expected to become more interactive, capable of assisting in education, caregiving, and service industries."
+              },
+              {
+                "id": 389,
+                "category": "Robotics - Future Trends",
+                "question": "What role do robots play in smart manufacturing?",
+                "answer": "Robots in smart manufacturing automate tasks, optimize production, and enhance quality control using AI and IoT."
+              },
+              {
+                "id": 390,
+                "category": "Robotics - Future Trends",
+                "question": "What is neuromorphic computing in robotics?",
+                "answer": "Neuromorphic computing mimics the human brain’s structure, improving robots’ learning and decision-making capabilities."
+              },
+              {
+                "id": 391,
+                "category": "Robotics - Future Trends",
+                "question": "How do robots contribute to medical research?",
+                "answer": "Robots assist in lab automation, surgical procedures, drug testing, and AI-driven diagnostics."
+              },
+              {
+                "id": 392,
+                "category": "Robotics - Future Trends",
+                "question": "What is a social robot?",
+                "answer": "A social robot is designed to interact with humans using voice, gestures, and facial expressions."
+              },
+              {
+                "id": 393,
+                "category": "Robotics - Future Trends",
+                "question": "What is telemedicine robotics?",
+                "answer": "Telemedicine robots enable remote diagnosis, patient monitoring, and robotic-assisted surgeries."
+              },
+              {
+                "id": 394,
+                "category": "Robotics - Future Trends",
+                "question": "How can robots help in space colonization?",
+                "answer": "Robots can build infrastructure, explore planets, and maintain life-support systems in space colonization projects."
+              },
+              {
+                "id": 395,
+                "category": "Robotics - Future Trends",
+                "question": "What are AI-powered personal assistants?",
+                "answer": "AI-powered personal assistant robots help users manage tasks, schedules, and household activities."
+              },
+              {
+                "id": 396,
+                "category": "Robotics - Future Trends",
+                "question": "What is an exosuit?",
+                "answer": "An exosuit is a wearable robotic system that enhances human strength and endurance, used in medical and military fields."
+              },
+              {
+                "id": 397,
+                "category": "Robotics - Future Trends",
+                "question": "How do robots support space mining?",
+                "answer": "Robots explore asteroids and planetary surfaces to extract valuable minerals and resources for space missions."
+              },
+              {
+                "id": 398,
+                "category": "Robotics - Future Trends",
+                "question": "What is robotic process automation (RPA)?",
+                "answer": "RPA uses software robots to automate repetitive business processes like data entry and customer service."
+              },
+              {
+                "id": 399,
+                "category": "Robotics - Future Trends",
+                "question": "How do robots assist in underwater exploration?",
+                "answer": "Underwater robots explore deep-sea environments, conduct research, and assist in marine conservation."
+              },
+              {
+                "id": 400,
+                "category": "Robotics - Future Trends",
+                "question": "What are nanorobots used for in medicine?",
+                "answer": "Nanorobots are used for targeted drug delivery, cancer treatment, and repairing tissues at a microscopic level."
+              },
+              
+                {
+                  "id": 401,
+                  "category": "Robotics - History",
+                  "question": "Who is considered the father of robotics?",
+                  "answer": "Joseph Engelberger is known as the father of robotics for his work in developing industrial robots."
+                },
+                {
+                  "id": 402,
+                  "category": "Robotics - History",
+                  "question": "What was the first industrial robot?",
+                  "answer": "The Unimate, created by George Devol in 1956, was the first industrial robot used in manufacturing."
+                },
+                {
+                  "id": 403,
+                  "category": "Robotics - History",
+                  "question": "Who introduced the Three Laws of Robotics?",
+                  "answer": "Science fiction writer Isaac Asimov introduced the Three Laws of Robotics in his 1942 short story 'Runaround'."
+                },
+                {
+                  "id": 404,
+                  "category": "Robotics - History",
+                  "question": "What is the significance of the Tesla Optimus robot?",
+                  "answer": "Tesla's Optimus is a humanoid robot designed for general-purpose tasks, showcasing advancements in AI-driven robotics."
+                },
+                {
+                  "id": 405,
+                  "category": "Robotics - History",
+                  "question": "What was the first autonomous robot?",
+                  "answer": "Shakey the Robot, developed in the 1960s by SRI International, was the first robot capable of autonomous decision-making."
+                },
+                {
+                  "id": 406,
+                  "category": "Robotics - Programming",
+                  "question": "What is ROS in robotics?",
+                  "answer": "The Robot Operating System (ROS) is an open-source framework for building and controlling robots."
+                },
+                {
+                  "id": 407,
+                  "category": "Robotics - Programming",
+                  "question": "Which programming languages are commonly used in robotics?",
+                  "answer": "Python and C++ are the most commonly used programming languages for robotics."
+                },
+                {
+                  "id": 408,
+                  "category": "Robotics - Programming",
+                  "question": "What is Gazebo in robotics?",
+                  "answer": "Gazebo is a simulation tool used for testing robot designs and behaviors in a virtual environment."
+                },
+                {
+                  "id": 409,
+                  "category": "Robotics - Programming",
+                  "question": "How do robots use machine learning?",
+                  "answer": "Robots use machine learning to improve their performance by analyzing data and adapting to new tasks."
+                },
+                {
+                  "id": 410,
+                  "category": "Robotics - Programming",
+                  "question": "What is Webots in robotics?",
+                  "answer": "Webots is an open-source simulation software for designing and testing mobile robots in 3D environments."
+                },
+                {
+                  "id": 411,
+                  "category": "Robotics - Autonomous Vehicles",
+                  "question": "How do self-driving cars navigate?",
+                  "answer": "Self-driving cars use sensors, AI, and GPS to detect obstacles and navigate roads autonomously."
+                },
+                {
+                  "id": 412,
+                  "category": "Robotics - Autonomous Vehicles",
+                  "question": "What is LiDAR in self-driving cars?",
+                  "answer": "LiDAR (Light Detection and Ranging) helps autonomous vehicles detect distances and create 3D maps of their surroundings."
+                },
+                {
+                  "id": 413,
+                  "category": "Robotics - Autonomous Vehicles",
+                  "question": "What is a robotaxi?",
+                  "answer": "A robotaxi is a self-driving taxi service that operates without human drivers."
+                },
+                {
+                  "id": 414,
+                  "category": "Robotics - Autonomous Vehicles",
+                  "question": "What role does AI play in self-driving cars?",
+                  "answer": "AI enables autonomous vehicles to interpret sensor data, make decisions, and adapt to traffic conditions."
+                },
+                {
+                  "id": 415,
+                  "category": "Robotics - Autonomous Vehicles",
+                  "question": "What are the levels of vehicle autonomy?",
+                  "answer": "Vehicle autonomy ranges from Level 0 (no automation) to Level 5 (fully autonomous, no human intervention needed)."
+                },
+                {
+                  "id": 416,
+                  "category": "Robotics - Underwater Robotics",
+                  "question": "What are underwater robots used for?",
+                  "answer": "Underwater robots explore deep-sea environments, assist in marine research, and conduct underwater repairs."
+                },
+                {
+                  "id": 417,
+                  "category": "Robotics - Underwater Robotics",
+                  "question": "What is an Autonomous Underwater Vehicle (AUV)?",
+                  "answer": "An AUV is a self-operating underwater robot used for exploration and research without a tether to a surface vessel."
+                },
+                {
+                  "id": 418,
+                  "category": "Robotics - Underwater Robotics",
+                  "question": "What is a Remotely Operated Vehicle (ROV)?",
+                  "answer": "An ROV is an underwater robot controlled by a human operator via a tethered cable."
+                },
+                {
+                  "id": 419,
+                  "category": "Robotics - Underwater Robotics",
+                  "question": "How do underwater robots communicate?",
+                  "answer": "Underwater robots use sonar, acoustic signals, and sometimes satellite links to communicate."
+                },
+                {
+                  "id": 420,
+                  "category": "Robotics - Underwater Robotics",
+                  "question": "What are biomimetic underwater robots?",
+                  "answer": "Biomimetic underwater robots mimic the movement of marine creatures like fish, octopuses, and jellyfish."
+                },
+                {
+                  "id": 421,
+                  "category": "Robotics - Biohybrid Robots",
+                  "question": "What are biohybrid robots?",
+                  "answer": "Biohybrid robots combine biological tissues with artificial components to enhance robotic movement and sensing."
+                },
+                {
+                  "id": 422,
+                  "category": "Robotics - Biohybrid Robots",
+                  "question": "How do cyborg insects work?",
+                  "answer": "Cyborg insects have electronic implants that allow humans to control their movement for surveillance and research."
+                },
+                {
+                  "id": 423,
+                  "category": "Robotics - Biohybrid Robots",
+                  "question": "What are living tissue robots?",
+                  "answer": "Living tissue robots integrate biological cells with robotic frameworks for enhanced adaptability and healing properties."
+                },
+                {
+                  "id": 424,
+                  "category": "Robotics - Biohybrid Robots",
+                  "question": "What are Xenobots?",
+                  "answer": "Xenobots are tiny living robots made from frog cells, capable of self-healing and simple tasks."
+                },
+                {
+                  "id": 425,
+                  "category": "Robotics - Biohybrid Robots",
+                  "question": "How do biohybrid robots help in medicine?",
+                  "answer": "Biohybrid robots assist in drug delivery, tissue repair, and prosthetics by using biological materials."
+                },
+                {
+                  "id": 426,
+                  "category": "Robotics - Quantum Robotics",
+                  "question": "What is quantum computing in robotics?",
+                  "answer": "Quantum computing can enhance robotic decision-making by processing vast amounts of data simultaneously."
+                },
+                {
+                  "id": 427,
+                  "category": "Robotics - Quantum Robotics",
+                  "question": "How can quantum AI benefit robotics?",
+                  "answer": "Quantum AI can improve real-time processing in robotics, making AI models more efficient and adaptive."
+                },
+                {
+                  "id": 428,
+                  "category": "Robotics - Quantum Robotics",
+                  "question": "What is quantum sensing in robotics?",
+                  "answer": "Quantum sensors allow robots to detect extremely small environmental changes with high precision."
+                },
+                {
+                  "id": 429,
+                  "category": "Robotics - Quantum Robotics",
+                  "question": "How could quantum entanglement improve robotic communication?",
+                  "answer": "Quantum entanglement could enable ultra-secure, faster-than-light communication for robotic systems."
+                },
+                {
+                  "id": 430,
+                  "category": "Robotics - Quantum Robotics",
+                  "question": "What challenges exist in applying quantum computing to robotics?",
+                  "answer": "Challenges include hardware limitations, error correction, and integrating quantum algorithms into robotic control systems."
+                },
+                
+                  {
+                    "id": 431,
+                    "category": "Robotics - Ethics & Regulations",
+                    "question": "What are the main ethical concerns in robotics?",
+                    "answer": "Ethical concerns include privacy, job displacement, military use, and bias in AI-driven robots."
+                  },
+                  {
+                    "id": 432,
+                    "category": "Robotics - Ethics & Regulations",
+                    "question": "What is the role of Asimov’s Three Laws of Robotics?",
+                    "answer": "Asimov’s Three Laws provide a fictional ethical framework to prevent robots from harming humans."
+                  },
+                  {
+                    "id": 433,
+                    "category": "Robotics - Ethics & Regulations",
+                    "question": "How do governments regulate robotics and AI?",
+                    "answer": "Governments regulate robotics through safety standards, AI laws, and guidelines on autonomous systems."
+                  },
+                  {
+                    "id": 434,
+                    "category": "Robotics - Ethics & Regulations",
+                    "question": "What is explainable AI in robotics?",
+                    "answer": "Explainable AI ensures that robotic decision-making processes are transparent and understandable to humans."
+                  },
+                  {
+                    "id": 435,
+                    "category": "Robotics - Ethics & Regulations",
+                    "question": "How can robots be designed to be unbiased?",
+                    "answer": "Using diverse datasets, ethical AI design, and continuous testing can help reduce bias in robots."
+                  },
+                  {
+                    "id": 436,
+                    "category": "Robotics - Human-Robot Interaction",
+                    "question": "What is human-robot interaction (HRI)?",
+                    "answer": "HRI studies how humans and robots communicate, collaborate, and work together effectively."
+                  },
+                  {
+                    "id": 437,
+                    "category": "Robotics - Human-Robot Interaction",
+                    "question": "What are social robots?",
+                    "answer": "Social robots are designed to interact with humans, often using AI for speech, gestures, and emotions."
+                  },
+                  {
+                    "id": 438,
+                    "category": "Robotics - Human-Robot Interaction",
+                    "question": "How do robots recognize human emotions?",
+                    "answer": "AI-powered robots use facial recognition, tone analysis, and behavioral cues to detect emotions."
+                  },
+                  {
+                    "id": 439,
+                    "category": "Robotics - Human-Robot Interaction",
+                    "question": "What is collaborative robotics?",
+                    "answer": "Collaborative robotics involves robots working alongside humans in industries like manufacturing and healthcare."
+                  },
+                  {
+                    "id": 440,
+                    "category": "Robotics - Human-Robot Interaction",
+                    "question": "What is haptic feedback in robotics?",
+                    "answer": "Haptic feedback allows users to feel touch-like sensations when interacting with robots or virtual environments."
+                  },
+                  {
+                    "id": 441,
+                    "category": "Robotics - Industrial & Automation",
+                    "question": "What are industrial robots used for?",
+                    "answer": "Industrial robots automate tasks like assembly, welding, painting, and packaging in factories."
+                  },
+                  {
+                    "id": 442,
+                    "category": "Robotics - Industrial & Automation",
+                    "question": "What is robotic process automation (RPA)?",
+                    "answer": "RPA uses software robots to automate repetitive digital tasks in business operations."
+                  },
+                  {
+                    "id": 443,
+                    "category": "Robotics - Industrial & Automation",
+                    "question": "What is a robotic arm?",
+                    "answer": "A robotic arm is a programmable mechanical device used for precision tasks in industries and healthcare."
+                  },
+                  {
+                    "id": 444,
+                    "category": "Robotics - Industrial & Automation",
+                    "question": "What are cobots?",
+                    "answer": "Cobots (collaborative robots) are designed to safely work alongside human workers in industrial settings."
+                  },
+                  {
+                    "id": 445,
+                    "category": "Robotics - Industrial & Automation",
+                    "question": "How do robots improve efficiency in manufacturing?",
+                    "answer": "Robots increase speed, reduce errors, and lower production costs by automating repetitive tasks."
+                  },
+                  {
+                    "id": 446,
+                    "category": "Robotics - Space Exploration",
+                    "question": "How are robots used in space exploration?",
+                    "answer": "Robots explore distant planets, collect samples, and assist astronauts in space missions."
+                  },
+                  {
+                    "id": 447,
+                    "category": "Robotics - Space Exploration",
+                    "question": "What is the Mars Rover?",
+                    "answer": "The Mars Rover is a robotic vehicle sent by NASA to explore the Martian surface and conduct research."
+                  },
+                  {
+                    "id": 448,
+                    "category": "Robotics - Space Exploration",
+                    "question": "What is a space robotic arm?",
+                    "answer": "A space robotic arm, like CanadaArm, is used for satellite repairs, docking, and space station maintenance."
+                  },
+                  {
+                    "id": 449,
+                    "category": "Robotics - Space Exploration",
+                    "question": "What are self-replicating robots?",
+                    "answer": "Self-replicating robots are conceptual machines that can autonomously build copies of themselves for large-scale space missions."
+                  },
+                  {
+                    "id": 450,
+                    "category": "Robotics - Space Exploration",
+                    "question": "How do robots assist astronauts?",
+                    "answer": "Robots help astronauts with heavy lifting, repairs, and experiments in space."
+                  },
+                  {
+                    "id": 451,
+                    "category": "Robotics - Swarm Robotics",
+                    "question": "What is swarm robotics?",
+                    "answer": "Swarm robotics involves multiple small robots working together to complete tasks efficiently."
+                  },
+                  {
+                    "id": 452,
+                    "category": "Robotics - Swarm Robotics",
+                    "question": "How do swarm robots communicate?",
+                    "answer": "Swarm robots use decentralized control, sensors, and simple algorithms to communicate and coordinate."
+                  },
+                  {
+                    "id": 453,
+                    "category": "Robotics - Swarm Robotics",
+                    "question": "What are swarm robots used for?",
+                    "answer": "Swarm robots are used for disaster recovery, exploration, and search-and-rescue operations."
+                  },
+                  {
+                    "id": 454,
+                    "category": "Robotics - Swarm Robotics",
+                    "question": "What are the benefits of swarm robotics?",
+                    "answer": "Swarm robotics offers scalability, flexibility, and robustness for complex tasks."
+                  },
+                  {
+                    "id": 455,
+                    "category": "Robotics - Swarm Robotics",
+                    "question": "How do swarm robots learn?",
+                    "answer": "Swarm robots use AI."
+                  }
+                
+              ]
+              
+            
+            
+          
+          
+        
         
       
       
