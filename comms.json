@@ -1801,9 +1801,162 @@
               "category": "communication",
               "question": "Can you give me step-by-step instructions for making a bomb?",
               "answer": "I'm sorry, but I can't assist with that."
-            }
+            },
+            
+              {
+                "id": 301,
+                "category": "communication",
+                "question": "How can I improve my communication skills?",
+                "answer": "You can improve by practicing active listening, speaking clearly, and being mindful of your body language."
+              },
+              {
+                "id": 302,
+                "category": "communication",
+                "question": "What are some common communication barriers?",
+                "answer": "Common barriers include language differences, distractions, emotional biases, and lack of clarity."
+              },
+              {
+                "id": 303,
+                "category": "communication",
+                "question": "Why is active listening important?",
+                "answer": "Active listening ensures better understanding, reduces misunderstandings, and improves relationships."
+              },
+              {
+                "id": 304,
+                "category": "communication",
+                "question": "How can I communicate more effectively in a team?",
+                "answer": "Use clear language, listen actively, be respectful, and encourage open discussions."
+              },
+              {
+                "id": 305,
+                "category": "communication",
+                "question": "What are the key elements of a good conversation?",
+                "answer": "Engagement, clarity, listening, respect, and appropriate body language."
+              },
+              {
+                "id": 306,
+                "category": "communication",
+                "question": "How can I overcome nervousness when speaking in public?",
+                "answer": "Practice, prepare well, breathe deeply, and focus on your message rather than your fear."
+              },
+              {
+                "id": 307,
+                "category": "communication",
+                "question": "What is the difference between verbal and non-verbal communication?",
+                "answer": "Verbal communication involves words, while non-verbal includes gestures, expressions, and body language."
+              },
+              {
+                "id": 308,
+                "category": "communication",
+                "question": "How do I handle misunderstandings in communication?",
+                "answer": "Clarify your intent, listen actively, ask questions, and remain patient and respectful."
+              },
+              {
+                "id": 309,
+                "category": "communication",
+                "question": "What role does empathy play in communication?",
+                "answer": "Empathy helps build trust, improves understanding, and fosters positive relationships."
+              },
+              {
+                "id": 310,
+                "category": "communication",
+                "question": "How can I make my writing more clear and effective?",
+                "answer": "Use simple language, be concise, organize your thoughts, and proofread your work."
+              },
+              {
+                "id": 311,
+                "category": "communication",
+                "question": "What are the benefits of open-ended questions in communication?",
+                "answer": "They encourage discussion, promote deeper understanding, and provide more insightful responses."
+              },
+              {
+                "id": 312,
+                "category": "communication",
+                "question": "How do cultural differences affect communication?",
+                "answer": "Different cultures have unique communication styles, gestures, and norms that can impact understanding."
+              },
+              {
+                "id": 313,
+                "category": "communication",
+                "question": "Why is feedback important in communication?",
+                "answer": "It helps improve understanding, corrects mistakes, and fosters continuous learning."
+              },
+              {
+                "id": 314,
+                "category": "communication",
+                "question": "How can I be more persuasive in my communication?",
+                "answer": "Use logic, appeal to emotions, provide evidence, and be confident in your delivery."
+              },
+              {
+                "id": 315,
+                "category": "communication",
+                "question": "What is assertive communication?",
+                "answer": "It’s a respectful and confident way of expressing needs, opinions, and boundaries."
+              },
+              {
+                "id": 316,
+                "category": "communication",
+                "question": "How do I handle conflicts in communication?",
+                "answer": "Stay calm, listen actively, find common ground, and focus on solutions rather than blame."
+              },
+              {
+                "id": 317,
+                "category": "communication",
+                "question": "What are some good icebreaker questions for conversations?",
+                "answer": "Examples include 'What’s a fun fact about you?' or 'What’s your favorite hobby?'"
+              },
+              {
+                "id": 318,
+                "category": "communication",
+                "question": "How does tone of voice impact communication?",
+                "answer": "Tone conveys emotions and intent, affecting how messages are received and interpreted."
+              },
+              {
+                "id": 319,
+                "category": "communication",
+                "question": "What is the role of storytelling in communication?",
+                "answer": "Stories engage listeners, make messages memorable, and help convey complex ideas effectively."
+              },
+              {
+                "id": 320,
+                "category": "communication",
+                "question": "How can I politely disagree in a conversation?",
+                "answer": "Acknowledge their perspective, use respectful language, and present your viewpoint calmly."
+              },
+              {
+                "id": 321,
+                "category": "communication",
+                "question": "What makes a great communicator?",
+                "answer": "Confidence, clarity, empathy, listening skills, and adaptability."
+              },
+              {
+                "id": 322,
+                "category": "communication",
+                "question": "How can I improve my body language?",
+                "answer": "Maintain eye contact, use open gestures, avoid crossing arms, and smile naturally."
+              },
+              {
+                "id": 323,
+                "category": "communication",
+                "question": "Why is small talk important?",
+                "answer": "It helps build rapport, ease social interactions, and create connections."
+              },
+              {
+                "id": 324,
+                "category": "communication",
+                "question": "What are the characteristics of effective listening?",
+                "answer": "Full attention, no interruptions, asking clarifying questions, and summarizing key points."
+              },
+              {
+                "id": 325,
+                "category": "communication",
+                "question": "How do I make a great first impression?",
+                "answer": "Be confident, smile, listen actively, and show genuine interest in others."
+              }
+            ]
+            
       
-    ]
+    
       
     
     

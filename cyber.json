@@ -4399,10 +4399,11 @@
                                           "question": "Why is patch management important in vulnerability scanning?",
                                           "answer": "Patch management ensures vulnerabilities are fixed promptly, reducing the risk of exploitation by attackers."
                                         }
+                                        
                                       ]
                                       
 
-                                    ]                                    
+                                                                       
                                   
                                   
                                 
