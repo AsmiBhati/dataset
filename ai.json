@@ -3685,7 +3685,277 @@
                                   "category": "Explainable AI (XAI)",
                                   "question": "How does Explainable AI relate to human-in-the-loop systems?",
                                   "answer": "XAI enables human oversight and intervention in AI decision-making, ensuring reliability and fairness."
-                                }
+                                },
+                                
+                                  {
+                                    "id": 612,
+                                    "category": "Explainable AI (XAI)",
+                                    "question": "What are the different types of interpretability in XAI?",
+                                    "answer": "Interpretability in XAI can be categorized into intrinsic interpretability (built into simpler models like decision trees) and post-hoc interpretability (applied after training using methods like SHAP and LIME)."
+                                  },
+                                  {
+                                    "id": 613,
+                                    "category": "Explainable AI (XAI)",
+                                    "question": "What are attention mechanisms, and how do they improve explainability?",
+                                    "answer": "Attention mechanisms in deep learning highlight important input features that influence model predictions, improving interpretability in tasks like NLP and computer vision."
+                                  },
+                                  {
+                                    "id": 614,
+                                    "category": "Explainable AI (XAI)",
+                                    "question": "How does Causal Inference contribute to AI explainability?",
+                                    "answer": "Causal inference helps determine cause-and-effect relationships in AI models, making them more interpretable by identifying the true impact of different features."
+                                  },
+                                  {
+                                    "id": 615,
+                                    "category": "Explainable AI (XAI)",
+                                    "question": "What are concept-based explanations in AI models?",
+                                    "answer": "Concept-based explanations use predefined human-interpretable concepts to explain model decisions rather than relying only on feature importance scores."
+                                  },
+                                  {
+                                    "id": 616,
+                                    "category": "Explainable AI (XAI)",
+                                    "question": "How do adversarial examples impact AI explainability?",
+                                    "answer": "Adversarial examples expose model vulnerabilities by slightly altering inputs to deceive AI, highlighting the need for robust explainability techniques."
+                                  },
+                                  {
+                                    "id": 617,
+                                    "category": "Explainable AI (XAI)",
+                                    "question": "What role do surrogate models play in XAI?",
+                                    "answer": "Surrogate models are simpler, interpretable models trained to approximate complex AI systems, making them easier to analyze and understand."
+                                  },
+                                  {
+                                    "id": 618,
+                                    "category": "Explainable AI (XAI)",
+                                    "question": "What are prototype-based explanations in AI?",
+                                    "answer": "Prototype-based explanations use representative examples from training data to illustrate how an AI model makes decisions."
+                                  },
+                                  {
+                                    "id": 619,
+                                    "category": "Generative AI",
+                                    "question": "What is Few-shot and Zero-shot learning in Generative AI?",
+                                    "answer": "Few-shot learning enables AI models to generate outputs with minimal examples, while zero-shot learning allows them to generate outputs for tasks they haven't seen before."
+                                  },
+                                  {
+                                    "id": 620,
+                                    "category": "Generative AI",
+                                    "question": "How does Generative AI handle multimodal generation?",
+                                    "answer": "Multimodal Generative AI models, like OpenAI’s DALL·E and GPT-4V, process and generate text, images, and audio together to create richer content."
+                                  },
+                                  {
+                                    "id": 621,
+                                    "category": "Generative AI",
+                                    "question": "What is Contrastive Learning, and how does it benefit Generative AI?",
+                                    "answer": "Contrastive Learning enhances Generative AI by learning representations that distinguish between similar and dissimilar data, improving model generalization."
+                                  },
+                                  {
+                                    "id": 622,
+                                    "category": "Generative AI",
+                                    "question": "How do Neural Radiance Fields (NeRFs) relate to Generative AI?",
+                                    "answer": "NeRFs use neural networks to synthesize 3D scenes from 2D images, enabling realistic AI-generated 3D content for applications in AR/VR."
+                                  },
+                                  {
+                                    "id": 623,
+                                    "category": "Generative AI",
+                                    "question": "What is a Transformer-based Diffusion Model?",
+                                    "answer": "A Transformer-based Diffusion Model combines transformers with diffusion processes to enhance generative capabilities, such as text-to-image synthesis."
+                                  },
+                                  {
+                                    "id": 624,
+                                    "category": "Generative AI",
+                                    "question": "How does controllable generation work in Generative AI?",
+                                    "answer": "Controllable generation allows users to guide AI outputs by adjusting parameters like style, emotion, or content constraints in generation models."
+                                  },
+                                  {
+                                    "id": 625,
+                                    "category": "Generative AI",
+                                    "question": "What is prompt engineering, and why is it important?",
+                                    "answer": "Prompt engineering is the process of designing inputs to guide AI models in producing desired outputs, crucial for improving generative AI performance."
+                                  },
+                                  {
+                                    "id": 626,
+                                    "category": "Generative AI",
+                                    "question": "What is Retrieval-Augmented Generation (RAG)?",
+                                    "answer": "RAG combines AI generation with information retrieval, enhancing model accuracy by fetching relevant external knowledge before generating responses."
+                                  },
+                                  {
+                                    "id": 627,
+                                    "category": "Generative AI",
+                                    "question": "What are the risks associated with AI-generated content?",
+                                    "answer": "Risks include misinformation, deepfakes, biased outputs, and ethical concerns regarding authorship and authenticity."
+                                  },
+                                  {
+                                    "id": 628,
+                                    "category": "Generative AI",
+                                    "question": "How can Generative AI be used for AI-assisted creativity?",
+                                    "answer": "AI-assisted creativity enhances human work in fields like art, music, and writing by generating new ideas, designs, and compositions."
+                                  },
+                                  {
+                                    "id": 629,
+                                    "category": "Generative AI",
+                                    "question": "What are synthetic datasets, and why are they important?",
+                                    "answer": "Synthetic datasets are AI-generated data used to train models when real data is limited, ensuring privacy and reducing bias."
+                                  },
+                                  {
+                                    "id": 630,
+                                    "category": "Generative AI",
+                                    "question": "What are AI hallucinations in Generative AI?",
+                                    "answer": "AI hallucinations refer to incorrect or misleading outputs generated by AI models due to gaps in their training data or overgeneralization."
+                                  },
+                                  
+                                    {
+                                      "id": 631,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is the Transformer model in deep learning?",
+                                      "answer": "The Transformer is a neural network architecture introduced in the paper 'Attention Is All You Need' (2017). It uses self-attention mechanisms and parallel processing to improve sequence modeling in NLP."
+                                    },
+                                    {
+                                      "id": 632,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "How does self-attention work in a Transformer model?",
+                                      "answer": "Self-attention allows the model to weigh the importance of different words in a sequence, capturing long-range dependencies and contextual relationships."
+                                    },
+                                    {
+                                      "id": 633,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is multi-head attention in Transformers?",
+                                      "answer": "Multi-head attention enables a Transformer to attend to different positions in a sequence simultaneously, capturing multiple types of dependencies and contextual information."
+                                    },
+                                    {
+                                      "id": 634,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "How do Transformers differ from RNNs?",
+                                      "answer": "Unlike RNNs, which process sequences sequentially, Transformers use self-attention and parallelization, making them more efficient for large-scale NLP tasks."
+                                    },
+                                    {
+                                      "id": 635,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What are the key components of the Transformer model?",
+                                      "answer": "The Transformer consists of an encoder-decoder structure, multi-head self-attention, feed-forward networks, layer normalization, and positional encoding."
+                                    },
+                                    {
+                                      "id": 636,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is positional encoding in Transformers?",
+                                      "answer": "Positional encoding helps Transformers retain the order of words in a sequence, as they lack the inherent sequential processing of RNNs."
+                                    },
+                                    {
+                                      "id": 637,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is BERT, and how does it work?",
+                                      "answer": "BERT (Bidirectional Encoder Representations from Transformers) is a pre-trained NLP model that uses bidirectional self-attention to understand the context of words from both left and right."
+                                    },
+                                    {
+                                      "id": 638,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is GPT, and how does it differ from BERT?",
+                                      "answer": "GPT (Generative Pre-trained Transformer) is a unidirectional model that generates text sequentially, while BERT is bidirectional and focuses on understanding contextual meaning."
+                                    },
+                                    {
+                                      "id": 639,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "How do Transformers improve NLP applications?",
+                                      "answer": "Transformers improve NLP by enabling context-aware language modeling, better translation, text summarization, question answering, and sentiment analysis."
+                                    },
+                                    {
+                                      "id": 640,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is the role of the encoder in a Transformer model?",
+                                      "answer": "The encoder processes input sequences using self-attention and feed-forward layers to generate contextual representations for downstream tasks."
+                                    },
+                                    {
+                                      "id": 641,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is the role of the decoder in a Transformer model?",
+                                      "answer": "The decoder generates outputs by attending to the encoder’s context representation and previously generated words, making it crucial for tasks like translation."
+                                    },
+                                    {
+                                      "id": 642,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is a masked language model (MLM) in BERT?",
+                                      "answer": "MLM is a training technique in which random words in a sentence are masked, and the model learns to predict them using surrounding context."
+                                    },
+                                    {
+                                      "id": 643,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is causal self-attention, and why is it used in GPT?",
+                                      "answer": "Causal self-attention ensures that GPT models generate words sequentially by only attending to previous tokens, preventing the model from seeing future words."
+                                    },
+                                    {
+                                      "id": 644,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is fine-tuning in Transformers?",
+                                      "answer": "Fine-tuning involves adapting a pre-trained Transformer model to a specific task by training it on domain-specific data with additional layers."
+                                    },
+                                    {
+                                      "id": 645,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What are some applications of Transformers in computer vision?",
+                                      "answer": "Transformers are used in Vision Transformers (ViTs) for image classification, object detection, and image segmentation by treating images as sequences of patches."
+                                    },
+                                    {
+                                      "id": 646,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is ALBERT, and how does it improve BERT?",
+                                      "answer": "ALBERT (A Lite BERT) reduces BERT’s parameters using factorized embeddings and parameter sharing, making it more efficient with comparable performance."
+                                    },
+                                    {
+                                      "id": 647,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is T5, and how is it different from other Transformers?",
+                                      "answer": "T5 (Text-to-Text Transfer Transformer) treats all NLP tasks as text-to-text transformations, making it highly versatile for tasks like translation and summarization."
+                                    },
+                                    {
+                                      "id": 648,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is the difference between ViTs and CNNs?",
+                                      "answer": "ViTs process images using self-attention on patches, whereas CNNs use convolutional filters, leading to different strengths in feature extraction and scalability."
+                                    },
+                                    {
+                                      "id": 649,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is XLNet, and how does it improve upon BERT?",
+                                      "answer": "XLNet combines bidirectional context modeling with autoregressive pre-training, addressing BERT’s limitations while maintaining sequential generation capabilities."
+                                    },
+                                    {
+                                      "id": 650,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is DistilBERT, and why is it useful?",
+                                      "answer": "DistilBERT is a lighter, faster version of BERT that retains most of its performance while being more efficient for real-world applications."
+                                    },
+                                    {
+                                      "id": 651,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is Longformer, and how does it handle longer sequences?",
+                                      "answer": "Longformer uses a combination of local and global attention to efficiently process long sequences, reducing computational complexity."
+                                    },
+                                    {
+                                      "id": 652,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What are adapters in Transformer models?",
+                                      "answer": "Adapters are lightweight modules inserted into Transformer layers, allowing task-specific fine-tuning with fewer parameters."
+                                    },
+                                    {
+                                      "id": 653,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What is Retrieval-Augmented Generation (RAG) in NLP?",
+                                      "answer": "RAG enhances Transformer models by retrieving external knowledge before generating responses, improving factual accuracy."
+                                    },
+                                    {
+                                      "id": 654,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "What are the limitations of Transformer models?",
+                                      "answer": "Transformers require large amounts of data and computational resources, struggle with extremely long sequences, and may produce biased outputs."
+                                    },
+                                    {
+                                      "id": 655,
+                                      "category": "Transformers & Attention Mechanisms",
+                                      "question": "How are Transformers evolving with sparse attention?",
+                                      "answer": "Sparse attention techniques, like BigBird, reduce computational costs by attending only to essential parts of long sequences."
+                                    }
+                                  
+                                  
+                                
+                                
                               
                               
                             
