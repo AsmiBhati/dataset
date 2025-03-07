@@ -3196,7 +3196,319 @@
                             "category": "Deep Learning - RNNs",
                             "question": "What is bidirectional RNN (Bi-RNN)?",
                             "answer": "A Bi-RNN processes sequences in both forward and backward directions, improving performance on tasks like translation."
-                          }
+                          },
+                          
+                            {
+                              "id": 531,
+                              "category": "Deep Learning - CNNs",
+                              "question": "What is ResNet in CNNs?",
+                              "answer": "ResNet (Residual Network) is a CNN architecture that uses residual connections to solve the vanishing gradient problem in deep networks."
+                            },
+                            {
+                              "id": 532,
+                              "category": "Deep Learning - CNNs",
+                              "question": "What is DenseNet in CNNs?",
+                              "answer": "DenseNet (Densely Connected Network) connects each layer to every other layer, improving feature reuse and reducing the number of parameters."
+                            },
+                            {
+                              "id": 533,
+                              "category": "Deep Learning - CNNs",
+                              "question": "What is MobileNet, and why is it important?",
+                              "answer": "MobileNet is a lightweight CNN architecture optimized for mobile and embedded devices, using depthwise separable convolutions."
+                            },
+                            {
+                              "id": 534,
+                              "category": "Deep Learning - CNNs",
+                              "question": "How do Vision Transformers (ViTs) compare to CNNs?",
+                              "answer": "ViTs use self-attention instead of convolutions, allowing them to capture global dependencies more effectively in images."
+                            },
+                            {
+                              "id": 535,
+                              "category": "Deep Learning - CNNs",
+                              "question": "What is the role of dropout in CNNs?",
+                              "answer": "Dropout randomly disables neurons during training to prevent overfitting and improve generalization."
+                            },
+                            {
+                              "id": 536,
+                              "category": "Deep Learning - CNNs",
+                              "question": "How does batch normalization help CNNs?",
+                              "answer": "Batch normalization normalizes layer inputs to stabilize training, speed up convergence, and reduce overfitting."
+                            },
+                            {
+                              "id": 537,
+                              "category": "Deep Learning - CNNs",
+                              "question": "What is data augmentation in CNNs?",
+                              "answer": "Data augmentation artificially increases training data by applying transformations like rotation, scaling, and flipping."
+                            },
+                            {
+                              "id": 538,
+                              "category": "Deep Learning - CNNs",
+                              "question": "What are adversarial attacks on CNNs?",
+                              "answer": "Adversarial attacks manipulate input images with small changes to deceive CNNs into making incorrect predictions."
+                            },
+                            {
+                              "id": 539,
+                              "category": "Deep Learning - CNNs",
+                              "question": "How can CNNs be interpreted and explained?",
+                              "answer": "Techniques like Grad-CAM, saliency maps, and feature visualization help explain CNN decision-making."
+                            },
+                            {
+                              "id": 540,
+                              "category": "Deep Learning - CNNs",
+                              "question": "What are attention mechanisms in CNNs?",
+                              "answer": "Attention mechanisms allow CNNs to focus on important image regions, improving object detection and recognition."
+                            },
+                            {
+                              "id": 541,
+                              "category": "Deep Learning - RNNs",
+                              "question": "What are Transformers, and why are they replacing RNNs?",
+                              "answer": "Transformers use self-attention and parallelization, making them more efficient and accurate for sequential tasks than RNNs."
+                            },
+                            {
+                              "id": 542,
+                              "category": "Deep Learning - RNNs",
+                              "question": "What is an attention mechanism in RNNs?",
+                              "answer": "Attention helps RNNs focus on specific input parts, improving performance in translation and text generation tasks."
+                            },
+                            {
+                              "id": 543,
+                              "category": "Deep Learning - RNNs",
+                              "question": "What is a Sequence-to-Sequence (Seq2Seq) model?",
+                              "answer": "A Seq2Seq model consists of an encoder and decoder, commonly used in machine translation and chatbots."
+                            },
+                            {
+                              "id": 544,
+                              "category": "Deep Learning - RNNs",
+                              "question": "What is teacher forcing in RNN training?",
+                              "answer": "Teacher forcing is a training technique where the true previous output is fed into the model instead of its own prediction."
+                            },
+                            {
+                              "id": 545,
+                              "category": "Deep Learning - RNNs",
+                              "question": "What is gradient clipping in RNNs?",
+                              "answer": "Gradient clipping prevents exploding gradients by limiting the maximum gradient value during backpropagation."
+                            },
+                            {
+                              "id": 546,
+                              "category": "Deep Learning - RNNs",
+                              "question": "How do RNNs handle variable-length sequences?",
+                              "answer": "Padding and masking techniques allow RNNs to process sequences of different lengths in batches."
+                            },
+                            {
+                              "id": 547,
+                              "category": "Deep Learning - RNNs",
+                              "question": "What are the limitations of RNNs?",
+                              "answer": "RNNs struggle with long-term dependencies, vanishing gradients, and slow training times."
+                            },
+                            {
+                              "id": 548,
+                              "category": "Deep Learning - RNNs",
+                              "question": "How are RNNs used in reinforcement learning?",
+                              "answer": "RNNs help reinforcement learning agents handle sequential dependencies, such as memory-based decision-making."
+                            },
+                            {
+                              "id": 549,
+                              "category": "Deep Learning - RNNs",
+                              "question": "What are common failure cases of RNNs?",
+                              "answer": "RNNs can struggle with very long sequences, ambiguous contexts, and catastrophic forgetting."
+                            },
+                            {
+                              "id": 550,
+                              "category": "Deep Learning - RNNs",
+                              "question": "How do bidirectional RNNs improve performance?",
+                              "answer": "Bidirectional RNNs process input sequences both forward and backward, improving accuracy in tasks like speech recognition."
+                            },
+                            {
+                              "id": 551,
+                              "category": "Deep Learning - CNNs & RNNs",
+                              "question": "How are CNNs and RNNs combined?",
+                              "answer": "CNNs extract spatial features, which are then processed by RNNs for sequence-based tasks like video captioning."
+                            },
+                            {
+                              "id": 552,
+                              "category": "Deep Learning - CNNs & RNNs",
+                              "question": "What are hybrid models of CNNs and RNNs used for?",
+                              "answer": "Hybrid CNN-RNN models are used in applications like action recognition, video analysis, and medical diagnostics."
+                            },
+                            {
+                              "id": 553,
+                              "category": "Deep Learning - CNNs & RNNs",
+                              "question": "What is video classification using CNNs and RNNs?",
+                              "answer": "CNNs extract frame-wise features, and RNNs analyze sequential changes over time for video classification."
+                            },
+                            {
+                              "id": 554,
+                              "category": "Deep Learning - CNNs & RNNs",
+                              "question": "What is the role of CNNs in speech recognition?",
+                              "answer": "CNNs process spectrogram images of audio signals before passing them to RNNs or transformers for transcription."
+                            },
+                            {
+                              "id": 555,
+                              "category": "Deep Learning - CNNs & RNNs",
+                              "question": "What are self-attention and transformers in deep learning?",
+                              "answer": "Self-attention allows models like transformers to weigh different input parts, leading to better context understanding."
+                            },
+                            {
+                              "id": 556,
+                              "category": "Deep Learning - CNNs & RNNs",
+                              "question": "Why are transformers replacing CNNs and RNNs?",
+                              "answer": "Transformers provide better scalability, parallelization, and performance in NLP and vision tasks."
+                            },
+                            {
+                              "id": 557,
+                              "category": "Deep Learning - CNNs & RNNs",
+                              "question": "What are the main applications of CNNs and RNNs together?",
+                              "answer": "Applications include video analysis, autonomous driving, speech recognition, and medical diagnostics."
+                            },
+                            {
+                              "id": 558,
+                              "category": "Deep Learning - CNNs & RNNs",
+                              "question": "How do CNNs and RNNs handle multimodal data?",
+                              "answer": "CNNs process images, while RNNs process text/audio, allowing for applications like video captioning."
+                            },
+                            {
+                              "id": 559,
+                              "category": "Deep Learning - CNNs & RNNs",
+                              "question": "What is the future of CNNs and RNNs?",
+                              "answer": "CNNs and RNNs are evolving with transformers, attention mechanisms, and more efficient architectures."
+                            },
+                            {
+                              "id": 560,
+                              "category": "Deep Learning - CNNs & RNNs",
+                              "question": "How are CNNs and RNNs used in autonomous vehicles?",
+                              "answer": "CNNs process camera images, while RNNs analyze time-series sensor data for decision-making in self-driving cars."
+                            },
+                            
+                              {
+                                "id": 561,
+                                "category": "Generative AI",
+                                "question": "What is Generative AI?",
+                                "answer": "Generative AI refers to artificial intelligence models that can create new data, such as images, text, and music, by learning patterns from existing data."
+                              },
+                              {
+                                "id": 562,
+                                "category": "Generative AI",
+                                "question": "What are Generative Adversarial Networks (GANs)?",
+                                "answer": "GANs are a type of generative model consisting of two neural networks, a generator and a discriminator, that compete against each other to create realistic data."
+                              },
+                              {
+                                "id": 563,
+                                "category": "Generative AI",
+                                "question": "How do GANs work?",
+                                "answer": "A generator creates synthetic data, while a discriminator evaluates its authenticity. Both networks improve over time through adversarial training."
+                              },
+                              {
+                                "id": 564,
+                                "category": "Generative AI",
+                                "question": "What are some applications of GANs?",
+                                "answer": "GANs are used in image generation, deepfake creation, data augmentation, super-resolution, and even drug discovery."
+                              },
+                              {
+                                "id": 565,
+                                "category": "Generative AI",
+                                "question": "What are diffusion models in Generative AI?",
+                                "answer": "Diffusion models are a type of generative model that gradually add and then remove noise from data to generate realistic outputs, commonly used in image generation."
+                              },
+                              {
+                                "id": 566,
+                                "category": "Generative AI",
+                                "question": "How do diffusion models compare to GANs?",
+                                "answer": "Diffusion models are often more stable in training and can generate higher-quality images, whereas GANs can be difficult to train but generate images faster."
+                              },
+                              {
+                                "id": 567,
+                                "category": "Generative AI",
+                                "question": "What is AI-generated text, and how does it work?",
+                                "answer": "AI-generated text is created using large language models (LLMs) like GPT, which predict and generate words based on training data."
+                              },
+                              {
+                                "id": 568,
+                                "category": "Generative AI",
+                                "question": "What is the role of transformers in Generative AI?",
+                                "answer": "Transformers use self-attention mechanisms to process and generate text, images, and even music, making them a core part of generative AI models."
+                              },
+                              {
+                                "id": 569,
+                                "category": "Generative AI",
+                                "question": "What is a Variational Autoencoder (VAE)?",
+                                "answer": "A VAE is a type of generative model that learns to encode and decode data into a compressed latent space, enabling efficient generation of new samples."
+                              },
+                              {
+                                "id": 570,
+                                "category": "Generative AI",
+                                "question": "How are generative models used in music and art?",
+                                "answer": "Generative models create music, paintings, and other art forms by learning patterns from existing works and producing new, unique outputs."
+                              },
+                              {
+                                "id": 571,
+                                "category": "Generative AI",
+                                "question": "What are deepfakes, and how do they work?",
+                                "answer": "Deepfakes are AI-generated videos that manipulate faces and voices using deep learning models, often based on GANs."
+                              },
+                              {
+                                "id": 572,
+                                "category": "Generative AI",
+                                "question": "What are the ethical concerns of Generative AI?",
+                                "answer": "Concerns include misinformation, deepfake abuse, copyright issues, and biases in AI-generated content."
+                              },
+                              {
+                                "id": 573,
+                                "category": "Generative AI",
+                                "question": "What is AI-based image super-resolution?",
+                                "answer": "AI-based super-resolution uses models like GANs and diffusion models to enhance low-resolution images by adding fine details."
+                              },
+                              {
+                                "id": 574,
+                                "category": "Generative AI",
+                                "question": "How is Generative AI used in drug discovery?",
+                                "answer": "AI models generate novel molecular structures and predict their properties, accelerating the drug discovery process."
+                              },
+                              {
+                                "id": 575,
+                                "category": "Generative AI",
+                                "question": "What are the limitations of Generative AI?",
+                                "answer": "Limitations include high computational cost, biases in training data, and challenges in controlling generated content."
+                              },
+                              {
+                                "id": 576,
+                                "category": "Generative AI",
+                                "question": "How does Generative AI improve chatbots?",
+                                "answer": "Generative AI enables chatbots to generate human-like responses, improving natural language understanding and engagement."
+                              },
+                              {
+                                "id": 577,
+                                "category": "Generative AI",
+                                "question": "What is zero-shot and few-shot learning in Generative AI?",
+                                "answer": "Zero-shot learning enables AI to generate content without specific training examples, while few-shot learning uses minimal data for training."
+                              },
+                              {
+                                "id": 578,
+                                "category": "Generative AI",
+                                "question": "What is AI-generated code, and how does it work?",
+                                "answer": "AI-generated code is created using models like GitHub Copilot and CodeBERT, which predict and suggest code snippets based on context."
+                              },
+                              {
+                                "id": 579,
+                                "category": "Generative AI",
+                                "question": "How does AI assist in video generation?",
+                                "answer": "AI generates videos using diffusion models, GANs, and neural rendering, allowing for realistic animations and scene synthesis."
+                              },
+                              {
+                                "id": 580,
+                                "category": "Generative AI",
+                                "question": "What is text-to-image generation in Generative AI?",
+                                "answer": "Text-to-image models like DALL·E generate images based on textual descriptions using transformer-based architectures."
+                              },
+                              {
+                                "id": 581,
+                                "category": "Generative AI",
+                                "question": "What is the future of Generative AI?",
+                                "answer": "The future includes more controllable AI-generated content, improved ethical safeguards, and broader applications in creative industries."
+                              }
+                            
+                            
+                          
+                          
                         
                         
                       
