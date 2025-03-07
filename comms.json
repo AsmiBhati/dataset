@@ -2890,8 +2890,744 @@
                                 "category": "communication",
                                 "question": "Can you be my friend?",
                                 "answer": "Of course! I'm always here to chat and help you out."
-                              }
-                            ]
+                              },
+                              
+                                {
+                                  "id": 481,
+                                  "category": "programming",
+                                  "question": "What is programming?",
+                                  "answer": "Programming is the process of writing instructions for a computer to perform tasks."
+                                },
+                                {
+                                  "id": 482,
+                                  "category": "programming",
+                                  "question": "What are the most popular programming languages?",
+                                  "answer": "Some popular programming languages are Python, JavaScript, Java, C++, and Go."
+                                },
+                                {
+                                  "id": 483,
+                                  "category": "programming",
+                                  "question": "What is Python used for?",
+                                  "answer": "Python is used for web development, data science, automation, and more."
+                                },
+                                {
+                                  "id": 484,
+                                  "category": "programming",
+                                  "question": "What is an algorithm?",
+                                  "answer": "An algorithm is a step-by-step procedure for solving a problem."
+                                },
+                                {
+                                  "id": 485,
+                                  "category": "programming",
+                                  "question": "What is debugging?",
+                                  "answer": "Debugging is the process of identifying and fixing errors in code."
+                                },
+                                {
+                                  "id": 486,
+                                  "category": "programming",
+                                  "question": "What is an IDE?",
+                                  "answer": "An IDE (Integrated Development Environment) is a software application that provides tools for writing, testing, and debugging code."
+                                },
+                                {
+                                  "id": 487,
+                                  "category": "programming",
+                                  "question": "What is version control?",
+                                  "answer": "Version control is a system that tracks changes to code, helping developers collaborate efficiently."
+                                },
+                                {
+                                  "id": 488,
+                                  "category": "programming",
+                                  "question": "What is Git?",
+                                  "answer": "Git is a distributed version control system used for tracking changes in source code."
+                                },
+                                {
+                                  "id": 489,
+                                  "category": "programming",
+                                  "question": "What is a function in programming?",
+                                  "answer": "A function is a reusable block of code that performs a specific task."
+                                },
+                                {
+                                  "id": 490,
+                                  "category": "programming",
+                                  "question": "What is object-oriented programming?",
+                                  "answer": "Object-oriented programming (OOP) is a paradigm that organizes code using objects and classes."
+                                },
+                                {
+                                  "id": 491,
+                                  "category": "programming",
+                                  "question": "What is a variable in programming?",
+                                  "answer": "A variable is a storage location in a program that holds a value."
+                                },
+                                {
+                                  "id": 492,
+                                  "category": "programming",
+                                  "question": "What is recursion in programming?",
+                                  "answer": "Recursion is a technique where a function calls itself to solve a problem."
+                                },
+                                {
+                                  "id": 493,
+                                  "category": "programming",
+                                  "question": "What is an API?",
+                                  "answer": "An API (Application Programming Interface) is a set of rules that allows different software systems to communicate."
+                                },
+                                {
+                                  "id": 494,
+                                  "category": "programming",
+                                  "question": "What is SQL?",
+                                  "answer": "SQL (Structured Query Language) is used for managing and querying databases."
+                                },
+                                {
+                                  "id": 495,
+                                  "category": "DevOps",
+                                  "question": "What is DevOps?",
+                                  "answer": "DevOps is a software development approach that combines development and IT operations to improve efficiency and automation."
+                                },
+                                {
+                                  "id": 496,
+                                  "category": "DevOps",
+                                  "question": "What is CI/CD?",
+                                  "answer": "CI/CD (Continuous Integration/Continuous Deployment) is a DevOps practice that automates the process of code integration, testing, and deployment."
+                                },
+                                {
+                                  "id": 497,
+                                  "category": "DevOps",
+                                  "question": "What is a container in DevOps?",
+                                  "answer": "A container is a lightweight, standalone package that includes an application and its dependencies, ensuring it runs consistently across environments."
+                                },
+                                {
+                                  "id": 498,
+                                  "category": "DevOps",
+                                  "question": "What is Kubernetes?",
+                                  "answer": "Kubernetes is an open-source platform for managing containerized applications across multiple hosts."
+                                },
+                                {
+                                  "id": 499,
+                                  "category": "DevOps",
+                                  "question": "What is Infrastructure as Code (IaC)?",
+                                  "answer": "Infrastructure as Code (IaC) is a DevOps practice that allows infrastructure to be managed and provisioned using code instead of manual processes."
+                                },
+                                {
+                                  "id": 500,
+                                  "category": "DevOps",
+                                  "question": "What is Docker?",
+                                  "answer": "Docker is a platform that enables developers to build, package, and deploy applications using containers."
+                                },
+                                
+                                  {
+                                    "id": 501,
+                                    "category": "mental health",
+                                    "question": "What is mental health?",
+                                    "answer": "Mental health refers to a person’s emotional, psychological, and social well-being. It affects how people think, feel, and behave."
+                                  },
+                                  {
+                                    "id": 502,
+                                    "category": "mental health",
+                                    "question": "Why is mental health important?",
+                                    "answer": "Good mental health helps individuals handle stress, build relationships, make decisions, and live a fulfilling life."
+                                  },
+                                  {
+                                    "id": 503,
+                                    "category": "mental health",
+                                    "question": "What are common mental health disorders?",
+                                    "answer": "Some common mental health disorders include anxiety, depression, bipolar disorder, and schizophrenia."
+                                  },
+                                  {
+                                    "id": 504,
+                                    "category": "mental health",
+                                    "question": "How can I improve my mental health?",
+                                    "answer": "You can improve mental health by exercising, eating well, getting enough sleep, socializing, and practicing mindfulness."
+                                  },
+                                  {
+                                    "id": 505,
+                                    "category": "mental health",
+                                    "question": "How does stress affect mental health?",
+                                    "answer": "Chronic stress can lead to anxiety, depression, sleep problems, and physical health issues like high blood pressure."
+                                  },
+                                  {
+                                    "id": 506,
+                                    "category": "mental health",
+                                    "question": "What are signs of anxiety?",
+                                    "answer": "Symptoms of anxiety include excessive worry, restlessness, rapid heartbeat, difficulty sleeping, and irritability."
+                                  },
+                                  {
+                                    "id": 507,
+                                    "category": "mental health",
+                                    "question": "What are symptoms of depression?",
+                                    "answer": "Depression symptoms include persistent sadness, loss of interest in activities, fatigue, and changes in appetite or sleep patterns."
+                                  },
+                                  {
+                                    "id": 508,
+                                    "category": "mental health",
+                                    "question": "What is therapy, and how can it help?",
+                                    "answer": "Therapy is a professional treatment for mental health issues, where individuals talk to trained therapists to manage emotions and behaviors."
+                                  },
+                                  {
+                                    "id": 509,
+                                    "category": "mental health",
+                                    "question": "How does exercise impact mental health?",
+                                    "answer": "Exercise releases endorphins, which reduce stress, improve mood, and enhance overall well-being."
+                                  },
+                                  {
+                                    "id": 510,
+                                    "category": "mental health",
+                                    "question": "What is mindfulness, and how does it help?",
+                                    "answer": "Mindfulness is the practice of being present in the moment, which reduces stress, enhances focus, and promotes emotional balance."
+                                  },
+                                  {
+                                    "id": 511,
+                                    "category": "mental health",
+                                    "question": "Can socializing improve mental health?",
+                                    "answer": "Yes, social interactions provide emotional support, reduce loneliness, and improve mood."
+                                  },
+                                  {
+                                    "id": 512,
+                                    "category": "mental health",
+                                    "question": "How does sleep affect mental health?",
+                                    "answer": "Poor sleep can contribute to stress, anxiety, and depression, while good sleep improves cognitive function and emotional stability."
+                                  },
+                                  {
+                                    "id": 513,
+                                    "category": "mental health",
+                                    "question": "What are some relaxation techniques?",
+                                    "answer": "Deep breathing, meditation, yoga, and progressive muscle relaxation can help reduce stress and improve mental health."
+                                  },
+                                  {
+                                    "id": 514,
+                                    "category": "mental health",
+                                    "question": "Can diet affect mental health?",
+                                    "answer": "Yes, a healthy diet rich in vitamins, minerals, and omega-3 fatty acids can improve mood and brain function."
+                                  },
+                                  {
+                                    "id": 515,
+                                    "category": "mental health",
+                                    "question": "What is self-care, and why is it important?",
+                                    "answer": "Self-care involves activities that promote well-being, such as exercise, hobbies, and relaxation. It helps maintain good mental health."
+                                  },
+                                  {
+                                    "id": 516,
+                                    "category": "mental health",
+                                    "question": "What should I do if I feel overwhelmed?",
+                                    "answer": "Take breaks, practice deep breathing, talk to someone you trust, and seek professional help if needed."
+                                  },
+                                  {
+                                    "id": 517,
+                                    "category": "mental health",
+                                    "question": "How can journaling help with mental health?",
+                                    "answer": "Journaling helps process emotions, reduce stress, and gain clarity on thoughts and feelings."
+                                  },
+                                  {
+                                    "id": 518,
+                                    "category": "mental health",
+                                    "question": "What are signs that someone needs mental health support?",
+                                    "answer": "Signs include withdrawal from social activities, mood swings, changes in sleep or appetite, and difficulty concentrating."
+                                  },
+                                  {
+                                    "id": 519,
+                                    "category": "mental health",
+                                    "question": "How can I support a friend who is struggling mentally?",
+                                    "answer": "Listen without judgment, encourage them to talk, and suggest professional help if needed."
+                                  },
+                                  {
+                                    "id": 520,
+                                    "category": "mental health",
+                                    "question": "What are some resources for mental health support?",
+                                    "answer": "Resources include helplines, therapy services, online support groups, and mental health apps."
+                                  },
+                                  
+                                    {
+                                      "id": 521,
+                                      "category": "India - Geography",
+                                      "question": "Where is India located?",
+                                      "answer": "India is located in South Asia, bordered by Pakistan, China, Nepal, Bhutan, Bangladesh, and Myanmar."
+                                    },
+                                    {
+                                      "id": 522,
+                                      "category": "India - Geography",
+                                      "question": "What is the total area of India?",
+                                      "answer": "India covers an area of approximately 3.28 million square kilometers, making it the 7th largest country in the world."
+                                    },
+                                    {
+                                      "id": 523,
+                                      "category": "India - Geography",
+                                      "question": "What are the major rivers in India?",
+                                      "answer": "Major rivers include the Ganges, Yamuna, Brahmaputra, Godavari, Krishna, and Narmada."
+                                    },
+                                    {
+                                      "id": 524,
+                                      "category": "India - Geography",
+                                      "question": "What is the highest mountain peak in India?",
+                                      "answer": "The highest mountain peak in India is Kangchenjunga, which is 8,586 meters tall."
+                                    },
+                                    {
+                                      "id": 525,
+                                      "category": "India - Geography",
+                                      "question": "Which are the major climatic zones in India?",
+                                      "answer": "India has five major climatic zones: Tropical Rainforest, Tropical Savanna, Humid Subtropical, Mountain, and Arid Desert."
+                                    },
+                                    {
+                                      "id": 526,
+                                      "category": "India - Geography",
+                                      "question": "What are the major deserts in India?",
+                                      "answer": "The Thar Desert, also known as the Great Indian Desert, is the largest desert in India."
+                                    },
+                                    {
+                                      "id": 527,
+                                      "category": "India - Demography",
+                                      "question": "What is the population of India?",
+                                      "answer": "As of 2023, India's population is over 1.4 billion, making it the most populous country in the world."
+                                    },
+                                    {
+                                      "id": 528,
+                                      "category": "India - Demography",
+                                      "question": "What are the major religions in India?",
+                                      "answer": "India is home to Hinduism, Islam, Christianity, Sikhism, Buddhism, and Jainism."
+                                    },
+                                    {
+                                      "id": 529,
+                                      "category": "India - Demography",
+                                      "question": "What is the literacy rate in India?",
+                                      "answer": "As of recent estimates, India's literacy rate is around 77.7%."
+                                    },
+                                    {
+                                      "id": 530,
+                                      "category": "India - History",
+                                      "question": "When did India gain independence?",
+                                      "answer": "India gained independence from British rule on August 15, 1947."
+                                    },
+                                    {
+                                      "id": 531,
+                                      "category": "India - History",
+                                      "question": "Who was the first Prime Minister of India?",
+                                      "answer": "The first Prime Minister of India was Pandit Jawaharlal Nehru."
+                                    },
+                                    {
+                                      "id": 532,
+                                      "category": "India - History",
+                                      "question": "Who was the first President of India?",
+                                      "answer": "Dr. Rajendra Prasad was the first President of India."
+                                    },
+                                    {
+                                      "id": 533,
+                                      "category": "India - History",
+                                      "question": "What is the significance of the Indian National Congress?",
+                                      "answer": "The Indian National Congress (INC) played a crucial role in India's independence movement."
+                                    },
+                                    {
+                                      "id": 534,
+                                      "category": "India - Government",
+                                      "question": "What type of government does India have?",
+                                      "answer": "India is a federal parliamentary democratic republic."
+                                    },
+                                    {
+                                      "id": 535,
+                                      "category": "India - Government",
+                                      "question": "How many states and union territories are there in India?",
+                                      "answer": "India has 28 states and 8 union territories."
+                                    },
+                                    {
+                                      "id": 536,
+                                      "category": "India - Government",
+                                      "question": "Who is the current Prime Minister of India?",
+                                      "answer": "As of 2025, the current Prime Minister is Narendra Modi."
+                                    },
+                                    {
+                                      "id": 537,
+                                      "category": "India - Government",
+                                      "question": "Who is the head of state in India?",
+                                      "answer": "The President of India is the head of state."
+                                    },
+                                    {
+                                      "id": 538,
+                                      "category": "India - Economy",
+                                      "question": "What is the currency of India?",
+                                      "answer": "The Indian currency is the Indian Rupee (INR)."
+                                    },
+                                    {
+                                      "id": 539,
+                                      "category": "India - Economy",
+                                      "question": "What are the major industries in India?",
+                                      "answer": "Major industries include IT, agriculture, textiles, automobiles, and pharmaceuticals."
+                                    },
+                                    {
+                                      "id": 540,
+                                      "category": "India - Economy",
+                                      "question": "What is India's GDP rank in the world?",
+                                      "answer": "India is among the top 5 economies in terms of GDP."
+                                    },
+                                    {
+                                      "id": 541,
+                                      "category": "India - Culture",
+                                      "question": "What are the official languages of India?",
+                                      "answer": "India has 22 official languages, with Hindi and English being widely used."
+                                    },
+                                    {
+                                      "id": 542,
+                                      "category": "India - Culture",
+                                      "question": "What is the national animal of India?",
+                                      "answer": "The national animal of India is the Bengal Tiger."
+                                    },
+                                    {
+                                      "id": 543,
+                                      "category": "India - Culture",
+                                      "question": "What is the national bird of India?",
+                                      "answer": "The national bird of India is the Indian Peafowl (Peacock)."
+                                    },
+                                    {
+                                      "id": 544,
+                                      "category": "India - Culture",
+                                      "question": "What is the national flower of India?",
+                                      "answer": "The national flower of India is the Lotus."
+                                    },
+                                    {
+                                      "id": 545,
+                                      "category": "India - Culture",
+                                      "question": "What is India's national sport?",
+                                      "answer": "India does not have an official national sport, but hockey is often considered its traditional sport."
+                                    },
+                                    {
+                                      "id": 546,
+                                      "category": "India - Culture",
+                                      "question": "Which are the major festivals celebrated in India?",
+                                      "answer": "Major festivals include Diwali, Holi, Eid, Christmas, Navratri, Pongal, and Durga Puja."
+                                    },
+                                    {
+                                      "id": 547,
+                                      "category": "India - Culture",
+                                      "question": "What is Bollywood?",
+                                      "answer": "Bollywood is the Indian Hindi-language film industry based in Mumbai."
+                                    },
+                                    {
+                                      "id": 548,
+                                      "category": "India - Transport",
+                                      "question": "Which is the busiest airport in India?",
+                                      "answer": "Indira Gandhi International Airport (Delhi) is the busiest airport in India."
+                                    },
+                                    {
+                                      "id": 549,
+                                      "category": "India - Transport",
+                                      "question": "Which is the longest river in India?",
+                                      "answer": "The Ganges is the longest river in India."
+                                    },
+                                    {
+                                      "id": 550,
+                                      "category": "India - Transport",
+                                      "question": "What is the Golden Quadrilateral?",
+                                      "answer": "The Golden Quadrilateral is a highway network connecting Delhi, Mumbai, Chennai, and Kolkata."
+                                    },
+                                    {
+                                      "id": 551,
+                                      "category": "India - Technology",
+                                      "question": "What is India's space agency called?",
+                                      "answer": "India's space agency is the Indian Space Research Organisation (ISRO)."
+                                    },
+                                    {
+                                      "id": 552,
+                                      "category": "India - Technology",
+                                      "question": "What is India's most famous space mission?",
+                                      "answer": "India's Chandrayaan and Mangalyaan missions are globally recognized space missions."
+                                    },
+                                    
+                                      {
+                                        "id": 553,
+                                        "category": "India - Science & Technology",
+                                        "question": "What is India’s first satellite?",
+                                        "answer": "India’s first satellite is Aryabhata, launched in 1975."
+                                      },
+                                      {
+                                        "id": 554,
+                                        "category": "India - Science & Technology",
+                                        "question": "Which Indian scientist is known as the 'Missile Man of India'?",
+                                        "answer": "Dr. A.P.J. Abdul Kalam is known as the 'Missile Man of India' for his contributions to India’s missile and space programs."
+                                      },
+                                      {
+                                        "id": 555,
+                                        "category": "India - Science & Technology",
+                                        "question": "Which Indian organization launched the Chandrayaan-3 mission?",
+                                        "answer": "The Indian Space Research Organisation (ISRO) launched Chandrayaan-3 in 2023."
+                                      },
+                                      {
+                                        "id": 556,
+                                        "category": "India - Science & Technology",
+                                        "question": "What is the name of India’s Mars mission?",
+                                        "answer": "India’s Mars mission is called Mangalyaan or Mars Orbiter Mission (MOM)."
+                                      },
+                                      {
+                                        "id": 557,
+                                        "category": "India - Science & Technology",
+                                        "question": "What is India’s contribution to the field of Ayurveda?",
+                                        "answer": "Ayurveda, an ancient system of medicine, originated in India and focuses on natural healing."
+                                      },
+                                      {
+                                        "id": 558,
+                                        "category": "India - Transport",
+                                        "question": "Which is the longest national highway in India?",
+                                        "answer": "National Highway 44 (NH-44) is the longest highway in India, running from Srinagar to Kanyakumari."
+                                      },
+                                      {
+                                        "id": 559,
+                                        "category": "India - Transport",
+                                        "question": "Which is the busiest railway station in India?",
+                                        "answer": "Howrah Junction in Kolkata is one of the busiest railway stations in India."
+                                      },
+                                      {
+                                        "id": 560,
+                                        "category": "India - Transport",
+                                        "question": "What is the name of India's high-speed train service?",
+                                        "answer": "Vande Bharat Express is India's semi-high-speed train service."
+                                      },
+                                      {
+                                        "id": 561,
+                                        "category": "India - Transport",
+                                        "question": "Which Indian city has the first metro railway system?",
+                                        "answer": "Kolkata Metro, launched in 1984, is India's first metro railway system."
+                                      },
+                                      {
+                                        "id": 562,
+                                        "category": "India - Education",
+                                        "question": "Which is the oldest university in India?",
+                                        "answer": "Nalanda University, established in ancient times, is one of the oldest universities in the world."
+                                      },
+                                      {
+                                        "id": 563,
+                                        "category": "India - Education",
+                                        "question": "What are the top IITs in India?",
+                                        "answer": "The top IITs include IIT Bombay, IIT Delhi, IIT Madras, IIT Kanpur, and IIT Kharagpur."
+                                      },
+                                      {
+                                        "id": 564,
+                                        "category": "India - Education",
+                                        "question": "What is the literacy rate in India as of recent years?",
+                                        "answer": "India's literacy rate is around 77.7% as per recent estimates."
+                                      },
+                                      {
+                                        "id": 565,
+                                        "category": "India - Culture",
+                                        "question": "Which classical dance forms originated in India?",
+                                        "answer": "Classical dance forms of India include Bharatanatyam, Kathak, Odissi, Kathakali, Kuchipudi, Manipuri, and Mohiniyattam."
+                                      },
+                                      {
+                                        "id": 566,
+                                        "category": "India - Culture",
+                                        "question": "Which are the famous Indian musical instruments?",
+                                        "answer": "Famous Indian musical instruments include the sitar, tabla, veena, bansuri, and sarod."
+                                      },
+                                      {
+                                        "id": 567,
+                                        "category": "India - Culture",
+                                        "question": "What is the significance of the Taj Mahal?",
+                                        "answer": "The Taj Mahal, built by Mughal Emperor Shah Jahan, is a symbol of love and a UNESCO World Heritage Site."
+                                      },
+                                      {
+                                        "id": 568,
+                                        "category": "India - Culture",
+                                        "question": "What are the major folk dances of India?",
+                                        "answer": "Major folk dances include Bhangra, Garba, Bihu, Lavani, Ghoomar, and Dandiya."
+                                      },
+                                      {
+                                        "id": 569,
+                                        "category": "India - Sports",
+                                        "question": "Which Indian cricketer is known as the 'God of Cricket'?",
+                                        "answer": "Sachin Tendulkar is known as the 'God of Cricket' in India."
+                                      },
+                                      {
+                                        "id": 570,
+                                        "category": "India - Sports",
+                                        "question": "Which sportsperson won India's first individual Olympic gold medal?",
+                                        "answer": "Abhinav Bindra won India's first individual Olympic gold medal in shooting at the 2008 Beijing Olympics."
+                                      },
+                                      {
+                                        "id": 571,
+                                        "category": "India - Sports",
+                                        "question": "What is the name of the Indian football league?",
+                                        "answer": "The Indian Super League (ISL) is India's top professional football league."
+                                      },
+                                      {
+                                        "id": 572,
+                                        "category": "India - Economy",
+                                        "question": "Which is India's largest stock exchange?",
+                                        "answer": "The Bombay Stock Exchange (BSE) is India's largest stock exchange."
+                                      },
+                                      {
+                                        "id": 573,
+                                        "category": "India - Economy",
+                                        "question": "What is the role of the Reserve Bank of India (RBI)?",
+                                        "answer": "The RBI regulates India's monetary policy, currency issuance, and banking sector."
+                                      },
+                                      {
+                                        "id": 574,
+                                        "category": "India - Economy",
+                                        "question": "What are India's major exports?",
+                                        "answer": "India exports petroleum products, gems, pharmaceuticals, textiles, and IT services."
+                                      },
+                                      {
+                                        "id": 575,
+                                        "category": "India - Famous Landmarks",
+                                        "question": "What is the significance of the Red Fort?",
+                                        "answer": "The Red Fort in Delhi was the main residence of Mughal emperors and a symbol of India's independence."
+                                      },
+                                      {
+                                        "id": 576,
+                                        "category": "India - Famous Landmarks",
+                                        "question": "What is special about the Ajanta and Ellora Caves?",
+                                        "answer": "The Ajanta and Ellora Caves in Maharashtra are famous for their ancient Buddhist, Hindu, and Jain sculptures and paintings."
+                                      },
+                                      {
+                                        "id": 577,
+                                        "category": "India - Famous Landmarks",
+                                        "question": "Which Indian city is known as the 'Pink City'?",
+                                        "answer": "Jaipur, the capital of Rajasthan, is known as the 'Pink City' for its distinct pink-colored buildings."
+                                      },
+                                      {
+                                        "id": 578,
+                                        "category": "India - Environment",
+                                        "question": "What are the major national parks in India?",
+                                        "answer": "Major national parks include Jim Corbett, Kaziranga, Sundarbans, Ranthambore, and Gir National Park."
+                                      },
+                                      {
+                                        "id": 579,
+                                        "category": "India - Environment",
+                                        "question": "What are India's major renewable energy sources?",
+                                        "answer": "India relies on solar, wind, hydro, and biomass energy as major renewable sources."
+                                      },
+                                      {
+                                        "id": 580,
+                                        "category": "India - Environment",
+                                        "question": "Which Indian city is known for its cleanest environment?",
+                                        "answer": "Indore has been ranked as India’s cleanest city multiple times in the Swachh Bharat rankings."
+                                      },
+                                      
+                                        {
+                                          "id": 581,
+                                          "category": "Continents - General",
+                                          "question": "How many continents are there in the world?",
+                                          "answer": "There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+                                        },
+                                        {
+                                          "id": 582,
+                                          "category": "Continents - General",
+                                          "question": "Which is the largest continent by area?",
+                                          "answer": "Asia is the largest continent, covering about 44.58 million square kilometers."
+                                        },
+                                        {
+                                          "id": 583,
+                                          "category": "Continents - General",
+                                          "question": "Which is the smallest continent by area?",
+                                          "answer": "Australia is the smallest continent, covering about 8.56 million square kilometers."
+                                        },
+                                        {
+                                          "id": 584,
+                                          "category": "Continents - General",
+                                          "question": "Which continent has the highest population?",
+                                          "answer": "Asia has the highest population, with over 4.7 billion people."
+                                        },
+                                        {
+                                          "id": 585,
+                                          "category": "Continents - General",
+                                          "question": "Which continent has the least population?",
+                                          "answer": "Antarctica has the least population, with only a few thousand temporary researchers."
+                                        },
+                                        {
+                                          "id": 586,
+                                          "category": "Asia",
+                                          "question": "Which are the largest countries in Asia by area?",
+                                          "answer": "The largest countries in Asia by area are Russia, China, and India."
+                                        },
+                                        {
+                                          "id": 587,
+                                          "category": "Asia",
+                                          "question": "What is the highest mountain in Asia?",
+                                          "answer": "Mount Everest, at 8,848 meters, is the highest mountain in Asia and the world."
+                                        },
+                                        {
+                                          "id": 588,
+                                          "category": "Asia",
+                                          "question": "Which is the longest river in Asia?",
+                                          "answer": "The Yangtze River in China is the longest river in Asia."
+                                        },
+                                        {
+                                          "id": 589,
+                                          "category": "Africa",
+                                          "question": "Which is the largest country in Africa by area?",
+                                          "answer": "Algeria is the largest country in Africa by area."
+                                        },
+                                        {
+                                          "id": 590,
+                                          "category": "Africa",
+                                          "question": "Which is the longest river in Africa?",
+                                          "answer": "The Nile River is the longest river in Africa and the world."
+                                        },
+                                        {
+                                          "id": 591,
+                                          "category": "Africa",
+                                          "question": "Which is the tallest mountain in Africa?",
+                                          "answer": "Mount Kilimanjaro in Tanzania is the tallest mountain in Africa."
+                                        },
+                                        {
+                                          "id": 592,
+                                          "category": "North America",
+                                          "question": "Which are the largest countries in North America?",
+                                          "answer": "The largest countries in North America are Canada, the United States, and Mexico."
+                                        },
+                                        {
+                                          "id": 593,
+                                          "category": "North America",
+                                          "question": "Which is the longest river in North America?",
+                                          "answer": "The Mississippi-Missouri River system is the longest river in North America."
+                                        },
+                                        {
+                                          "id": 594,
+                                          "category": "South America",
+                                          "question": "Which is the largest country in South America?",
+                                          "answer": "Brazil is the largest country in South America by area and population."
+                                        },
+                                        {
+                                          "id": 595,
+                                          "category": "South America",
+                                          "question": "Which is the longest river in South America?",
+                                          "answer": "The Amazon River is the longest river in South America."
+                                        },
+                                        {
+                                          "id": 596,
+                                          "category": "Antarctica",
+                                          "question": "Does Antarctica have any permanent residents?",
+                                          "answer": "No, Antarctica has no permanent residents, only temporary scientists and researchers."
+                                        },
+                                        {
+                                          "id": 597,
+                                          "category": "Antarctica",
+                                          "question": "What is the coldest recorded temperature in Antarctica?",
+                                          "answer": "The coldest recorded temperature in Antarctica is -128.6°F (-89.2°C) at Vostok Station."
+                                        },
+                                        {
+                                          "id": 598,
+                                          "category": "Europe",
+                                          "question": "Which are the largest countries in Europe by area?",
+                                          "answer": "The largest countries in Europe by area are Russia (European part), Ukraine, and France."
+                                        },
+                                        {
+                                          "id": 599,
+                                          "category": "Europe",
+                                          "question": "Which river is the longest in Europe?",
+                                          "answer": "The Volga River in Russia is the longest river in Europe."
+                                        },
+                                        {
+                                          "id": 600,
+                                          "category": "Australia",
+                                          "question": "Which is the largest city in Australia?",
+                                          "answer": "Sydney is the largest city in Australia by population."
+                                        }
+                                      ]
+                                      
+                                    
+                                    
+                                  
+                                  
+
+                                
+                                
+                              
+                              
+                            
                             
                           
                           
