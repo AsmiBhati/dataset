@@ -5013,9 +5013,138 @@
                                                   "category": "AI in Cybersecurity",
                                                   "question": "What are explainable AI (XAI) techniques in cybersecurity?",
                                                   "answer": "XAI techniques make AI-based cybersecurity decisions transparent, allowing security teams to understand and trust automated threat detections."
-                                                }
-                                              ]
+                                                },
+                                                
+                                                  {
+                                                    "id": 832,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "How does AI help in real-time threat detection and response?",
+                                                    "answer": "AI continuously monitors network traffic, detects anomalies, and automates responses to cyber threats in real time to minimize damage."
+                                                  },
+                                                  {
+                                                    "id": 833,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "What is AI-driven cyber threat intelligence?",
+                                                    "answer": "AI-driven cyber threat intelligence collects, analyzes, and predicts emerging threats by scanning online sources, malware signatures, and attack patterns."
+                                                  },
+                                                  {
+                                                    "id": 834,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "How does AI assist in digital forensics?",
+                                                    "answer": "AI automates digital forensics by analyzing logs, reconstructing attack timelines, and identifying malicious activities with high accuracy."
+                                                  },
+                                                  {
+                                                    "id": 835,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "What are AI-based deception technologies in cybersecurity?",
+                                                    "answer": "AI-based deception technologies use honeypots, decoy networks, and fake credentials to mislead attackers and gather intelligence about cyber threats."
+                                                  },
+                                                  {
+                                                    "id": 836,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "How does AI enhance vulnerability management?",
+                                                    "answer": "AI scans systems for vulnerabilities, prioritizes risks, and suggests automated patches or security configurations to mitigate threats."
+                                                  },
+                                                  {
+                                                    "id": 837,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "What is AI-powered botnet detection?",
+                                                    "answer": "AI detects botnet activity by analyzing network behavior, identifying command-and-control communications, and blocking malicious traffic."
+                                                  },
+                                                  {
+                                                    "id": 838,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "How does AI contribute to secure authentication methods?",
+                                                    "answer": "AI improves authentication using behavioral biometrics, facial recognition, and anomaly detection to prevent unauthorized access."
+                                                  },
+                                                  {
+                                                    "id": 839,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "What is AI-based automated penetration testing?",
+                                                    "answer": "AI-driven penetration testing simulates cyberattacks, identifies security weaknesses, and suggests improvements for network defenses."
+                                                  },
+                                                  {
+                                                    "id": 840,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "How does AI detect insider threats?",
+                                                    "answer": "AI detects insider threats by analyzing user behavior, identifying unusual access patterns, and flagging potential data breaches."
+                                                  },
+                                                  {
+                                                    "id": 841,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "How is AI used to combat misinformation and deepfake attacks?",
+                                                    "answer": "AI analyzes media content, detects manipulated images/videos, and verifies authenticity to prevent misinformation and deepfake attacks."
+                                                  },
+                                                  {
+                                                    "id": 842,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "What are AI-powered threat hunting techniques?",
+                                                    "answer": "AI-powered threat hunting analyzes network logs, detects hidden threats, and proactively searches for indicators of compromise (IoCs)."
+                                                  },
+                                                  {
+                                                    "id": 843,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "How can AI help prevent software supply chain attacks?",
+                                                    "answer": "AI monitors software dependencies, detects anomalies in code repositories, and flags suspicious modifications to prevent supply chain attacks."
+                                                  },
+                                                  {
+                                                    "id": 844,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "What is explainable AI (XAI) in cybersecurity?",
+                                                    "answer": "Explainable AI in cybersecurity provides transparency by explaining AI-driven security decisions, making them more trustworthy for analysts."
+                                                  },
+                                                  {
+                                                    "id": 845,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "How does AI detect and prevent social engineering attacks?",
+                                                    "answer": "AI detects social engineering attacks by analyzing communication patterns, identifying phishing attempts, and alerting users to suspicious activity."
+                                                  },
+                                                  {
+                                                    "id": 846,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "What are AI-driven firewalls and intrusion prevention systems (IPS)?",
+                                                    "answer": "AI-driven firewalls and IPS analyze network traffic in real time, detect threats, and block malicious activity before it reaches critical systems."
+                                                  },
+                                                  {
+                                                    "id": 847,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "How does AI help secure Internet of Things (IoT) devices?",
+                                                    "answer": "AI monitors IoT devices, detects abnormal behavior, and prevents unauthorized access to protect smart devices from cyber threats."
+                                                  },
+                                                  {
+                                                    "id": 848,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "How does AI-powered data encryption work?",
+                                                    "answer": "AI-powered encryption adapts security protocols in real-time, detecting weak encryption practices and enhancing data protection."
+                                                  },
+                                                  {
+                                                    "id": 849,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "How does AI help secure cloud computing environments?",
+                                                    "answer": "AI monitors cloud services, detects data breaches, and enforces security policies to protect cloud-based applications and infrastructure."
+                                                  },
+                                                  {
+                                                    "id": 850,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "What are the ethical concerns of AI in cybersecurity?",
+                                                    "answer": "Ethical concerns include privacy issues, AI bias, misuse of AI for surveillance, and lack of transparency in automated security decisions."
+                                                  },
+                                                  {
+                                                    "id": 851,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "How does AI assist in cyber resilience and recovery?",
+                                                    "answer": "AI helps in cyber resilience by automating threat response, restoring compromised systems, and predicting future cyber risks."
+                                                  },
+                                                  {
+                                                    "id": 852,
+                                                    "category": "AI in Cybersecurity",
+                                                    "question": "What is the future of AI in cybersecurity?",
+                                                    "answer": "The future of AI in cybersecurity includes autonomous threat response, AI-driven security analytics, and enhanced cyber defense strategies."
+                                                  }
+                                                ]
+                                                
                                               
+
                                               
                                             
                                             
