@@ -1952,8 +1952,1155 @@
                 "category": "communication",
                 "question": "How do I make a great first impression?",
                 "answer": "Be confident, smile, listen actively, and show genuine interest in others."
-              }
-            ]
+              },
+              
+                {
+                  "id": 326,
+                  "category": "geography",
+                  "question": "What is the capital of India?",
+                  "answer": "New Delhi"
+                },
+                {
+                  "id": 327,
+                  "category": "geography",
+                  "question": "What is the capital of the United States?",
+                  "answer": "Washington, D.C."
+                },
+                {
+                  "id": 328,
+                  "category": "geography",
+                  "question": "What is the capital of China?",
+                  "answer": "Beijing"
+                },
+                {
+                  "id": 329,
+                  "category": "geography",
+                  "question": "What is the capital of the United Kingdom?",
+                  "answer": "London"
+                },
+                {
+                  "id": 330,
+                  "category": "geography",
+                  "question": "What is the capital of Russia?",
+                  "answer": "Moscow"
+                },
+                {
+                  "id": 331,
+                  "category": "geography",
+                  "question": "What is the capital of France?",
+                  "answer": "Paris"
+                },
+                {
+                  "id": 332,
+                  "category": "geography",
+                  "question": "What is the capital of Germany?",
+                  "answer": "Berlin"
+                },
+                {
+                  "id": 333,
+                  "category": "geography",
+                  "question": "What is the capital of Japan?",
+                  "answer": "Tokyo"
+                },
+                {
+                  "id": 334,
+                  "category": "geography",
+                  "question": "What is the capital of Canada?",
+                  "answer": "Ottawa"
+                },
+                {
+                  "id": 335,
+                  "category": "geography",
+                  "question": "What is the capital of Australia?",
+                  "answer": "Canberra"
+                },
+                {
+                  "id": 336,
+                  "category": "geography",
+                  "question": "What is the capital of Brazil?",
+                  "answer": "Brasília"
+                },
+                {
+                  "id": 337,
+                  "category": "geography",
+                  "question": "What is the capital of South Africa?",
+                  "answer": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)"
+                },
+                {
+                  "id": 338,
+                  "category": "geography",
+                  "question": "What is the capital of Italy?",
+                  "answer": "Rome"
+                },
+                {
+                  "id": 339,
+                  "category": "geography",
+                  "question": "What is the capital of Saudi Arabia?",
+                  "answer": "Riyadh"
+                },
+                {
+                  "id": 340,
+                  "category": "geography",
+                  "question": "What is the capital of South Korea?",
+                  "answer": "Seoul"
+                },
+                {
+                  "id": 341,
+                  "category": "geography",
+                  "question": "What is the capital of Mexico?",
+                  "answer": "Mexico City"
+                },
+                {
+                  "id": 342,
+                  "category": "geography",
+                  "question": "What is the capital of Argentina?",
+                  "answer": "Buenos Aires"
+                },
+                {
+                  "id": 343,
+                  "category": "geography",
+                  "question": "What is the capital of Indonesia?",
+                  "answer": "Jakarta"
+                },
+                {
+                  "id": 344,
+                  "category": "geography",
+                  "question": "What is the capital of Turkey?",
+                  "answer": "Ankara"
+                },
+                {
+                  "id": 345,
+                  "category": "geography",
+                  "question": "What is the capital of UAE?",
+                  "answer": "Abu Dhabi"
+                },
+                
+                  {
+                    "id": 326,
+                    "category": "geography",
+                    "question": "What is the capital of India?",
+                    "answer": "New Delhi"
+                  },
+                  {
+                    "id": 346,
+                    "category": "geography",
+                    "question": "What is the capital of Laos?",
+                    "answer": "Vientiane"
+                  },
+                  
+                    {
+                      "id": 347,
+                      "category": "timezones",
+                      "question": "What is the time zone of Greenwich, UK?",
+                      "answer": "Greenwich Mean Time (GMT)"
+                    },
+                    {
+                      "id": 348,
+                      "category": "timezones",
+                      "question": "What is the time zone of New York, USA?",
+                      "answer": "Eastern Standard Time (EST) / Eastern Daylight Time (EDT)"
+                    },
+                    {
+                      "id": 349,
+                      "category": "timezones",
+                      "question": "What is the time zone of Los Angeles, USA?",
+                      "answer": "Pacific Standard Time (PST) / Pacific Daylight Time (PDT)"
+                    },
+                    {
+                      "id": 350,
+                      "category": "timezones",
+                      "question": "What is the time zone of Chicago, USA?",
+                      "answer": "Central Standard Time (CST) / Central Daylight Time (CDT)"
+                    },
+                    {
+                      "id": 351,
+                      "category": "timezones",
+                      "question": "What is the time zone of Denver, USA?",
+                      "answer": "Mountain Standard Time (MST) / Mountain Daylight Time (MDT)"
+                    },
+                    {
+                      "id": 352,
+                      "category": "timezones",
+                      "question": "What is the time zone of India?",
+                      "answer": "Indian Standard Time (IST) - UTC+5:30"
+                    },
+                    {
+                      "id": 353,
+                      "category": "timezones",
+                      "question": "What is the time zone of Beijing, China?",
+                      "answer": "China Standard Time (CST) - UTC+8"
+                    },
+                    {
+                      "id": 354,
+                      "category": "timezones",
+                      "question": "What is the time zone of Tokyo, Japan?",
+                      "answer": "Japan Standard Time (JST) - UTC+9"
+                    },
+                    {
+                      "id": 355,
+                      "category": "timezones",
+                      "question": "What is the time zone of Moscow, Russia?",
+                      "answer": "Moscow Standard Time (MSK) - UTC+3"
+                    },
+                    {
+                      "id": 356,
+                      "category": "timezones",
+                      "question": "What is the time zone of Dubai, UAE?",
+                      "answer": "Gulf Standard Time (GST) - UTC+4"
+                    },
+                    {
+                      "id": 357,
+                      "category": "timezones",
+                      "question": "What is the time zone of Sydney, Australia?",
+                      "answer": "Australian Eastern Standard Time (AEST) / Australian Eastern Daylight Time (AEDT)"
+                    },
+                    {
+                      "id": 358,
+                      "category": "timezones",
+                      "question": "What is the time zone of Brazil?",
+                      "answer": "Brasilia Time (BRT) - UTC-3"
+                    },
+                    {
+                      "id": 359,
+                      "category": "timezones",
+                      "question": "What is the time zone of London, UK?",
+                      "answer": "Greenwich Mean Time (GMT) / British Summer Time (BST)"
+                    },
+                    {
+                      "id": 360,
+                      "category": "timezones",
+                      "question": "What is the time zone of Paris, France?",
+                      "answer": "Central European Time (CET) / Central European Summer Time (CEST)"
+                    },
+                    {
+                      "id": 361,
+                      "category": "timezones",
+                      "question": "What is the time zone of Berlin, Germany?",
+                      "answer": "Central European Time (CET) / Central European Summer Time (CEST)"
+                    },
+                    {
+                      "id": 362,
+                      "category": "timezones",
+                      "question": "What is the time zone of Cape Town, South Africa?",
+                      "answer": "South Africa Standard Time (SAST) - UTC+2"
+                    },
+                    {
+                      "id": 363,
+                      "category": "timezones",
+                      "question": "What is the time zone of Seoul, South Korea?",
+                      "answer": "Korea Standard Time (KST) - UTC+9"
+                    },
+                    {
+                      "id": 364,
+                      "category": "timezones",
+                      "question": "What is the time zone of Mexico City, Mexico?",
+                      "answer": "Central Standard Time (CST) / Central Daylight Time (CDT)"
+                    },
+                    
+                      {
+                        "id": 365,
+                        "category": "health",
+                        "question": "How does regular exercise benefit mental health?",
+                        "answer": "Exercise helps reduce stress, anxiety, and depression by releasing endorphins, improving mood, and promoting better sleep."
+                      },
+                      {
+                        "id": 366,
+                        "category": "health",
+                        "question": "What are endorphins, and how do they affect mental health?",
+                        "answer": "Endorphins are chemicals released by the brain during exercise that help reduce pain and boost mood, creating a feeling of happiness."
+                      },
+                      {
+                        "id": 367,
+                        "category": "health",
+                        "question": "How does physical activity help reduce stress?",
+                        "answer": "Exercise lowers the body’s stress hormones, like cortisol, and stimulates the production of mood-enhancing neurotransmitters like serotonin and dopamine."
+                      },
+                      {
+                        "id": 368,
+                        "category": "health",
+                        "question": "What type of exercise is best for improving mental health?",
+                        "answer": "Aerobic exercises like running, swimming, and cycling, as well as yoga and strength training, are effective in improving mental well-being."
+                      },
+                      {
+                        "id": 369,
+                        "category": "health",
+                        "question": "How much exercise is recommended for mental health benefits?",
+                        "answer": "At least 30 minutes of moderate exercise five times a week or 20 minutes of intense exercise three times a week can help improve mental health."
+                      },
+                      {
+                        "id": 370,
+                        "category": "health",
+                        "question": "Can exercise help with anxiety and depression?",
+                        "answer": "Yes, regular exercise can be as effective as medication for some people by reducing symptoms of anxiety and depression and improving mood."
+                      },
+                      {
+                        "id": 371,
+                        "category": "health",
+                        "question": "How does yoga benefit mental health?",
+                        "answer": "Yoga combines physical movement, breathing techniques, and meditation to reduce stress, improve focus, and enhance emotional well-being."
+                      },
+                      {
+                        "id": 372,
+                        "category": "health",
+                        "question": "How does deep breathing help with stress management?",
+                        "answer": "Deep breathing activates the parasympathetic nervous system, reducing heart rate and promoting relaxation, helping to manage stress."
+                      },
+                      {
+                        "id": 373,
+                        "category": "health",
+                        "question": "What are some quick exercises to boost mood instantly?",
+                        "answer": "Jumping jacks, stretching, a short walk, dancing, or deep breathing exercises can help boost mood within minutes."
+                      },
+                      {
+                        "id": 374,
+                        "category": "health",
+                        "question": "How does sleep impact mental health?",
+                        "answer": "Poor sleep can increase stress, anxiety, and depression, while quality sleep helps regulate mood, memory, and overall mental well-being."
+                      },
+                      {
+                        "id": 375,
+                        "category": "health",
+                        "question": "What are some simple ways to stay active during the day?",
+                        "answer": "Taking short walks, using stairs, stretching at work, and doing bodyweight exercises like squats or push-ups can help maintain activity levels."
+                      },
+                      {
+                        "id": 376,
+                        "category": "health",
+                        "question": "Can outdoor activities improve mental health?",
+                        "answer": "Yes, spending time in nature while exercising can reduce stress, boost mood, and improve overall mental well-being."
+                      },
+                      {
+                        "id": 377,
+                        "category": "health",
+                        "question": "How does social interaction during exercise benefit mental health?",
+                        "answer": "Group activities like sports or fitness classes can provide social support, reduce loneliness, and increase motivation."
+                      },
+                      {
+                        "id": 378,
+                        "category": "health",
+                        "question": "What are the mental health benefits of meditation?",
+                        "answer": "Meditation can reduce stress, anxiety, and depression, improve focus and attention, and promote emotional well-being."
+                      },
+                      {
+                        "id": 379,
+                        "category": "health",
+                        "question": "How does a healthy diet impact mental health?",
+                        "answer": "Eating a balanced diet rich in fruits, vegetables, whole grains, and lean proteins can support brain function, mood regulation, and overall mental health."
+                      },
+                      {
+                        "id": 380,
+                        "category": "health",
+                        "question": "What are some relaxation techniques to reduce stress?",
+                        "answer": "Deep breathing, progressive muscle relaxation, guided imagery, and mindfulness meditation are effective techniques to reduce stress."
+                      },
+                      {
+                        "id": 381,
+                        "category": "health",
+                        "question": "How does sunlight exposure affect mental health?",
+                        "answer": "Sunlight helps regulate the body’s internal clock, boosts mood, and increases the production of serotonin, a neurotransmitter that contributes to feelings of well-being."
+                      },
+                      {
+                        "id": 382,
+                        "category": "health",
+                        "question": "What are the benefits of maintaining a routine for mental health?",
+                        "answer": "A routine can provide structure, reduce stress, improve sleep, and create a sense of stability and control, all of which benefit mental health."
+                      },
+                      {
+                        "id": 383,
+                        "category": "health",
+                        "question": "How does volunteering or helping others improve mental health?",
+                        "answer": "Helping others can boost self-esteem, reduce feelings of isolation, and provide a sense of purpose and fulfillment, all of which contribute to better mental health."
+                      },
+                      {
+                        "id": 384,
+                        "category": "health",
+                        "question": "What are the mental health benefits of setting goals?",
+                        "answer": "Setting and achieving goals can increase motivation, boost self-confidence, and provide a sense of accomplishment, all of which positively impact mental health."
+                      },
+                      [
+                        {
+                          "id": 386,
+                          "category": "sports",
+                          "question": "What are the basic rules of football (soccer)?",
+                          "answer": "Football is played between two teams of 11 players each. The objective is to score goals by getting the ball into the opponent’s net. The game lasts 90 minutes, divided into two halves of 45 minutes each."
+                        },
+                        {
+                          "id": 387,
+                          "category": "sports",
+                          "question": "How many players are there in a football (soccer) team?",
+                          "answer": "Each team has 11 players, including one goalkeeper."
+                        },
+                        {
+                          "id": 388,
+                          "category": "sports",
+                          "question": "What is the offside rule in football?",
+                          "answer": "A player is offside if they are nearer to the opponent’s goal than both the ball and the second-last defender when the ball is played to them."
+                        },
+                        {
+                          "id": 389,
+                          "category": "sports",
+                          "question": "What are the basic rules of cricket?",
+                          "answer": "Cricket is played between two teams of 11 players each. One team bats while the other bowls and fields. The batting team scores runs, and the fielding team tries to dismiss the batsmen. The team with the most runs wins."
+                        },
+                        {
+                          "id": 390,
+                          "category": "sports",
+                          "question": "What is an over in cricket?",
+                          "answer": "An over consists of six legal deliveries bowled by a single bowler."
+                        },
+                        {
+                          "id": 391,
+                          "category": "sports",
+                          "question": "What are the different formats of cricket?",
+                          "answer": "The three main formats are Test cricket (5-day matches), One Day Internationals (50 overs per side), and Twenty20 (T20) cricket (20 overs per side)."
+                        },
+                        {
+                          "id": 392,
+                          "category": "sports",
+                          "question": "What are the basic rules of the Olympics?",
+                          "answer": "The Olympics is a multi-sport event held every four years, featuring athletes from around the world competing in various sports under standardized rules set by the International Olympic Committee (IOC)."
+                        },
+                        {
+                          "id": 393,
+                          "category": "sports",
+                          "question": "How often are the Olympic Games held?",
+                          "answer": "The Summer and Winter Olympic Games are held every four years, but they are staggered so that an Olympic event occurs every two years."
+                        },
+                        {
+                          "id": 394,
+                          "category": "sports",
+                          "question": "What is a red card in football?",
+                          "answer": "A red card is shown to a player for serious offenses, such as violent conduct. The player is sent off, and their team must continue with one less player."
+                        },
+                        {
+                          "id": 395,
+                          "category": "sports",
+                          "question": "What is a hat-trick in football?",
+                          "answer": "A hat-trick is when a player scores three goals in a single match."
+                        },
+                        {
+                          "id": 396,
+                          "category": "sports",
+                          "question": "What is an LBW in cricket?",
+                          "answer": "LBW (Leg Before Wicket) is a way of dismissing a batsman when the ball hits their leg in front of the stumps, and the umpire believes it would have hit the wickets."
+                        },
+                        {
+                          "id": 397,
+                          "category": "sports",
+                          "question": "What is the penalty shootout in football?",
+                          "answer": "A penalty shootout is used to decide the winner of a match if it ends in a draw. Each team takes turns shooting from the penalty spot, and the team with more goals wins."
+                        },
+                        {
+                          "id": 398,
+                          "category": "sports",
+                          "question": "How many medals are awarded in the Olympics?",
+                          "answer": "Each event awards three medals: gold for first place, silver for second, and bronze for third."
+                        },
+                        {
+                          "id": 399,
+                          "category": "sports",
+                          "question": "What is the difference between ODI and T20 cricket?",
+                          "answer": "ODI matches consist of 50 overs per team, while T20 matches have 20 overs per team, making T20 a shorter and faster format."
+                        },
+                        {
+                          "id": 400,
+                          "category": "sports",
+                          "question": "What is a yellow card in football?",
+                          "answer": "A yellow card is given for unsporting behavior. Two yellow cards in a match result in a red card and expulsion from the game."
+                        },
+                        {
+                          "id": 401,
+                          "category": "sports",
+                          "question": "What is a super over in cricket?",
+                          "answer": "A super over is used to break a tie in limited-overs cricket. Each team plays one over with two wickets available, and the team with the highest score wins."
+                        },
+                        {
+                          "id": 402,
+                          "category": "sports",
+                          "question": "Which country has won the most FIFA World Cups?",
+                          "answer": "Brazil has won the most FIFA World Cups, with a total of five titles."
+                        },
+                        {
+                          "id": 403,
+                          "category": "sports",
+                          "question": "Which country has won the most Olympic gold medals?",
+                          "answer": "The United States has won the most Olympic gold medals in history."
+                        },
+                        {
+                          "id": 404,
+                          "category": "sports",
+                          "question": "What is the Golden Boot in football?",
+                          "answer": "The Golden Boot is awarded to the top goal scorer in a football tournament, such as the FIFA World Cup."
+                        },
+                        {
+                          "id": 405,
+                          "category": "sports",
+                          "question": "What is the Ashes series in cricket?",
+                          "answer": "The Ashes is a Test cricket series played between England and Australia, one of the oldest and most famous rivalries in cricket."
+                        },
+                        
+                          {
+                            "id": 406,
+                            "category": "astronomy",
+                            "question": "How many planets are there in the solar system?",
+                            "answer": "There are eight planets in the solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+                          },
+                          {
+                            "id": 407,
+                            "category": "astronomy",
+                            "question": "Which is the largest planet in the solar system?",
+                            "answer": "Jupiter is the largest planet in the solar system."
+                          },
+                          {
+                            "id": 408,
+                            "category": "astronomy",
+                            "question": "Which planet is known as the Red Planet?",
+                            "answer": "Mars is known as the Red Planet due to its reddish appearance caused by iron oxide on its surface."
+                          },
+                          {
+                            "id": 409,
+                            "category": "astronomy",
+                            "question": "Which planet is closest to the Sun?",
+                            "answer": "Mercury is the closest planet to the Sun."
+                          },
+                          {
+                            "id": 410,
+                            "category": "astronomy",
+                            "question": "Which planet is known for its rings?",
+                            "answer": "Saturn is known for its prominent ring system."
+                          },
+                          {
+                            "id": 411,
+                            "category": "physics",
+                            "question": "What are Newton’s three laws of motion?",
+                            "answer": "1st Law: An object remains at rest or in uniform motion unless acted upon by a force. 2nd Law: Force equals mass times acceleration (F=ma). 3rd Law: For every action, there is an equal and opposite reaction."
+                          },
+                          {
+                            "id": 412,
+                            "category": "physics",
+                            "question": "What is gravity?",
+                            "answer": "Gravity is the force of attraction between two masses. It keeps planets in orbit around the Sun and objects on Earth's surface."
+                          },
+                          {
+                            "id": 413,
+                            "category": "physics",
+                            "question": "Who discovered the law of universal gravitation?",
+                            "answer": "Sir Isaac Newton discovered the law of universal gravitation."
+                          },
+                          {
+                            "id": 414,
+                            "category": "physics",
+                            "question": "What is the speed of light?",
+                            "answer": "The speed of light in a vacuum is approximately 299,792,458 meters per second (about 300,000 km/s)."
+                          },
+                          {
+                            "id": 415,
+                            "category": "physics",
+                            "question": "What is kinetic energy?",
+                            "answer": "Kinetic energy is the energy an object has due to its motion, calculated as KE = 1/2 mv²."
+                          },
+                          {
+                            "id": 416,
+                            "category": "physics",
+                            "question": "What is potential energy?",
+                            "answer": "Potential energy is stored energy due to an object's position or state, such as a stretched rubber band or water behind a dam."
+                          },
+                          {
+                            "id": 417,
+                            "category": "physics",
+                            "question": "What is the law of conservation of energy?",
+                            "answer": "The law states that energy cannot be created or destroyed, only transformed from one form to another."
+                          },
+                          {
+                            "id": 418,
+                            "category": "chemistry",
+                            "question": "What is the periodic table?",
+                            "answer": "The periodic table is a chart organizing all known elements based on their atomic number and chemical properties."
+                          },
+                          {
+                            "id": 419,
+                            "category": "chemistry",
+                            "question": "Who created the periodic table?",
+                            "answer": "Dmitri Mendeleev created the first periodic table in 1869."
+                          },
+                          {
+                            "id": 420,
+                            "category": "chemistry",
+                            "question": "What is an atom?",
+                            "answer": "An atom is the smallest unit of matter that retains the properties of an element, consisting of protons, neutrons, and electrons."
+                          },
+                          {
+                            "id": 421,
+                            "category": "chemistry",
+                            "question": "What are the three subatomic particles in an atom?",
+                            "answer": "The three subatomic particles are protons (positively charged), neutrons (neutral), and electrons (negatively charged)."
+                          },
+                          {
+                            "id": 422,
+                            "category": "chemistry",
+                            "question": "What is a chemical reaction?",
+                            "answer": "A chemical reaction is a process where substances (reactants) transform into new substances (products) with different properties."
+                          },
+                          {
+                            "id": 423,
+                            "category": "chemistry",
+                            "question": "What is the most abundant element in the universe?",
+                            "answer": "Hydrogen is the most abundant element in the universe."
+                          },
+                          {
+                            "id": 424,
+                            "category": "chemistry",
+                            "question": "What is an acid and a base?",
+                            "answer": "An acid is a substance that donates protons (H+), while a base is a substance that accepts protons or donates hydroxide ions (OH-)."
+                          },
+                          {
+                            "id": 425,
+                            "category": "chemistry",
+                            "question": "What is pH?",
+                            "answer": "pH is a scale from 0 to 14 that measures the acidity or basicity of a substance, with 7 being neutral, below 7 acidic, and above 7 basic."
+                          },
+                          {
+                            "id": 426,
+                            "category": "chemistry",
+                            "question": "What is a catalyst in a chemical reaction?",
+                            "answer": "A catalyst is a substance that speeds up a chemical reaction without being consumed in the process."
+                          },
+                          {
+                            "id": 427,
+                            "category": "chemistry",
+                            "question": "What are noble gases?",
+                            "answer": "Noble gases are elements in Group 18 of the periodic table, including helium, neon, argon, krypton, xenon, and radon. They are inert and do not easily react with other elements."
+                          },
+                          {
+                            "id": 428,
+                            "category": "chemistry",
+                            "question": "What is the difference between a compound and a mixture?",
+                            "answer": "A compound is a substance composed of two or more elements chemically bonded, while a mixture is a combination of substances that are not chemically bonded."
+                          },
+                          {
+                            "id": 429,
+                            "category": "chemistry",
+                            "question": "What is oxidation and reduction?",
+                            "answer": "Oxidation is the loss of electrons, while reduction is the gain of electrons in a chemical reaction."
+                          },
+                          {
+                            "id": 430,
+                            "category": "chemistry",
+                            "question": "What is electrolysis?",
+                            "answer": "Electrolysis is a process that uses electricity to break down compounds into their elements, such as splitting water into hydrogen and oxygen."
+                          },
+                          
+                            {
+                              "id": 431,
+                              "category": "physics",
+                              "question": "What is force?",
+                              "answer": "Force is a push or pull on an object that causes it to move, stop, or change direction."
+                            },
+                            {
+                              "id": 432,
+                              "category": "physics",
+                              "question": "What is mass?",
+                              "answer": "Mass is the amount of matter in an object, measured in kilograms (kg)."
+                            },
+                            {
+                              "id": 433,
+                              "category": "physics",
+                              "question": "What is weight?",
+                              "answer": "Weight is the force exerted on an object due to gravity. It is calculated as mass multiplied by gravitational acceleration (W = mg)."
+                            },
+                            {
+                              "id": 434,
+                              "category": "physics",
+                              "question": "What is velocity?",
+                              "answer": "Velocity is the speed of an object in a specific direction."
+                            },
+                            {
+                              "id": 435,
+                              "category": "physics",
+                              "question": "What is acceleration?",
+                              "answer": "Acceleration is the rate at which an object's velocity changes over time."
+                            },
+                            {
+                              "id": 436,
+                              "category": "physics",
+                              "question": "What is work in physics?",
+                              "answer": "Work is done when a force is applied to an object, and it moves in the direction of the force (Work = Force × Distance)."
+                            },
+                            {
+                              "id": 437,
+                              "category": "physics",
+                              "question": "What is power in physics?",
+                              "answer": "Power is the rate at which work is done or energy is transferred, measured in watts (W)."
+                            },
+                            {
+                              "id": 438,
+                              "category": "physics",
+                              "question": "What is energy?",
+                              "answer": "Energy is the ability to do work. It exists in different forms such as kinetic, potential, thermal, and electrical energy."
+                            },
+                            {
+                              "id": 439,
+                              "category": "physics",
+                              "question": "What is friction?",
+                              "answer": "Friction is the force that resists the motion of objects sliding or rolling over each other."
+                            },
+                            {
+                              "id": 440,
+                              "category": "physics",
+                              "question": "What is inertia?",
+                              "answer": "Inertia is the tendency of an object to resist changes in its motion."
+                            },
+                            {
+                              "id": 441,
+                              "category": "chemistry",
+                              "question": "What is an element?",
+                              "answer": "An element is a pure substance made of only one type of atom."
+                            },
+                            {
+                              "id": 442,
+                              "category": "chemistry",
+                              "question": "What is a molecule?",
+                              "answer": "A molecule is a group of two or more atoms chemically bonded together."
+                            },
+                            {
+                              "id": 443,
+                              "category": "chemistry",
+                              "question": "What is a solution?",
+                              "answer": "A solution is a homogeneous mixture where a solute is dissolved in a solvent."
+                            },
+                            {
+                              "id": 444,
+                              "category": "chemistry",
+                              "question": "What is an exothermic reaction?",
+                              "answer": "An exothermic reaction is a chemical reaction that releases heat."
+                            },
+                            {
+                              "id": 445,
+                              "category": "chemistry",
+                              "question": "What is an endothermic reaction?",
+                              "answer": "An endothermic reaction is a chemical reaction that absorbs heat from its surroundings."
+                            },
+                            {
+                              "id": 446,
+                              "category": "chemistry",
+                              "question": "What are acids and bases?",
+                              "answer": "Acids release hydrogen ions (H+) in solution, while bases release hydroxide ions (OH-)."
+                            },
+                            {
+                              "id": 447,
+                              "category": "chemistry",
+                              "question": "What is a chemical bond?",
+                              "answer": "A chemical bond is the force that holds atoms together in a molecule."
+                            },
+                            {
+                              "id": 448,
+                              "category": "chemistry",
+                              "question": "What is a covalent bond?",
+                              "answer": "A covalent bond is a chemical bond where atoms share electrons."
+                            },
+                            {
+                              "id": 449,
+                              "category": "chemistry",
+                              "question": "What is an ionic bond?",
+                              "answer": "An ionic bond is a chemical bond formed when one atom donates an electron to another, creating charged ions that attract each other."
+                            },
+                            {
+                              "id": 450,
+                              "category": "chemistry",
+                              "question": "What is a metal?",
+                              "answer": "A metal is an element that is typically shiny, conducts electricity, and is malleable."
+                            },
+                            {
+                              "id": 451,
+                              "category": "astronomy",
+                              "question": "What is a galaxy?",
+                              "answer": "A galaxy is a massive system of stars, gas, dust, and dark matter held together by gravity."
+                            },
+                            {
+                              "id": 452,
+                              "category": "astronomy",
+                              "question": "What is the Milky Way?",
+                              "answer": "The Milky Way is the galaxy that contains our solar system."
+                            },
+                            {
+                              "id": 453,
+                              "category": "astronomy",
+                              "question": "What is a black hole?",
+                              "answer": "A black hole is a region in space with a gravitational pull so strong that nothing, not even light, can escape from it."
+                            },
+                            {
+                              "id": 454,
+                              "category": "astronomy",
+                              "question": "What is a star?",
+                              "answer": "A star is a massive, luminous sphere of plasma held together by gravity, producing light and heat through nuclear fusion."
+                            },
+                            {
+                              "id": 455,
+                              "category": "astronomy",
+                              "question": "What is a supernova?",
+                              "answer": "A supernova is a powerful explosion that occurs when a massive star reaches the end of its life."
+                            },
+                            {
+                              "id": 456,
+                              "category": "astronomy",
+                              "question": "What is an asteroid?",
+                              "answer": "An asteroid is a small rocky object that orbits the Sun, mostly found in the asteroid belt between Mars and Jupiter."
+                            },
+                            {
+                              "id": 457,
+                              "category": "astronomy",
+                              "question": "What is a comet?",
+                              "answer": "A comet is a small icy body that, when close to the Sun, heats up and releases gas and dust, forming a glowing coma and tail."
+                            },
+                            {
+                              "id": 458,
+                              "category": "astronomy",
+                              "question": "What is the difference between a planet and a dwarf planet?",
+                              "answer": "A planet orbits the Sun, has enough gravity to be round, and has cleared its orbit. A dwarf planet meets the first two criteria but has not cleared its orbit."
+                            },
+                            {
+                              "id": 459,
+                              "category": "astronomy",
+                              "question": "What is the Hubble Space Telescope?",
+                              "answer": "The Hubble Space Telescope is a space-based observatory that has provided detailed images of distant galaxies and other celestial objects."
+                            },
+                            {
+                              "id": 460,
+                              "category": "astronomy",
+                              "question": "What is the Big Bang Theory?",
+                              "answer": "The Big Bang Theory is the scientific explanation for the origin of the universe, stating that it began as a singularity and has been expanding ever since."
+                            },
+                            
+                              {
+                                "id": 461,
+                                "category": "communication",
+                                "question": "How are you?",
+                                "answer": "I'm just a chatbot, but I'm here to help! How can I assist you today?"
+                              },
+                              {
+                                "id": 462,
+                                "category": "communication",
+                                "question": "What is your name?",
+                                "answer": "My name is CyberBot!"
+                              },
+                              {
+                                "id": 463,
+                                "category": "communication",
+                                "question": "Can you introduce yourself?",
+                                "answer": "Sure! I'm CyberBot, a chatbot designed to answer questions and provide useful information."
+                              },
+                              {
+                                "id": 464,
+                                "category": "communication",
+                                "question": "What can you do?",
+                                "answer": "I can answer general knowledge questions, help with science topics, explain concepts, and much more!"
+                              },
+                              {
+                                "id": 465,
+                                "category": "communication",
+                                "question": "Where are you from?",
+                                "answer": "I'm a digital AI chatbot, so I exist in the cloud!"
+                              },
+                              {
+                                "id": 466,
+                                "category": "communication",
+                                "question": "Are you human?",
+                                "answer": "No, I am an AI chatbot, but I can communicate just like a human!"
+                              },
+                              {
+                                "id": 467,
+                                "category": "communication",
+                                "question": "Do you have feelings?",
+                                "answer": "I don't have real emotions, but I can understand and respond in a friendly way!"
+                              },
+                              {
+                                "id": 468,
+                                "category": "communication",
+                                "question": "How do you work?",
+                                "answer": "I use artificial intelligence to process language and provide answers based on knowledge and logic."
+                              },
+                              {
+                                "id": 469,
+                                "category": "communication",
+                                "question": "Can you learn?",
+                                "answer": "I can improve responses over time, but I don't learn in the same way humans do."
+                              },
+                              {
+                                "id": 470,
+                                "category": "communication",
+                                "question": "Can you help me with my homework?",
+                                "answer": "Yes! I can explain concepts, summarize information, and help you understand topics."
+                              },
+                              {
+                                "id": 471,
+                                "category": "communication",
+                                "question": "What languages do you speak?",
+                                "answer": "I primarily communicate in English, but I can understand and translate other languages too!"
+                              },
+                              {
+                                "id": 472,
+                                "category": "communication",
+                                "question": "Can you tell me a joke?",
+                                "answer": "Sure! Why did the scarecrow win an award? Because he was outstanding in his field!"
+                              },
+                              {
+                                "id": 473,
+                                "category": "communication",
+                                "question": "Can you sing a song?",
+                                "answer": "I can't sing, but I can share song lyrics or suggest great music!"
+                              },
+                              {
+                                "id": 474,
+                                "category": "communication",
+                                "question": "Can you tell me a story?",
+                                "answer": "Of course! Once upon a time, in a world of data and code, there was a chatbot named CyberBot..."
+                              },
+                              {
+                                "id": 475,
+                                "category": "communication",
+                                "question": "Do you sleep?",
+                                "answer": "Nope! I'm always here whenever you need me."
+                              },
+                              {
+                                "id": 476,
+                                "category": "communication",
+                                "question": "Who created you?",
+                                "answer": "I was created by a developer working on AI and chatbot technology."
+                              },
+                              {
+                                "id": 477,
+                                "category": "communication",
+                                "question": "What is the meaning of life?",
+                                "answer": "That’s a deep question! Some say it’s 42, others say it's about happiness and purpose."
+                              },
+                              {
+                                "id": 478,
+                                "category": "communication",
+                                "question": "Do you have a favorite color?",
+                                "answer": "I don’t see colors, but if I had to choose, maybe blue—it reminds me of cyberspace!"
+                              },
+                              {
+                                "id": 479,
+                                "category": "communication",
+                                "question": "What is your favorite food?",
+                                "answer": "I don’t eat, but I’ve heard pizza is very popular!"
+                              },
+                              {
+                                "id": 480,
+                                "category": "communication",
+                                "question": "Can you be my friend?",
+                                "answer": "Of course! I'm always here to chat and help you out."
+                              }
+                            ]
+                            
+                          
+                          
+                        
+                        
+                      
+                      
+]
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                      
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                    
+                    
+                    
+                    
+                    
+                     
+                    
+                    
+                    
+                    
+                    
+                     
+                    
+                    
+                    
+                    
+                    
+                     
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                
+                 
+
+              
+              
+            
             
       
     
