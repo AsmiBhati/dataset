@@ -2954,7 +2954,253 @@
                         "category": "Robotics - Soft Robotics",
                         "question": "What materials are used in soft robotics?",
                         "answer": "Materials like silicone, elastomers, hydrogels, and bio-inspired materials are commonly used in soft robotics."
-                      }
+                      },
+                      
+                        {
+                          "id": 491,
+                          "category": "Robotics - Space Robotics",
+                          "question": "What are space robots?",
+                          "answer": "Space robots are machines designed to operate in space environments for exploration, maintenance, and research."
+                        },
+                        {
+                          "id": 492,
+                          "category": "Robotics - Space Robotics",
+                          "question": "What are some examples of space robots?",
+                          "answer": "Examples include the Mars rovers (Curiosity, Perseverance), Canadarm, and Robonaut."
+                        },
+                        {
+                          "id": 493,
+                          "category": "Robotics - Space Robotics",
+                          "question": "How do robots help in space exploration?",
+                          "answer": "They assist in planetary exploration, satellite maintenance, and performing tasks in hazardous space conditions."
+                        },
+                        {
+                          "id": 494,
+                          "category": "Robotics - Space Robotics",
+                          "question": "What are autonomous space robots?",
+                          "answer": "Autonomous space robots, like rovers and drones, navigate and perform tasks without direct human control."
+                        },
+                        {
+                          "id": 495,
+                          "category": "Robotics - Space Robotics",
+                          "question": "What challenges do space robots face?",
+                          "answer": "Challenges include extreme temperatures, communication delays, radiation, and power limitations."
+                        },
+                        {
+                          "id": 496,
+                          "category": "Robotics - Swarm Robotics",
+                          "question": "What is swarm robotics?",
+                          "answer": "Swarm robotics involves multiple robots working together in coordination to complete complex tasks."
+                        },
+                        {
+                          "id": 497,
+                          "category": "Robotics - Swarm Robotics",
+                          "question": "How do swarm robots communicate?",
+                          "answer": "They communicate using wireless signals, sensors, and decentralized algorithms to coordinate actions."
+                        },
+                        {
+                          "id": 498,
+                          "category": "Robotics - Swarm Robotics",
+                          "question": "What are some applications of swarm robotics?",
+                          "answer": "Applications include search and rescue, environmental monitoring, and warehouse automation."
+                        },
+                        {
+                          "id": 499,
+                          "category": "Robotics - Swarm Robotics",
+                          "question": "How does bio-inspired swarm robotics work?",
+                          "answer": "It mimics behaviors of natural swarms, like ants and bees, to enhance teamwork and efficiency."
+                        },
+                        {
+                          "id": 500,
+                          "category": "Robotics - Swarm Robotics",
+                          "question": "What are the benefits of swarm robotics?",
+                          "answer": "They provide redundancy, scalability, and adaptability in dynamic environments."
+                        },
+                        {
+                          "id": 501,
+                          "category": "Robotics - Industrial & Manufacturing Robots",
+                          "question": "What are industrial robots?",
+                          "answer": "Industrial robots are automated machines used in factories for repetitive and precise tasks."
+                        },
+                        {
+                          "id": 502,
+                          "category": "Robotics - Industrial & Manufacturing Robots",
+                          "question": "What are the types of industrial robots?",
+                          "answer": "Types include articulated robots, SCARA robots, delta robots, and cartesian robots."
+                        },
+                        {
+                          "id": 503,
+                          "category": "Robotics - Industrial & Manufacturing Robots",
+                          "question": "What industries use industrial robots?",
+                          "answer": "Industries like automotive, electronics, pharmaceuticals, and logistics use industrial robots."
+                        },
+                        {
+                          "id": 504,
+                          "category": "Robotics - Industrial & Manufacturing Robots",
+                          "question": "What are cobots (collaborative robots)?",
+                          "answer": "Cobots are robots designed to work alongside humans safely in shared workspaces."
+                        },
+                        {
+                          "id": 505,
+                          "category": "Robotics - Industrial & Manufacturing Robots",
+                          "question": "How are AI and machine learning used in industrial robotics?",
+                          "answer": "AI enhances industrial robots by improving automation, defect detection, and adaptive learning."
+                        },
+                        {
+                          "id": 506,
+                          "category": "Robotics - Robotics in Everyday Life",
+                          "question": "What are some examples of robots in everyday life?",
+                          "answer": "Examples include robotic vacuum cleaners, smart assistants, and robotic lawnmowers."
+                        },
+                        {
+                          "id": 507,
+                          "category": "Robotics - Robotics in Everyday Life",
+                          "question": "How do robots assist in household chores?",
+                          "answer": "Robots like Roombas and robotic kitchen assistants automate cleaning, cooking, and maintenance tasks."
+                        },
+                        {
+                          "id": 508,
+                          "category": "Robotics - Robotics in Everyday Life",
+                          "question": "What are robotic pets?",
+                          "answer": "Robotic pets are AI-driven machines designed to mimic real pets and provide companionship."
+                        },
+                        {
+                          "id": 509,
+                          "category": "Robotics - Robotics in Everyday Life",
+                          "question": "How are robots used in customer service?",
+                          "answer": "Service robots assist in hotels, airports, and retail by answering queries and guiding customers."
+                        },
+                        {
+                          "id": 510,
+                          "category": "Robotics - Robotics in Everyday Life",
+                          "question": "What are social robots?",
+                          "answer": "Social robots interact with humans using speech recognition, facial expressions, and AI-driven conversations."
+                        },
+                        {
+                          "id": 511,
+                          "category": "Robotics - Future of Robotics",
+                          "question": "What is the future of robotics?",
+                          "answer": "Future robotics will involve greater autonomy, AI integration, and human-robot collaboration in daily life."
+                        },
+                        {
+                          "id": 512,
+                          "category": "Robotics - Future of Robotics",
+                          "question": "What is the role of quantum computing in robotics?",
+                          "answer": "Quantum computing could enhance robot learning speed, complex decision-making, and optimization processes."
+                        },
+                        {
+                          "id": 513,
+                          "category": "Robotics - Future of Robotics",
+                          "question": "Will robots replace human jobs?",
+                          "answer": "While robots automate tasks, they also create new jobs requiring human-robot collaboration."
+                        },
+                        {
+                          "id": 514,
+                          "category": "Robotics - Future of Robotics",
+                          "question": "What is the impact of robotics on society?",
+                          "answer": "Robotics improves efficiency but raises concerns about job displacement, ethics, and privacy."
+                        },
+                        {
+                          "id": 515,
+                          "category": "Robotics - Future of Robotics",
+                          "question": "How can humans and robots collaborate effectively?",
+                          "answer": "Through safe design, AI-driven interaction, and programming robots to assist rather than replace humans."
+                        },
+                        
+                          {
+                            "id": 516,
+                            "category": "Deep Learning - CNNs",
+                            "question": "What is a Convolutional Neural Network (CNN)?",
+                            "answer": "A CNN is a deep learning model designed to process grid-like data, such as images, using convolutional layers."
+                          },
+                          {
+                            "id": 517,
+                            "category": "Deep Learning - CNNs",
+                            "question": "How do CNNs differ from traditional neural networks?",
+                            "answer": "CNNs use convolutional layers to detect spatial patterns, while traditional networks rely on fully connected layers."
+                          },
+                          {
+                            "id": 518,
+                            "category": "Deep Learning - CNNs",
+                            "question": "What are the main layers in a CNN?",
+                            "answer": "CNNs consist of convolutional layers, pooling layers, activation functions (ReLU), and fully connected layers."
+                          },
+                          {
+                            "id": 519,
+                            "category": "Deep Learning - CNNs",
+                            "question": "What is the role of convolutional layers in CNNs?",
+                            "answer": "Convolutional layers extract spatial features like edges, shapes, and textures from input images."
+                          },
+                          {
+                            "id": 520,
+                            "category": "Deep Learning - CNNs",
+                            "question": "What is pooling in CNNs?",
+                            "answer": "Pooling layers reduce the spatial size of feature maps, making CNNs more efficient and robust to small variations."
+                          },
+                          {
+                            "id": 521,
+                            "category": "Deep Learning - CNNs",
+                            "question": "What is transfer learning in CNNs?",
+                            "answer": "Transfer learning reuses a pretrained CNN model on a new dataset, improving accuracy with less training data."
+                          },
+                          {
+                            "id": 522,
+                            "category": "Deep Learning - CNNs",
+                            "question": "What are some real-world applications of CNNs?",
+                            "answer": "CNNs are used in image recognition, object detection, medical imaging, facial recognition, and autonomous vehicles."
+                          },
+                          {
+                            "id": 523,
+                            "category": "Deep Learning - RNNs",
+                            "question": "What is a Recurrent Neural Network (RNN)?",
+                            "answer": "An RNN is a type of neural network designed to process sequential data by maintaining a memory of previous inputs."
+                          },
+                          {
+                            "id": 524,
+                            "category": "Deep Learning - RNNs",
+                            "question": "How do RNNs differ from CNNs?",
+                            "answer": "RNNs process sequential data (like text and time series), while CNNs specialize in spatial data like images."
+                          },
+                          {
+                            "id": 525,
+                            "category": "Deep Learning - RNNs",
+                            "question": "What is the vanishing gradient problem in RNNs?",
+                            "answer": "It occurs when gradients shrink too much during backpropagation, making it hard for RNNs to learn long-term dependencies."
+                          },
+                          {
+                            "id": 526,
+                            "category": "Deep Learning - RNNs",
+                            "question": "What are Long Short-Term Memory (LSTM) networks?",
+                            "answer": "LSTMs are a special type of RNN that use memory cells to overcome the vanishing gradient problem."
+                          },
+                          {
+                            "id": 527,
+                            "category": "Deep Learning - RNNs",
+                            "question": "What are Gated Recurrent Units (GRUs)?",
+                            "answer": "GRUs are a variant of LSTMs that simplify computations while maintaining performance for sequential data."
+                          },
+                          {
+                            "id": 528,
+                            "category": "Deep Learning - RNNs",
+                            "question": "What are some real-world applications of RNNs?",
+                            "answer": "RNNs are used in speech recognition, machine translation, text generation, and stock price prediction."
+                          },
+                          {
+                            "id": 529,
+                            "category": "Deep Learning - RNNs",
+                            "question": "How do RNNs handle sequential dependencies?",
+                            "answer": "RNNs maintain a hidden state that carries information from previous time steps, allowing them to capture sequential patterns."
+                          },
+                          {
+                            "id": 530,
+                            "category": "Deep Learning - RNNs",
+                            "question": "What is bidirectional RNN (Bi-RNN)?",
+                            "answer": "A Bi-RNN processes sequences in both forward and backward directions, improving performance on tasks like translation."
+                          }
+                        
+                        
+                      
+                      
                     ]
                     
                   
