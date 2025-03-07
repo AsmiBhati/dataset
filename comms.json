@@ -3615,6 +3615,606 @@
                                           "category": "Australia",
                                           "question": "Which is the largest city in Australia?",
                                           "answer": "Sydney is the largest city in Australia by population."
+                                        },
+                                        {
+                                          "id": 601,
+                                          "category": "general communication",
+                                          "question": "What's the most polite way to tell someone their breath could melt steel?",
+                                          "answer": "Offer them gum and say, 'This flavor is life-changing. You HAVE to try it!'"
+                                        },
+                                        {
+                                          "id": 602,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'I have no idea what I'm doing'?",
+                                          "answer": "'I’d love to get a second opinion on this to ensure we’re on the right track!'"
+                                        },
+                                        {
+                                          "id": 603,
+                                          "category": "general communication",
+                                          "question": "What’s a fancy way to say, 'I forgot'?",
+                                          "answer": "'That detail seems to have temporarily escaped my memory.'"
+                                        },
+                                        {
+                                          "id": 604,
+                                          "category": "general communication",
+                                          "question": "How do you politely end a conversation with someone who won’t stop talking?",
+                                          "answer": "'I’d love to continue this, but I have to run—let’s pick it up later!'"
+                                        },
+                                        {
+                                          "id": 605,
+                                          "category": "general communication",
+                                          "question": "What’s the professional way to say, 'I don’t want to be in this meeting'?",
+                                          "answer": "'Is there a way we could streamline this via email instead?'"
+                                        },
+                                        {
+                                          "id": 606,
+                                          "category": "general communication",
+                                          "question": "How do you say, 'You're wrong, but I don’t want to fight'?",
+                                          "answer": "'That’s an interesting perspective! Here’s another way to look at it…'"
+                                        },
+                                        {
+                                          "id": 607,
+                                          "category": "general communication",
+                                          "question": "What’s the smoothest way to recover from forgetting someone’s name?",
+                                          "answer": "'Remind me of your name again—I want to make sure I get it right!'"
+                                        },
+                                        {
+                                          "id": 608,
+                                          "category": "general communication",
+                                          "question": "How do you ask someone to stop talking without being rude?",
+                                          "answer": "'I love hearing your thoughts! Let’s pause here so others can chime in too.'"
+                                        },
+                                        {
+                                          "id": 609,
+                                          "category": "general communication",
+                                          "question": "What’s a professional way to say, 'I don’t care'?",
+                                          "answer": "'I trust your judgment on this one!'"
+                                        },
+                                        {
+                                          "id": 610,
+                                          "category": "general communication",
+                                          "question": "How do you say, 'That’s a terrible idea' nicely?",
+                                          "answer": "'That’s an interesting approach! Have we considered any alternatives?'"
+                                        },
+                                        {
+                                          "id": 611,
+                                          "category": "general communication",
+                                          "question": "What’s the best way to say, 'Leave me alone' without sounding mean?",
+                                          "answer": "'I need a little quiet time to focus, but let’s catch up later!'"
+                                        },
+                                        {
+                                          "id": 612,
+                                          "category": "general communication",
+                                          "question": "How do you respond when you completely zone out during a conversation?",
+                                          "answer": "'That’s really interesting—could you elaborate on that last part?'"
+                                        },
+                                        {
+                                          "id": 613,
+                                          "category": "general communication",
+                                          "question": "How do you make an awkward silence even more awkward?",
+                                          "answer": "'Wow, this silence is really doing a great job at existing.'"
+                                        },
+                                        {
+                                          "id": 614,
+                                          "category": "general communication",
+                                          "question": "What’s a polite way to tell someone they text too much?",
+                                          "answer": "'I love our chats! Let’s switch to quality over quantity.'"
+                                        },
+                                        {
+                                          "id": 615,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'I don’t like this'?",
+                                          "answer": "'I see where you're coming from! Have we thought about other options?'"
+                                        },
+                                        {
+                                          "id": 616,
+                                          "category": "general communication",
+                                          "question": "What’s the best way to pretend you understood something?",
+                                          "answer": "'Got it! Let me process that and circle back if I have questions.'"
+                                        },
+                                        {
+                                          "id": 617,
+                                          "category": "general communication",
+                                          "question": "How do you politely tell someone their idea is ridiculous?",
+                                          "answer": "'That’s definitely a unique perspective! Let’s explore some alternatives too.'"
+                                        },
+                                        {
+                                          "id": 618,
+                                          "category": "general communication",
+                                          "question": "What’s a professional way to say, 'I need a nap'?",
+                                          "answer": "'I think a short break would really help refresh my focus!'"
+                                        },
+                                        {
+                                          "id": 619,
+                                          "category": "general communication",
+                                          "question": "How do you politely tell someone to lower their voice?",
+                                          "answer": "'Your enthusiasm is great! Let’s keep it at an indoor volume.'"
+                                        },
+                                        {
+                                          "id": 620,
+                                          "category": "general communication",
+                                          "question": "What’s a fancy way to say, 'I messed up'?",
+                                          "answer": "'I appreciate the learning opportunity from this situation.'"
+                                        },
+                                        {
+                                          "id": 621,
+                                          "category": "general communication",
+                                          "question": "How do you say, 'You talk too much' nicely?",
+                                          "answer": "'I love hearing your thoughts! Let’s get others in on this too.'"
+                                        },
+                                        {
+                                          "id": 622,
+                                          "category": "general communication",
+                                          "question": "What’s the best way to escape a boring conversation?",
+                                          "answer": "'Excuse me, I need to check on something real quick—be right back!'"
+                                        },
+                                        {
+                                          "id": 623,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'I quit'?",
+                                          "answer": "'I’ve decided to explore new opportunities that align with my goals.'"
+                                        },
+                                        {
+                                          "id": 624,
+                                          "category": "general communication",
+                                          "question": "What’s a polite way to tell someone they’re wrong?",
+                                          "answer": "'That’s an interesting take! Have you seen this other perspective?'"
+                                        },
+                                        {
+                                          "id": 625,
+                                          "category": "general communication",
+                                          "question": "How do you say, 'I completely disagree' in a nice way?",
+                                          "answer": "'I see your point, but I have a slightly different perspective…'"
+                                        },
+                                        {
+                                          "id": 626,
+                                          "category": "general communication",
+                                          "question": "What’s the best way to respond to an awkward joke?",
+                                          "answer": "'Wow! That’s… one way to look at it.'"
+                                        },
+                                        {
+                                          "id": 627,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'I have no clue'?",
+                                          "answer": "'I’d love to dig into this further before giving a definite answer.'"
+                                        },
+                                        {
+                                          "id": 628,
+                                          "category": "general communication",
+                                          "question": "What’s a polite way to say, 'This meeting is pointless'?",
+                                          "answer": "'Could we summarize the key points in an email instead?'"
+                                        },
+                                        {
+                                          "id": 629,
+                                          "category": "general communication",
+                                          "question": "How do you say, 'You're being dramatic' professionally?",
+                                          "answer": "'I understand this is important—let’s break it down logically.'"
+                                        },
+                                        {
+                                          "id": 630,
+                                          "category": "general communication",
+                                          "question": "What’s the smoothest way to change the topic of a conversation?",
+                                          "answer": "'That reminds me of something interesting—have you heard about…?'"
+                                        },
+                                        {
+                                          "id": 631,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'I don’t want to talk right now'?",
+                                          "answer": "'I need some focused time right now, but let’s catch up later!'"
+                                        },
+                                        {
+                                          "id": 632,
+                                          "category": "general communication",
+                                          "question": "What’s the best way to handle a compliment when you're awkward?",
+                                          "answer": "'Oh wow, thanks! That means a lot coming from you.'"
+                                        },
+                                        {
+                                          "id": 633,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'This is not my problem'?",
+                                          "answer": "'That falls outside my scope, but I’d be happy to connect you with the right person!'"
+                                        },
+                                        {
+                                          "id": 634,
+                                          "category": "general communication",
+                                          "question": "What’s a polite way to tell someone they are too loud?",
+                                          "answer": "'Your energy is fantastic! Let’s bring it down just a notch.'"
+                                        },
+                                        {
+                                          "id": 635,
+                                          "category": "general communication",
+                                          "question": "How do you respond when someone gives you advice you didn’t ask for?",
+                                          "answer": "'That’s an interesting take! I’ll definitely consider it.'"
+                                        },
+                                        {
+                                          "id": 636,
+                                          "category": "general communication",
+                                          "question": "What’s the best way to handle an overly enthusiastic coworker?",
+                                          "answer": "'I love your excitement! Let’s channel it into something productive.'"
+                                        },
+                                        {
+                                          "id": 637,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'I’m ignoring you'?",
+                                          "answer": "'I’m currently tied up but will get back to you soon!'"
+                                        },
+                                        {
+                                          "id": 638,
+                                          "category": "general communication",
+                                          "question": "What’s a funny way to say, 'I need a break'?",
+                                          "answer": "'If I don’t step away for five minutes, I might start speaking in emojis.'"
+                                        },
+                                        {
+                                          "id": 639,
+                                          "category": "general communication",
+                                          "question": "How do you politely tell someone their joke was terrible?",
+                                          "answer": "'That was… certainly a unique take on humor!'"
+                                        },
+                                        {
+                                          "id": 640,
+                                          "category": "general communication",
+                                          "question": "What’s a smooth way to recover from tripping in public?",
+                                          "answer": "'Just testing gravity. Still works!'"
+                                        },
+                                        {
+                                          "id": 641,
+                                          "category": "general communication",
+                                          "question": "How do you tell someone they talk too much without hurting their feelings?",
+                                          "answer": "'I love our conversations! Let’s make sure everyone gets a turn too.'"
+                                        },
+                                        {
+                                          "id": 642,
+                                          "category": "general communication",
+                                          "question": "What’s a classy way to say, 'I told you so'?",
+                                          "answer": "'I believe that aligns with what I previously mentioned!'"
+                                        },
+                                        {
+                                          "id": 643,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'This makes no sense'?",
+                                          "answer": "'Could you walk me through your thought process on this?'"
+                                        },
+                                        {
+                                          "id": 644,
+                                          "category": "general communication",
+                                          "question": "What’s the best way to end a call when you’ve had enough?",
+                                          "answer": "'Alright, I won’t keep you any longer—I know you’re busy!'"
+                                        },
+                                        {
+                                          "id": 645,
+                                          "category": "general communication",
+                                          "question": "How do you respond when someone corrects you, but they’re actually wrong?",
+                                          "answer": "'I see why you’d think that! However, the correct detail is actually…'"
+                                        },
+                                        {
+                                          "id": 646,
+                                          "category": "general communication",
+                                          "question": "What’s a good way to pretend you were listening when you weren’t?",
+                                          "answer": "'That’s really fascinating! What was the key takeaway for you?'"
+                                        },
+                                        {
+                                          "id": 647,
+                                          "category": "general communication",
+                                          "question": "How do you say, 'You’re making this harder than it needs to be' nicely?",
+                                          "answer": "'I think we might be overcomplicating this—how about a simpler approach?'"
+                                        },
+                                        {
+                                          "id": 648,
+                                          "category": "general communication",
+                                          "question": "What’s a polite way to tell someone their email was too long?",
+                                          "answer": "'Thanks for all the details! Could you summarize the key points for me?'"
+                                        },
+                                        {
+                                          "id": 649,
+                                          "category": "general communication",
+                                          "question": "How do you say, 'This is a bad idea' diplomatically?",
+                                          "answer": "'I see some potential challenges with this approach—let’s explore alternatives.'"
+                                        },
+                                        {
+                                          "id": 650,
+                                          "category": "general communication",
+                                          "question": "What’s a good way to react when someone says something absurd?",
+                                          "answer": "'Wow! That’s certainly one perspective!'"
+                                        },
+                                        {
+                                          "id": 651,
+                                          "category": "general communication",
+                                          "question": "How do you politely tell someone you don’t understand what they’re saying?",
+                                          "answer": "'Could you break that down for me in simpler terms?'"
+                                        },
+                                        {
+                                          "id": 652,
+                                          "category": "general communication",
+                                          "question": "What’s a professional way to tell someone they’re micromanaging?",
+                                          "answer": "'I appreciate your input! I’d love to take some ownership of this.'"
+                                        },
+                                        {
+                                          "id": 653,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'I need you to stop talking'?",
+                                          "answer": "'Let’s pause here so we can digest this information and move forward.'"
+                                        },
+                                        {
+                                          "id": 654,
+                                          "category": "general communication",
+                                          "question": "What’s a polite way to tell someone they’re being nosy?",
+                                          "answer": "'That’s an interesting question! Why do you ask?'"
+                                        },
+                                        {
+                                          "id": 655,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'I don’t have time for this'?",
+                                          "answer": "'I’d love to discuss this further, but my schedule is tight right now.'"
+                                        },
+                                        {
+                                          "id": 656,
+                                          "category": "general communication",
+                                          "question": "What’s a funny way to tell someone they’re being dramatic?",
+                                          "answer": "'Wow, that deserves an Oscar nomination!'"
+                                        },
+                                        {
+                                          "id": 657,
+                                          "category": "general communication",
+                                          "question": "How do you politely tell someone they’re being passive-aggressive?",
+                                          "answer": "'I sense some underlying concerns—let’s talk about them directly.'"
+                                        },
+                                        {
+                                          "id": 658,
+                                          "category": "general communication",
+                                          "question": "What’s the best way to respond to an unexpected compliment?",
+                                          "answer": "'Oh wow, thank you! That made my day!'"
+                                        },
+                                        {
+                                          "id": 659,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'This is a waste of time'?",
+                                          "answer": "'I’m not sure this is the best use of our time—can we reassess?'"
+                                        },
+                                        {
+                                          "id": 660,
+                                          "category": "general communication",
+                                          "question": "What’s a funny way to admit you have no idea what’s going on?",
+                                          "answer": "'I’m following along at about 5% capacity right now—can you recap?'"
+                                        },
+                                        {
+                                          "id": 661,
+                                          "category": "general communication",
+                                          "question": "How do you politely tell someone they just said something really obvious?",
+                                          "answer": "'That’s a great way to put it! I think we were all thinking the same thing.'"
+                                        },
+                                        {
+                                          "id": 662,
+                                          "category": "general communication",
+                                          "question": "What’s a funny way to tell someone you’re confused?",
+                                          "answer": "'I’m processing… please hold for the next available brain cell.'"
+                                        },
+                                        {
+                                          "id": 663,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'That’s a terrible idea'?",
+                                          "answer": "'I see where you’re coming from! Let’s explore some alternative approaches.'"
+                                        },
+                                        {
+                                          "id": 664,
+                                          "category": "general communication",
+                                          "question": "What’s a polite way to say, 'You’re not making any sense'?",
+                                          "answer": "'I’d love to understand this better—could you clarify your point?'"
+                                        },
+                                        {
+                                          "id": 665,
+                                          "category": "general communication",
+                                          "question": "How do you say, 'I don’t want to do this' without sounding lazy?",
+                                          "answer": "'I think my skills might be better utilized elsewhere on this project.'"
+                                        },
+                                        {
+                                          "id": 666,
+                                          "category": "general communication",
+                                          "question": "What’s a funny way to tell someone to calm down?",
+                                          "answer": "'Deep breaths! We’re not defusing a bomb here.'"
+                                        },
+                                        {
+                                          "id": 667,
+                                          "category": "general communication",
+                                          "question": "How do you politely ask someone to stop interrupting you?",
+                                          "answer": "'I’d love to finish this thought—then I’m all ears!'"
+                                        },
+                                        {
+                                          "id": 668,
+                                          "category": "general communication",
+                                          "question": "What’s a funny way to say you need coffee before functioning?",
+                                          "answer": "'I’m currently operating at dial-up speed. Coffee upgrades me to Wi-Fi.'"
+                                        },
+                                        {
+                                          "id": 669,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'That’s not my job'?",
+                                          "answer": "'That’s outside my usual responsibilities, but I’m happy to assist where I can!'"
+                                        },
+                                        {
+                                          "id": 670,
+                                          "category": "general communication",
+                                          "question": "What’s a polite way to tell someone they’re over-explaining?",
+                                          "answer": "'I think I’ve got the gist! No need to dive deeper unless I have questions.'"
+                                        },
+                                        {
+                                          "id": 671,
+                                          "category": "general communication",
+                                          "question": "How do you politely say, 'I don’t care'?",
+                                          "answer": "'I trust your judgment on this one!'"
+                                        },
+                                        {
+                                          "id": 672,
+                                          "category": "general communication",
+                                          "question": "What’s a professional way to tell someone they’re being dramatic?",
+                                          "answer": "'I can see this is important to you—let’s find a constructive way forward!'"
+                                        },
+                                        {
+                                          "id": 673,
+                                          "category": "general communication",
+                                          "question": "How do you say, 'I have no idea what I’m doing' in a confident way?",
+                                          "answer": "'I’m currently in the learning phase—figuring things out as I go!'"
+                                        },
+                                        {
+                                          "id": 674,
+                                          "category": "general communication",
+                                          "question": "What’s a funny way to say, 'I’m too tired for this'?",
+                                          "answer": "'I’m running on fumes, and my brain is out of office.'"
+                                        },
+                                        {
+                                          "id": 675,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'This meeting is pointless'?",
+                                          "answer": "'Is there a way we can streamline this discussion for efficiency?'"
+                                        },
+                                        {
+                                          "id": 676,
+                                          "category": "general communication",
+                                          "question": "What’s a funny way to remind someone they owe you money?",
+                                          "answer": "'Hey, remember that investment you made in my lunch? It’s time for the ROI.'"
+                                        },
+                                        {
+                                          "id": 677,
+                                          "category": "general communication",
+                                          "question": "How do you politely tell someone they smell bad?",
+                                          "answer": "'I just found this amazing new soap—you should totally try it!'"
+                                        },
+                                        {
+                                          "id": 678,
+                                          "category": "general communication",
+                                          "question": "What’s a fun way to say, 'I’m busy'?",
+                                          "answer": "'I’m currently booked with an exclusive meeting… with my couch and Netflix.'"
+                                        },
+                                        {
+                                          "id": 679,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'I don’t like working with you'?",
+                                          "answer": "'We seem to have different working styles—let’s find a way to collaborate effectively!'"
+                                        },
+                                        {
+                                          "id": 680,
+                                          "category": "general communication",
+                                          "question": "What’s a funny way to say, 'You’re talking too much'?",
+                                          "answer": "'I love this TED Talk, but when’s the Q&A session?'"
+                                        },
+                                        {
+                                          "id": 681,
+                                          "category": "general communication",
+                                          "question": "How do you say, 'I don’t feel like doing this' professionally?",
+                                          "answer": "'I’d love to prioritize this later when I can give it my full attention.'"
+                                        },
+                                        {
+                                          "id": 682,
+                                          "category": "general communication",
+                                          "question": "What’s a lighthearted way to ask someone to stop texting you?",
+                                          "answer": "'Wow, I think my phone is overheating from all these messages!'"
+                                        },
+                                        {
+                                          "id": 683,
+                                          "category": "general communication",
+                                          "question": "How do you politely tell someone they’re wrong?",
+                                          "answer": "'That’s an interesting perspective! I came across a different take on this…'"
+                                        },
+                                        {
+                                          "id": 684,
+                                          "category": "general communication",
+                                          "question": "What’s a funny way to say, 'I don’t like this'?",
+                                          "answer": "'This is definitely… a choice!'"
+                                        },
+                                        {
+                                          "id": 685,
+                                          "category": "general communication",
+                                          "question": "How do you say, 'You’re making things worse' without being rude?",
+                                          "answer": "'I think we might be overcomplicating things—let’s take a step back!'"
+                                        },
+                                        {
+                                          "id": 686,
+                                          "category": "general communication",
+                                          "question": "What’s a fun way to admit you made a mistake?",
+                                          "answer": "'Well, that was a plot twist I didn’t see coming!'"
+                                        },
+                                        {
+                                          "id": 687,
+                                          "category": "general communication",
+                                          "question": "How do you politely tell someone you’re done listening?",
+                                          "answer": "'That’s really insightful! Let’s revisit this later when we have more time.'"
+                                        },
+                                        {
+                                          "id": 688,
+                                          "category": "general communication",
+                                          "question": "What’s a funny way to say, 'I’m not interested'?",
+                                          "answer": "'That sounds like an adventure! One I’ll happily sit out on.'"
+                                        },
+                                        {
+                                          "id": 689,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'I don’t want to be involved'?",
+                                          "answer": "'I trust the team’s judgment on this one!'"
+                                        },
+                                        {
+                                          "id": 690,
+                                          "category": "general communication",
+                                          "question": "What’s a lighthearted way to tell someone to stop complaining?",
+                                          "answer": "'Let’s turn that frown upside down—or at least at a slight angle!'"
+                                        },
+                                        {
+                                          "id": 691,
+                                          "category": "general communication",
+                                          "question": "How do you humorously say, 'I have no idea what’s going on'?",
+                                          "answer": "'I’m following along… but at a safe distance.'"
+                                        },
+                                        {
+                                          "id": 692,
+                                          "category": "general communication",
+                                          "question": "What’s a funny way to ask someone to hurry up?",
+                                          "answer": "'Are we waiting for the planets to align, or…?'"
+                                        },
+                                        {
+                                          "id": 693,
+                                          "category": "general communication",
+                                          "question": "How do you professionally say, 'This is a waste of time'?",
+                                          "answer": "'I’d love to ensure our efforts are aligned with our goals—are we prioritizing the right things here?'"
+                                        },
+                                        {
+                                          "id": 694,
+                                          "category": "general communication",
+                                          "question": "What’s a lighthearted way to tell someone to be quiet?",
+                                          "answer": "'Shhh… let’s enjoy a moment of dramatic silence.'"
+                                        },
+                                        {
+                                          "id": 695,
+                                          "category": "general communication",
+                                          "question": "How do you politely tell someone their idea is unrealistic?",
+                                          "answer": "'That’s an ambitious vision! Let’s break it down into actionable steps.'"
+                                        },
+                                        {
+                                          "id": 696,
+                                          "category": "general communication",
+                                          "question": "What’s a funny way to say, 'I need a break'?",
+                                          "answer": "'I’m officially entering my buffering phase.'"
+                                        },
+                                        {
+                                          "id": 697,
+                                          "category": "general communication",
+                                          "question": "How do you tell someone they’re overcomplicating things?",
+                                          "answer": "'Let’s simplify this before we accidentally invent calculus.'"
+                                        },
+                                        {
+                                          "id": 698,
+                                          "category": "general communication",
+                                          "question": "What’s a fun way to tell someone they’re being too serious?",
+                                          "answer": "'Let’s dial it down from ‘end of the world’ to ‘mild inconvenience.’'"
+                                        },
+                                        {
+                                          "id": 699,
+                                          "category": "general communication",
+                                          "question": "How do you humorously tell someone to stop overthinking?",
+                                          "answer": "'Put the magnifying glass down—it’s not a crime scene.'"
+                                        },
+                                        {
+                                          "id": 700,
+                                          "category": "general communication",
+                                          "question": "What’s a funny way to say, 'I don’t feel like talking'?",
+                                          "answer": "'Currently operating on low battery mode—verbal functions disabled.'"
                                         }
                                       ]
                                       

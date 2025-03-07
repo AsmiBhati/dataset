@@ -3951,13 +3951,279 @@
                                       "category": "Transformers & Attention Mechanisms",
                                       "question": "How are Transformers evolving with sparse attention?",
                                       "answer": "Sparse attention techniques, like BigBird, reduce computational costs by attending only to essential parts of long sequences."
+                                    },
+                                    {
+                                      "id": 656,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is supervised learning?",
+                                      "answer": "Supervised learning is a type of machine learning where models are trained on labeled data to make predictions."
+                                    },
+                                    {
+                                      "id": 657,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "How does unsupervised learning differ from supervised learning?",
+                                      "answer": "Unsupervised learning finds patterns in data without labeled outputs, unlike supervised learning which relies on labeled data."
+                                    },
+                                    {
+                                      "id": 658,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is reinforcement learning?",
+                                      "answer": "Reinforcement learning is a machine learning approach where an agent learns to make decisions by receiving rewards or penalties."
+                                    },
+                                    {
+                                      "id": 659,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What are neural networks?",
+                                      "answer": "Neural networks are computing systems inspired by the human brain that process data using interconnected layers of nodes."
+                                    },
+                                    {
+                                      "id": 660,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is deep learning?",
+                                      "answer": "Deep learning is a subset of machine learning that uses neural networks with many layers to analyze complex patterns in data."
+                                    },
+                                    {
+                                      "id": 661,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is a dataset in machine learning?",
+                                      "answer": "A dataset is a collection of data used to train, validate, or test machine learning models."
+                                    },
+                                    {
+                                      "id": 662,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is overfitting in machine learning?",
+                                      "answer": "Overfitting occurs when a machine learning model learns noise in the training data instead of generalizing patterns, reducing accuracy on new data."
+                                    },
+                                    {
+                                      "id": 663,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is underfitting in machine learning?",
+                                      "answer": "Underfitting happens when a model is too simple to capture the underlying patterns in the data, leading to poor performance."
+                                    },
+                                    {
+                                      "id": 664,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is a loss function in machine learning?",
+                                      "answer": "A loss function measures how well a model's predictions match the actual values, helping guide the training process."
+                                    },
+                                    {
+                                      "id": 665,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What are hyperparameters in machine learning?",
+                                      "answer": "Hyperparameters are external settings of a machine learning model that control its learning process and need to be tuned for optimal performance."
+                                    },
+                                    {
+                                      "id": 666,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is transfer learning?",
+                                      "answer": "Transfer learning is a technique where a model trained on one task is reused and fine-tuned for a different but related task."
+                                    },
+                                    {
+                                      "id": 667,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is feature engineering?",
+                                      "answer": "Feature engineering involves selecting, transforming, or creating new input features to improve a machine learning model's performance."
+                                    },
+                                    {
+                                      "id": 668,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is a confusion matrix?",
+                                      "answer": "A confusion matrix is a table used to evaluate classification models by displaying true positives, false positives, true negatives, and false negatives."
+                                    },
+                                    {
+                                      "id": 669,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is natural language processing (NLP)?",
+                                      "answer": "NLP is a field of AI that enables computers to understand, interpret, and generate human language."
+                                    },
+                                    {
+                                      "id": 670,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is computer vision?",
+                                      "answer": "Computer vision is a branch of AI that enables machines to interpret and analyze visual information from images or videos."
+                                    },
+                                    {
+                                      "id": 671,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is reinforcement learning used for?",
+                                      "answer": "Reinforcement learning is used in applications like robotics, gaming, self-driving cars, and financial trading."
+                                    },
+                                    {
+                                      "id": 672,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is an activation function in neural networks?",
+                                      "answer": "An activation function determines the output of a neuron in a neural network, helping the model learn complex patterns."
+                                    },
+                                    {
+                                      "id": 673,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is gradient descent?",
+                                      "answer": "Gradient descent is an optimization algorithm used to minimize a loss function and improve a machine learning model's performance."
+                                    },
+                                    {
+                                      "id": 674,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What are convolutional neural networks (CNNs)?",
+                                      "answer": "CNNs are a type of neural network designed for processing structured grid-like data, commonly used in image recognition."
+                                    },
+                                    {
+                                      "id": 675,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is a recurrent neural network (RNN)?",
+                                      "answer": "RNNs are neural networks designed for sequential data processing, often used in tasks like speech recognition and language modeling."
+                                    },
+                                    {
+                                      "id": 676,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is a support vector machine (SVM)?",
+                                      "answer": "An SVM is a supervised learning algorithm that classifies data by finding the optimal hyperplane that separates different categories."
+                                    },
+                                    {
+                                      "id": 677,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is K-means clustering?",
+                                      "answer": "K-means is an unsupervised learning algorithm that groups data into K clusters based on similarity."
+                                    },
+                                    {
+                                      "id": 678,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is a recommendation system?",
+                                      "answer": "A recommendation system suggests products or content based on user preferences and behavior."
+                                    },
+                                    {
+                                      "id": 679,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is an AI chatbot?",
+                                      "answer": "An AI chatbot is a software program that uses NLP and ML to simulate human-like conversations."
+                                    },
+                                    {
+                                      "id": 680,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is an autoencoder?",
+                                      "answer": "An autoencoder is a type of neural network used for unsupervised learning, mainly for feature extraction and anomaly detection."
+                                    },
+                                    {
+                                      "id": 681,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is a generative adversarial network (GAN)?",
+                                      "answer": "A GAN is a type of neural network used for generating new data that resembles real-world data."
+                                    },
+                                    {
+                                      "id": 682,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is an AI bias?",
+                                      "answer": "AI bias refers to systematic errors in AI models that lead to unfair or inaccurate outcomes for certain groups."
+                                    },
+                                    {
+                                      "id": 683,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is edge AI?",
+                                      "answer": "Edge AI refers to running AI models directly on edge devices like smartphones or IoT devices instead of in the cloud."
+                                    },
+                                    {
+                                      "id": 684,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is Explainable AI (XAI)?",
+                                      "answer": "XAI refers to AI models that provide understandable and interpretable decisions to users."
+                                    },
+                                    {
+                                      "id": 685,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is an AI ethics framework?",
+                                      "answer": "An AI ethics framework consists of guidelines to ensure AI development is fair, transparent, and accountable."
+                                    },
+                                    {
+                                      "id": 686,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is the difference between AI, ML, and deep learning?",
+                                      "answer": "AI is the broad field of creating intelligent machines, ML is a subset of AI that learns from data, and deep learning is a subset of ML using neural networks with multiple layers."
+                                    },
+                                    {
+                                      "id": 687,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is federated learning?",
+                                      "answer": "Federated learning is a decentralized approach to training machine learning models across multiple devices without sharing raw data."
+                                    },
+                                    {
+                                      "id": 688,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is an embedding in machine learning?",
+                                      "answer": "An embedding is a learned representation of data, often used to convert categorical variables or words into numerical vectors for models."
+                                    },
+                                    {
+                                      "id": 689,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What are decision trees in machine learning?",
+                                      "answer": "A decision tree is a model that makes decisions by splitting data into branches based on feature values until a prediction is reached."
+                                    },
+                                    {
+                                      "id": 690,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is a random forest?",
+                                      "answer": "A random forest is an ensemble learning technique that combines multiple decision trees to improve accuracy and reduce overfitting."
+                                    },
+                                    {
+                                      "id": 691,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is a Bayesian network?",
+                                      "answer": "A Bayesian network is a probabilistic graphical model that represents variables and their dependencies using a directed acyclic graph."
+                                    },
+                                    {
+                                      "id": 692,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is model drift in machine learning?",
+                                      "answer": "Model drift occurs when a machine learning model's performance degrades over time due to changes in the data distribution."
+                                    },
+                                    {
+                                      "id": 693,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is a perceptron in neural networks?",
+                                      "answer": "A perceptron is the simplest type of artificial neural network model that classifies data using a weighted sum of inputs and an activation function."
+                                    },
+                                    {
+                                      "id": 694,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is semi-supervised learning?",
+                                      "answer": "Semi-supervised learning is a machine learning approach that uses a small amount of labeled data along with a large amount of unlabeled data for training."
+                                    },
+                                    {
+                                      "id": 695,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is few-shot learning?",
+                                      "answer": "Few-shot learning is a machine learning technique where models learn to make predictions from only a few labeled examples."
+                                    },
+                                    {
+                                      "id": 696,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is one-hot encoding?",
+                                      "answer": "One-hot encoding is a method for converting categorical data into binary vectors to be used in machine learning models."
+                                    },
+                                    {
+                                      "id": 697,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is dropout in neural networks?",
+                                      "answer": "Dropout is a regularization technique in neural networks that randomly removes neurons during training to prevent overfitting."
+                                    },
+                                    {
+                                      "id": 698,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is an attention mechanism in deep learning?",
+                                      "answer": "An attention mechanism allows neural networks to focus on important parts of input data, improving performance in tasks like NLP and image processing."
+                                    },
+                                    {
+                                      "id": 699,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is a transformer model in AI?",
+                                      "answer": "A transformer model is a deep learning architecture that uses self-attention mechanisms to process sequential data efficiently, commonly used in NLP."
+                                    },
+                                    {
+                                      "id": 700,
+                                      "category": "Machine Learning & Artificial Intelligence",
+                                      "question": "What is an adversarial attack in AI?",
+                                      "answer": "An adversarial attack involves manipulating input data in subtle ways to deceive machine learning models into making incorrect predictions."
                                     }
                                   
-                                  
-                                
-                                
-                              
-                              
+                
                             
                             
                           
