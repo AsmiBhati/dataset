@@ -2742,9 +2742,225 @@
                     "category": "Robotics - Swarm Robotics",
                     "question": "How do swarm robots learn?",
                     "answer": "Swarm robots use AI."
-                  }
+                  },
+                  
+                    {
+                      "id": 456,
+                      "category": "Robotics - Agriculture & Robotics",
+                      "question": "How are robots used in agriculture?",
+                      "answer": "Robots assist in farming by automating planting, harvesting, and monitoring crops."
+                    },
+                    {
+                      "id": 457,
+                      "category": "Robotics - Agriculture & Robotics",
+                      "question": "What is precision agriculture?",
+                      "answer": "Precision agriculture uses AI-powered robots to optimize farming practices and resource use."
+                    },
+                    {
+                      "id": 458,
+                      "category": "Robotics - Agriculture & Robotics",
+                      "question": "What are autonomous farm vehicles?",
+                      "answer": "Autonomous farm vehicles are self-driving tractors and harvesters that reduce manual labor."
+                    },
+                    {
+                      "id": 459,
+                      "category": "Robotics - Agriculture & Robotics",
+                      "question": "How do drones help in agriculture?",
+                      "answer": "Drones help in agriculture by surveying crops, monitoring plant health, and spraying pesticides."
+                    },
+                    {
+                      "id": 460,
+                      "category": "Robotics - Agriculture & Robotics",
+                      "question": "How can AI improve robotic farming?",
+                      "answer": "AI helps robotic farming by analyzing soil conditions, predicting yields, and optimizing irrigation."
+                    },
+                    {
+                      "id": 461,
+                      "category": "Robotics - Exoskeletons & Prosthetics",
+                      "question": "What are robotic exoskeletons?",
+                      "answer": "Robotic exoskeletons are wearable robotic devices that enhance human strength and mobility."
+                    },
+                    {
+                      "id": 462,
+                      "category": "Robotics - Exoskeletons & Prosthetics",
+                      "question": "How do robotic prosthetics work?",
+                      "answer": "Robotic prosthetics use sensors and AI to mimic natural limb movements for amputees."
+                    },
+                    {
+                      "id": 463,
+                      "category": "Robotics - Exoskeletons & Prosthetics",
+                      "question": "How do exoskeletons help in rehabilitation?",
+                      "answer": "Exoskeletons assist patients with mobility issues by supporting movement during physical therapy."
+                    },
+                    {
+                      "id": 464,
+                      "category": "Robotics - Exoskeletons & Prosthetics",
+                      "question": "What is a brain-controlled prosthetic?",
+                      "answer": "A brain-controlled prosthetic uses neural signals to allow users to move artificial limbs naturally."
+                    },
+                    {
+                      "id": 465,
+                      "category": "Robotics - Medical Robotics",
+                      "question": "What are medical robots?",
+                      "answer": "Medical robots assist in surgeries, rehabilitation, diagnostics, and patient care."
+                    },
+                    {
+                      "id": 466,
+                      "category": "Robotics - Medical Robotics",
+                      "question": "What is the da Vinci Surgical System?",
+                      "answer": "The da Vinci Surgical System is a robotic-assisted surgery platform that enhances precision in minimally invasive procedures."
+                    },
+                    {
+                      "id": 467,
+                      "category": "Robotics - Medical Robotics",
+                      "question": "How do robots assist in elderly care?",
+                      "answer": "Robots assist elderly care by providing companionship, reminders, and assistance with mobility."
+                    },
+                    {
+                      "id": 468,
+                      "category": "Robotics - Medical Robotics",
+                      "question": "What are robotic rehabilitation devices?",
+                      "answer": "These devices help patients recover mobility and strength after injuries or surgeries."
+                    },
+                    {
+                      "id": 469,
+                      "category": "Robotics - Medical Robotics",
+                      "question": "How are nanorobots used in medicine?",
+                      "answer": "Nanorobots are microscopic robots designed for targeted drug delivery and disease treatment inside the human body."
+                    },
+                    {
+                      "id": 470,
+                      "category": "Robotics - Military & Defense",
+                      "question": "How are robots used in the military?",
+                      "answer": "Military robots assist in reconnaissance, bomb disposal, and combat operations to enhance safety and efficiency."
+                    },
+                    {
+                      "id": 471,
+                      "category": "Robotics - Military & Defense",
+                      "question": "What are autonomous drones in military applications?",
+                      "answer": "Autonomous drones perform surveillance, reconnaissance, and precision strikes with minimal human intervention."
+                    },
+                    {
+                      "id": 472,
+                      "category": "Robotics - Military & Defense",
+                      "question": "What is a bomb disposal robot?",
+                      "answer": "A bomb disposal robot is a remotely operated machine designed to handle and neutralize explosive devices safely."
+                    },
+                    {
+                      "id": 473,
+                      "category": "Robotics - Military & Defense",
+                      "question": "What are robotic sentries?",
+                      "answer": "Robotic sentries are automated security robots that patrol and monitor restricted areas."
+                    },
+                    {
+                      "id": 474,
+                      "category": "Robotics - Military & Defense",
+                      "question": "What are the ethical concerns of using robots in warfare?",
+                      "answer": "Concerns include accountability, civilian safety, potential escalation, and lack of human judgment in combat decisions."
+                    },
+                    {
+                      "id": 475,
+                      "category": "Robotics - Underwater & Marine Robotics",
+                      "question": "What are underwater robots?",
+                      "answer": "Underwater robots, like ROVs and AUVs, explore and conduct research in oceans, lakes, and deep-sea environments."
+                    },
+                    {
+                      "id": 476,
+                      "category": "Robotics - Underwater & Marine Robotics",
+                      "question": "How are underwater robots used?",
+                      "answer": "They assist in marine research, underwater mapping, oil exploration, and naval defense operations."
+                    },
+                    {
+                      "id": 477,
+                      "category": "Robotics - Underwater & Marine Robotics",
+                      "question": "What is an autonomous underwater vehicle (AUV)?",
+                      "answer": "An AUV is a self-guided robotic submarine used for exploration and data collection without human control."
+                    },
+                    {
+                      "id": 478,
+                      "category": "Robotics - Underwater & Marine Robotics",
+                      "question": "What is a remotely operated vehicle (ROV)?",
+                      "answer": "An ROV is a tethered underwater robot controlled by an operator to perform deep-sea exploration and maintenance."
+                    },
+                    {
+                      "id": 479,
+                      "category": "Robotics - Underwater & Marine Robotics",
+                      "question": "How do underwater robots communicate?",
+                      "answer": "They use sonar, acoustic signals, and optical communication to relay data in underwater environments."
+                    },
+                    {
+                      "id": 480,
+                      "category": "Robotics - Underwater & Marine Robotics",
+                      "question": "What are the challenges of underwater robotics?",
+                      "answer": "Challenges include water pressure, communication limitations, power constraints, and environmental adaptability."
+                    },
+                    
+                      {
+                        "id": 481,
+                        "category": "Robotics - Humanoid Robots",
+                        "question": "What are humanoid robots?",
+                        "answer": "Humanoid robots are robots designed to resemble and interact like humans, often with AI-driven capabilities."
+                      },
+                      {
+                        "id": 482,
+                        "category": "Robotics - Humanoid Robots",
+                        "question": "What are some examples of humanoid robots?",
+                        "answer": "Examples include ASIMO, Sophia, Atlas, and Pepper, which are designed for assistance, research, and entertainment."
+                      },
+                      {
+                        "id": 483,
+                        "category": "Robotics - Humanoid Robots",
+                        "question": "How do humanoid robots balance and walk?",
+                        "answer": "They use gyroscopes, accelerometers, AI algorithms, and advanced actuators to maintain balance and walk smoothly."
+                      },
+                      {
+                        "id": 484,
+                        "category": "Robotics - Humanoid Robots",
+                        "question": "What are humanoid robots used for?",
+                        "answer": "They are used in customer service, healthcare, education, and research to assist humans in various tasks."
+                      },
+                      {
+                        "id": 485,
+                        "category": "Robotics - Humanoid Robots",
+                        "question": "What challenges do humanoid robots face?",
+                        "answer": "Challenges include complex movement control, power consumption, and the need for realistic human interaction."
+                      },
+                      {
+                        "id": 486,
+                        "category": "Robotics - Soft Robotics",
+                        "question": "What is soft robotics?",
+                        "answer": "Soft robotics focuses on building robots using flexible and deformable materials to mimic biological organisms."
+                      },
+                      {
+                        "id": 487,
+                        "category": "Robotics - Soft Robotics",
+                        "question": "How do soft robots move?",
+                        "answer": "Soft robots use pneumatic actuators, artificial muscles, and shape-changing materials to achieve motion."
+                      },
+                      {
+                        "id": 488,
+                        "category": "Robotics - Soft Robotics",
+                        "question": "What are soft robots used for?",
+                        "answer": "They are used in medical applications, delicate object handling, and exploration in complex environments."
+                      },
+                      {
+                        "id": 489,
+                        "category": "Robotics - Soft Robotics",
+                        "question": "What advantages do soft robots have over traditional robots?",
+                        "answer": "Soft robots are safer for human interaction, adaptable to various environments, and more flexible in movement."
+                      },
+                      {
+                        "id": 490,
+                        "category": "Robotics - Soft Robotics",
+                        "question": "What materials are used in soft robotics?",
+                        "answer": "Materials like silicone, elastomers, hydrogels, and bio-inspired materials are commonly used in soft robotics."
+                      }
+                    ]
+                    
+                  
+                  
                 
-              ]
+              
               
             
             
