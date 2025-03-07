@@ -3504,7 +3504,190 @@
                                 "category": "Generative AI",
                                 "question": "What is the future of Generative AI?",
                                 "answer": "The future includes more controllable AI-generated content, improved ethical safeguards, and broader applications in creative industries."
-                              }
+                              },
+                              
+                                {
+                                  "id": 582,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What is Explainable AI (XAI)?",
+                                  "answer": "Explainable AI (XAI) refers to methods and techniques that help humans understand and trust the decisions made by AI models."
+                                },
+                                {
+                                  "id": 583,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "Why is explainability important in AI?",
+                                  "answer": "Explainability ensures transparency, helps build trust, aids debugging, and ensures AI models align with ethical and legal standards."
+                                },
+                                {
+                                  "id": 584,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What is feature importance in machine learning?",
+                                  "answer": "Feature importance measures how much each input feature contributes to the model’s predictions, helping to interpret model decisions."
+                                },
+                                {
+                                  "id": 585,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What are model-specific and model-agnostic explainability methods?",
+                                  "answer": "Model-specific methods are designed for particular models (e.g., Grad-CAM for neural networks), while model-agnostic methods (e.g., SHAP, LIME) work for any model."
+                                },
+                                {
+                                  "id": 586,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What is SHAP (SHapley Additive exPlanations)?",
+                                  "answer": "SHAP is an XAI method based on game theory that assigns importance values to each feature based on its contribution to a model’s output."
+                                },
+                                {
+                                  "id": 587,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "How does SHAP help in model interpretability?",
+                                  "answer": "SHAP provides a consistent way to measure feature importance, showing the positive or negative impact of each feature on predictions."
+                                },
+                                {
+                                  "id": 588,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What is LIME (Local Interpretable Model-agnostic Explanations)?",
+                                  "answer": "LIME approximates a complex model by fitting a simpler, interpretable model to local instances, helping explain individual predictions."
+                                },
+                                {
+                                  "id": 589,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "How does LIME work in explaining AI predictions?",
+                                  "answer": "LIME perturbs input data, observes changes in predictions, and fits an interpretable model to approximate local behavior."
+                                },
+                                {
+                                  "id": 590,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What is Grad-CAM in deep learning?",
+                                  "answer": "Grad-CAM (Gradient-weighted Class Activation Mapping) is a technique that highlights important image regions influencing a CNN’s decision."
+                                },
+                                {
+                                  "id": 591,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "How does Grad-CAM improve explainability in CNNs?",
+                                  "answer": "Grad-CAM generates heatmaps that show which parts of an image contributed most to the model’s classification decision."
+                                },
+                                {
+                                  "id": 592,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What is counterfactual explanation in AI?",
+                                  "answer": "Counterfactual explanations describe what minimal changes to input data would result in a different model prediction, helping understand decision boundaries."
+                                },
+                                {
+                                  "id": 593,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What is fairness in AI, and why is it important?",
+                                  "answer": "Fairness in AI ensures that models do not discriminate against certain groups based on race, gender, or other sensitive attributes."
+                                },
+                                {
+                                  "id": 594,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What is bias in AI models?",
+                                  "answer": "Bias in AI occurs when models make unfair predictions due to imbalanced or discriminatory training data."
+                                },
+                                {
+                                  "id": 595,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "How can AI models be audited for fairness?",
+                                  "answer": "AI fairness audits use statistical tests, disparate impact analysis, and bias mitigation techniques to ensure unbiased decision-making."
+                                },
+                                {
+                                  "id": 596,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What are common techniques for reducing bias in AI?",
+                                  "answer": "Techniques include re-sampling biased datasets, adversarial debiasing, and post-processing fairness constraints."
+                                },
+                                {
+                                  "id": 597,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "How do regulatory frameworks impact Explainable AI?",
+                                  "answer": "Laws like GDPR and AI Act require AI models to provide explanations for automated decisions affecting individuals."
+                                },
+                                {
+                                  "id": 598,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What is the trade-off between model accuracy and interpretability?",
+                                  "answer": "Complex models like deep learning often have higher accuracy but lower interpretability, while simpler models are easier to explain but may perform worse."
+                                },
+                                {
+                                  "id": 599,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "How does Explainable AI benefit healthcare applications?",
+                                  "answer": "XAI helps doctors understand AI-driven diagnoses, making medical AI more transparent and trustworthy."
+                                },
+                                {
+                                  "id": 600,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What role does Explainable AI play in financial decision-making?",
+                                  "answer": "XAI ensures transparency in AI-based loan approvals, fraud detection, and credit scoring, making financial decisions fairer."
+                                },
+                                {
+                                  "id": 601,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What is concept-based interpretability in AI?",
+                                  "answer": "Concept-based interpretability links AI decisions to human-understandable concepts, improving trust and usability."
+                                },
+                                {
+                                  "id": 602,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What is an example of Explainable AI in self-driving cars?",
+                                  "answer": "Self-driving cars use XAI to justify why they stop at intersections, detect pedestrians, or change lanes."
+                                },
+                                {
+                                  "id": 603,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What are saliency maps in deep learning?",
+                                  "answer": "Saliency maps highlight which input pixels contribute most to a model’s prediction, helping visualize CNN decisions."
+                                },
+                                {
+                                  "id": 604,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "How does Explainable AI improve AI adoption in enterprises?",
+                                  "answer": "XAI builds trust in AI systems by providing transparency, reducing legal risks, and improving decision accountability."
+                                },
+                                {
+                                  "id": 605,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What is a surrogate model in Explainable AI?",
+                                  "answer": "A surrogate model is a simpler, interpretable model trained to approximate a complex AI system’s decision-making."
+                                },
+                                {
+                                  "id": 606,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "How does Explainable AI impact AI-driven hiring systems?",
+                                  "answer": "XAI ensures fairness by explaining why candidates are selected or rejected, preventing biases in recruitment."
+                                },
+                                {
+                                  "id": 607,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What is the difference between global and local explanations in XAI?",
+                                  "answer": "Global explanations describe overall model behavior, while local explanations focus on specific predictions."
+                                },
+                                {
+                                  "id": 608,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What are rule-based explainability techniques in AI?",
+                                  "answer": "Rule-based methods use decision trees or logical rules to explain AI decisions in a human-readable format."
+                                },
+                                {
+                                  "id": 609,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "What are the challenges in implementing Explainable AI?",
+                                  "answer": "Challenges include balancing accuracy with interpretability, handling complex models, and addressing privacy concerns."
+                                },
+                                {
+                                  "id": 610,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "How can visualization techniques improve AI explainability?",
+                                  "answer": "Techniques like heatmaps, saliency maps, and decision trees help users understand AI decision-making."
+                                },
+                                {
+                                  "id": 611,
+                                  "category": "Explainable AI (XAI)",
+                                  "question": "How does Explainable AI relate to human-in-the-loop systems?",
+                                  "answer": "XAI enables human oversight and intervention in AI decision-making, ensuring reliability and fairness."
+                                }
+                              
+                              
                             
                             
                           
