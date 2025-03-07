@@ -1806,8 +1806,314 @@
         "category": "machine learning",
         "question": "What is a diffusion model in machine learning?",
         "answer": "A diffusion model is a generative approach that learns to create data by reversing a noise process."
-      }
+      },
+      
+        {
+          "id": 301,
+          "category": "Robotics - Basics",
+          "question": "What is a robot?",
+          "answer": "A robot is a machine that can perform tasks autonomously or semi-autonomously, often programmed or controlled by a computer."
+        },
+        {
+          "id": 302,
+          "category": "Robotics - Basics",
+          "question": "What are the main types of robots?",
+          "answer": "The main types of robots include industrial robots, service robots, humanoid robots, autonomous robots, and medical robots."
+        },
+        {
+          "id": 303,
+          "category": "Robotics - Basics",
+          "question": "What is the difference between a robot and an AI system?",
+          "answer": "A robot is a physical machine that can interact with the world, while AI is the intelligence that can be embedded in robots or used in software applications."
+        },
+        {
+          "id": 304,
+          "category": "Robotics - Components",
+          "question": "What are the key components of a robot?",
+          "answer": "The key components of a robot include sensors, actuators, controllers, power supply, and software."
+        },
+        {
+          "id": 305,
+          "category": "Robotics - Components",
+          "question": "What is an actuator in robotics?",
+          "answer": "An actuator is a component that enables robots to move by converting electrical energy into mechanical motion."
+        },
+        {
+          "id": 306,
+          "category": "Robotics - Components",
+          "question": "What types of sensors are used in robots?",
+          "answer": "Common sensors in robots include cameras, LiDAR, infrared sensors, ultrasonic sensors, and pressure sensors."
+        },
+        {
+          "id": 307,
+          "category": "Robotics - Applications",
+          "question": "What are industrial robots used for?",
+          "answer": "Industrial robots are used for manufacturing, assembly, welding, painting, and quality inspection in factories."
+        },
+        {
+          "id": 308,
+          "category": "Robotics - Applications",
+          "question": "How are robots used in healthcare?",
+          "answer": "Robots in healthcare assist in surgery, rehabilitation, elderly care, and disinfection of hospital environments."
+        },
+        {
+          "id": 309,
+          "category": "Robotics - Applications",
+          "question": "What are humanoid robots?",
+          "answer": "Humanoid robots are robots designed to resemble and interact like humans, such as Sophia and ASIMO."
+        },
+        {
+          "id": 310,
+          "category": "Robotics - Applications",
+          "question": "What is a cobot?",
+          "answer": "A cobot, or collaborative robot, is designed to work alongside humans safely in a shared environment."
+        },
+        {
+          "id": 311,
+          "category": "Robotics - Applications",
+          "question": "What is an autonomous robot?",
+          "answer": "An autonomous robot can operate without human intervention using AI and sensors to navigate its environment."
+        },
+        {
+          "id": 312,
+          "category": "Robotics - Famous Robots",
+          "question": "What is ASIMO?",
+          "answer": "ASIMO is a humanoid robot developed by Honda, known for its advanced movement and speech recognition capabilities."
+        },
+        {
+          "id": 313,
+          "category": "Robotics - Famous Robots",
+          "question": "Who created the robot Sophia?",
+          "answer": "Sophia was created by Hanson Robotics and is an advanced AI-powered humanoid robot."
+        },
+        {
+          "id": 314,
+          "category": "Robotics - Famous Robots",
+          "question": "What is Spot by Boston Dynamics?",
+          "answer": "Spot is a quadruped robot designed by Boston Dynamics for tasks like surveillance, inspection, and search and rescue."
+        },
+        {
+          "id": 315,
+          "category": "Robotics - Famous Robots",
+          "question": "What is the purpose of the Mars rover robots?",
+          "answer": "Mars rovers, such as Perseverance and Curiosity, are designed to explore the surface of Mars and conduct scientific research."
+        },
+        {
+          "id": 316,
+          "category": "Robotics - AI in Robots",
+          "question": "How does AI enhance robotics?",
+          "answer": "AI enables robots to learn, adapt, recognize patterns, and make decisions autonomously."
+        },
+        {
+          "id": 317,
+          "category": "Robotics - AI in Robots",
+          "question": "What is reinforcement learning in robotics?",
+          "answer": "Reinforcement learning allows robots to learn tasks through trial and error, improving performance over time."
+        },
+        {
+          "id": 318,
+          "category": "Robotics - AI in Robots",
+          "question": "How do robots recognize objects?",
+          "answer": "Robots use computer vision and deep learning to recognize and classify objects in their environment."
+        },
+        {
+          "id": 319,
+          "category": "Robotics - AI in Robots",
+          "question": "What is SLAM in robotics?",
+          "answer": "SLAM (Simultaneous Localization and Mapping) is a technique that allows robots to map unknown environments while tracking their own position."
+        },
+        {
+          "id": 320,
+          "category": "Robotics - AI in Robots",
+          "question": "What is the role of NLP in robotics?",
+          "answer": "Natural Language Processing (NLP) enables robots to understand and respond to human speech or text."
+        },
+        {
+          "id": 321,
+          "category": "Robotics - Ethics & Future",
+          "question": "What are the ethical concerns in robotics?",
+          "answer": "Ethical concerns include job displacement, bias in AI, robot safety, and the use of robots in warfare."
+        },
+        {
+          "id": 322,
+          "category": "Robotics - Ethics & Future",
+          "question": "Can robots replace humans in all jobs?",
+          "answer": "While robots can automate many tasks, they still struggle with creativity, emotional intelligence, and complex problem-solving."
+        },
+        {
+          "id": 323,
+          "category": "Robotics - Ethics & Future",
+          "question": "What are soft robots?",
+          "answer": "Soft robots are robots made of flexible materials, allowing them to move more naturally and safely interact with humans."
+        },
+        {
+          "id": 324,
+          "category": "Robotics - Ethics & Future",
+          "question": "What are swarm robots?",
+          "answer": "Swarm robots work in groups, using simple rules to coordinate and accomplish tasks efficiently."
+        },
+        {
+          "id": 325,
+          "category": "Robotics - Ethics & Future",
+          "question": "What is the future of robotics?",
+          "answer": "The future of robotics includes AI-powered automation, human-robot collaboration, and advanced autonomous systems."
+        },
+        
+          {
+            "id": 326,
+            "category": "Robotics - Components",
+            "question": "What is an end effector in robotics?",
+            "answer": "An end effector is the part of a robot that interacts with objects, such as grippers, suction cups, or robotic hands."
+          },
+          {
+            "id": 327,
+            "category": "Robotics - Components",
+            "question": "What is the function of servomotors in robots?",
+            "answer": "Servomotors control precise movements of robotic joints, allowing smooth and accurate motion."
+          },
+          {
+            "id": 328,
+            "category": "Robotics - Components",
+            "question": "What is inverse kinematics in robotics?",
+            "answer": "Inverse kinematics is the mathematical process of calculating joint movements to reach a specific point in space."
+          },
+          {
+            "id": 329,
+            "category": "Robotics - Sensors",
+            "question": "How do LiDAR sensors help robots?",
+            "answer": "LiDAR sensors use laser beams to map the environment and help robots navigate and avoid obstacles."
+          },
+          {
+            "id": 330,
+            "category": "Robotics - Sensors",
+            "question": "What are tactile sensors in robotics?",
+            "answer": "Tactile sensors allow robots to detect pressure, texture, and contact, enabling them to interact with objects more naturally."
+          },
+          {
+            "id": 331,
+            "category": "Robotics - Applications",
+            "question": "What are agricultural robots used for?",
+            "answer": "Agricultural robots assist in tasks like planting, harvesting, irrigation, and weed control."
+          },
+          {
+            "id": 332,
+            "category": "Robotics - Applications",
+            "question": "How are robots used in space exploration?",
+            "answer": "Robots like rovers and robotic arms explore planets, repair satellites, and assist in space missions."
+          },
+          {
+            "id": 333,
+            "category": "Robotics - Applications",
+            "question": "What is a teleoperated robot?",
+            "answer": "A teleoperated robot is controlled remotely by a human, often used in hazardous environments like deep-sea exploration."
+          },
+          {
+            "id": 334,
+            "category": "Robotics - Applications",
+            "question": "What are underwater robots used for?",
+            "answer": "Underwater robots explore oceans, conduct marine research, and assist in underwater construction."
+          },
+          {
+            "id": 335,
+            "category": "Robotics - AI in Robots",
+            "question": "How do robots use reinforcement learning?",
+            "answer": "Reinforcement learning helps robots improve their actions by receiving rewards for correct behaviors and penalties for incorrect ones."
+          },
+          {
+            "id": 336,
+            "category": "Robotics - AI in Robots",
+            "question": "What is the role of computer vision in robotics?",
+            "answer": "Computer vision allows robots to recognize objects, track motion, and analyze their environment."
+          },
+          {
+            "id": 337,
+            "category": "Robotics - AI in Robots",
+            "question": "What is a self-learning robot?",
+            "answer": "A self-learning robot can adapt and improve its performance based on experience and feedback without explicit reprogramming."
+          },
+          {
+            "id": 338,
+            "category": "Robotics - AI in Robots",
+            "question": "How do robots understand speech?",
+            "answer": "Robots use Natural Language Processing (NLP) to recognize, interpret, and respond to human speech."
+          },
+          {
+            "id": 339,
+            "category": "Robotics - Ethics & Future",
+            "question": "What are the dangers of military robots?",
+            "answer": "Military robots raise concerns about autonomous weapons, lack of accountability, and potential misuse in warfare."
+          },
+          {
+            "id": 340,
+            "category": "Robotics - Ethics & Future",
+            "question": "What are bio-inspired robots?",
+            "answer": "Bio-inspired robots mimic the movement and behavior of animals, such as robotic insects and snake robots."
+          },
+          {
+            "id": 341,
+            "category": "Robotics - Ethics & Future",
+            "question": "How do robots impact the job market?",
+            "answer": "Robots automate repetitive tasks, potentially replacing jobs, but also create new opportunities in robotics and AI industries."
+          },
+          {
+            "id": 342,
+            "category": "Robotics - Ethics & Future",
+            "question": "What is roboethics?",
+            "answer": "Roboethics is the study of ethical issues related to the design, use, and impact of robots on society."
+          },
+          {
+            "id": 343,
+            "category": "Robotics - Ethics & Future",
+            "question": "What is the singularity in AI and robotics?",
+            "answer": "The singularity is a hypothetical point where AI surpasses human intelligence, potentially leading to unpredictable advancements."
+          },
+          {
+            "id": 344,
+            "category": "Robotics - Ethics & Future",
+            "question": "How can robots be made more human-like?",
+            "answer": "By improving AI, speech synthesis, facial expressions, and haptic feedback, robots can better mimic human interactions."
+          },
+          {
+            "id": 345,
+            "category": "Robotics - Ethics & Future",
+            "question": "What is swarm robotics used for?",
+            "answer": "Swarm robotics is used for search and rescue, environmental monitoring, and warehouse automation."
+          },
+          {
+            "id": 346,
+            "category": "Robotics - Ethics & Future",
+            "question": "What role will robots play in smart cities?",
+            "answer": "Robots will assist in waste management, traffic control, security, and public services in smart cities."
+          },
+          {
+            "id": 347,
+            "category": "Robotics - Ethics & Future",
+            "question": "Can robots have emotions?",
+            "answer": "Robots do not have real emotions but can simulate emotional responses using AI and programmed behavior."
+          },
+          {
+            "id": 348,
+            "category": "Robotics - Ethics & Future",
+            "question": "What is the role of robots in elder care?",
+            "answer": "Robots assist elderly individuals with daily tasks, companionship, and medical monitoring."
+          },
+          {
+            "id": 349,
+            "category": "Robotics - Ethics & Future",
+            "question": "Will robots ever develop consciousness?",
+            "answer": "There is no scientific evidence that robots can develop true consciousness, as they lack self-awareness and subjective experiences."
+          },
+          {
+            "id": 350,
+            "category": "Robotics - Ethics & Future",
+            "question": "How can robots be used for disaster response?",
+            "answer": "Robots help in search and rescue, debris removal, and delivering aid in disaster-stricken areas."
+          }
         ]
+        
+      
+      
+        
                         
       }
       
