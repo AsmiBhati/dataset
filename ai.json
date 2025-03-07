@@ -7018,9 +7018,323 @@
       "category": "computer vision",
       "question": "What is motion tracking?",
       "answer": "Motion tracking follows the movement of objects in a video, commonly used in augmented reality and animation."
-    }
+    },
+    [
+      {
+        "id": 1161,
+        "category": "machine learning",
+        "question": "What is a Neural Network?",
+        "answer": "A Neural Network is a computational model inspired by the human brain, consisting of interconnected nodes (neurons) that process and learn from data."
+      },
+      {
+        "id": 1162,
+        "category": "machine learning",
+        "question": "What is Backpropagation?",
+        "answer": "Backpropagation is a training algorithm for neural networks that adjusts weights by propagating errors backward from the output layer to the input layer."
+      },
+      {
+        "id": 1163,
+        "category": "machine learning",
+        "question": "What is an Activation Function?",
+        "answer": "An Activation Function determines whether a neuron should be activated or not, introducing non-linearity to the model (e.g., ReLU, Sigmoid, Tanh)."
+      },
+      {
+        "id": 1164,
+        "category": "machine learning",
+        "question": "What is a Convolutional Neural Network (CNN)?",
+        "answer": "A CNN is a deep learning model designed for processing structured grid data, commonly used in image recognition and computer vision tasks."
+      },
+      {
+        "id": 1165,
+        "category": "machine learning",
+        "question": "What is a Recurrent Neural Network (RNN)?",
+        "answer": "An RNN is a type of neural network designed for sequential data processing, such as time series and natural language processing."
+      },
+      {
+        "id": 1166,
+        "category": "machine learning",
+        "question": "What is a Long Short-Term Memory (LSTM) network?",
+        "answer": "LSTM is a type of RNN that overcomes the vanishing gradient problem by using memory cells to retain information for long-term dependencies."
+      },
+      {
+        "id": 1167,
+        "category": "machine learning",
+        "question": "What is a Generative Adversarial Network (GAN)?",
+        "answer": "A GAN consists of two neural networks (a generator and a discriminator) that compete with each other to generate realistic synthetic data."
+      },
+      {
+        "id": 1168,
+        "category": "machine learning",
+        "question": "What is Transfer Learning?",
+        "answer": "Transfer Learning is a technique where a pre-trained model is fine-tuned on a new task to leverage prior knowledge and reduce training time."
+      },
+      {
+        "id": 1169,
+        "category": "machine learning",
+        "question": "What is an Autoencoder?",
+        "answer": "An Autoencoder is a neural network used for unsupervised learning that compresses input data and reconstructs it to learn efficient data representations."
+      },
+      {
+        "id": 1170,
+        "category": "machine learning",
+        "question": "What is Hyperparameter Tuning?",
+        "answer": "Hyperparameter tuning is the process of optimizing model parameters that are not learned during training, such as learning rate and batch size."
+      },
+      {
+        "id": 1171,
+        "category": "machine learning",
+        "question": "What is Bayesian Optimization?",
+        "answer": "Bayesian Optimization is a probabilistic model-based method for optimizing hyperparameters to improve model performance efficiently."
+      },
+      {
+        "id": 1172,
+        "category": "machine learning",
+        "question": "What is k-Means Clustering?",
+        "answer": "k-Means Clustering is an unsupervised learning algorithm that partitions data into k clusters based on feature similarities."
+      },
+      {
+        "id": 1173,
+        "category": "machine learning",
+        "question": "What is DBSCAN Clustering?",
+        "answer": "DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a clustering algorithm that groups points based on density and can identify outliers."
+      },
+      {
+        "id": 1174,
+        "category": "machine learning",
+        "question": "What is Reinforcement Learning?",
+        "answer": "Reinforcement Learning is a type of ML where an agent interacts with an environment, learning by receiving rewards or penalties for actions."
+      },
+      {
+        "id": 1175,
+        "category": "machine learning",
+        "question": "What is Q-Learning?",
+        "answer": "Q-Learning is a Reinforcement Learning algorithm that learns the value of actions to maximize rewards over time."
+      },
+      {
+        "id": 1176,
+        "category": "machine learning",
+        "question": "What is the Markov Decision Process (MDP)?",
+        "answer": "MDP is a mathematical framework used in Reinforcement Learning to model decision-making where outcomes are partially random and under the control of a decision-maker."
+      },
+      {
+        "id": 1177,
+        "category": "machine learning",
+        "question": "What is the Bellman Equation?",
+        "answer": "The Bellman Equation is used in Reinforcement Learning to break down the optimal policy into recursive subproblems."
+      },
+      {
+        "id": 1178,
+        "category": "machine learning",
+        "question": "What is Federated Learning?",
+        "answer": "Federated Learning is a decentralized ML approach where models are trained across multiple devices without sharing raw data."
+      },
+      {
+        "id": 1179,
+        "category": "machine learning",
+        "question": "What is Explainable AI (XAI)?",
+        "answer": "Explainable AI refers to methods that make ML models interpretable and transparent, helping users understand predictions."
+      },
+      {
+        "id": 1180,
+        "category": "machine learning",
+        "question": "What is an Adversarial Attack in ML?",
+        "answer": "An adversarial attack is a technique where small, imperceptible modifications to input data cause a model to make incorrect predictions."
+      },
+      {
+        "id": 1181,
+        "category": "machine learning",
+        "question": "What is Model Drift?",
+        "answer": "Model Drift occurs when an ML model's performance degrades over time due to changes in data distribution."
+      },
+      {
+        "id": 1182,
+        "category": "machine learning",
+        "question": "What is Data Augmentation?",
+        "answer": "Data Augmentation is a technique used to artificially increase the size of a dataset by applying transformations such as rotation, flipping, and scaling."
+      },
+      {
+        "id": 1183,
+        "category": "machine learning",
+        "question": "What is Few-Shot Learning?",
+        "answer": "Few-Shot Learning is a technique where an ML model learns from a very small number of examples to make predictions."
+      },
+      {
+        "id": 1184,
+        "category": "machine learning",
+        "question": "What is Meta-Learning?",
+        "answer": "Meta-Learning is a technique where models learn to learn by adapting to new tasks with minimal training data."
+      },
+      {
+        "id": 1185,
+        "category": "machine learning",
+        "question": "What is Continual Learning?",
+        "answer": "Continual Learning is an ML approach where models continuously learn and adapt from new data without forgetting previous knowledge."
+      },
+      
+        {
+          "id": 1186,
+          "category": "machine learning",
+          "question": "What is One-Shot Learning?",
+          "answer": "One-Shot Learning is a technique where a model learns to recognize patterns or classify data from only one or very few training examples."
+        },
+        {
+          "id": 1187,
+          "category": "machine learning",
+          "question": "What is Zero-Shot Learning?",
+          "answer": "Zero-Shot Learning enables a model to make predictions on unseen data without prior examples by leveraging knowledge transfer and embeddings."
+        },
+        {
+          "id": 1188,
+          "category": "machine learning",
+          "question": "What is Contrastive Learning?",
+          "answer": "Contrastive Learning is a self-supervised learning approach that trains models by learning to distinguish between similar and dissimilar data points."
+        },
+        {
+          "id": 1189,
+          "category": "machine learning",
+          "question": "What is Self-Supervised Learning?",
+          "answer": "Self-Supervised Learning is a type of ML where models learn representations from unlabeled data by creating pseudo-labels for training."
+        },
+        {
+          "id": 1190,
+          "category": "machine learning",
+          "question": "What is a Siamese Network?",
+          "answer": "A Siamese Network is a type of neural network that compares input pairs to determine their similarity, commonly used in face recognition."
+        },
+        {
+          "id": 1191,
+          "category": "machine learning",
+          "question": "What is a Variational Autoencoder (VAE)?",
+          "answer": "A Variational Autoencoder is a type of generative model that learns latent representations for structured data generation."
+        },
+        {
+          "id": 1192,
+          "category": "machine learning",
+          "question": "What is Representation Learning?",
+          "answer": "Representation Learning is an ML technique where models automatically learn meaningful features from raw data instead of relying on manual feature engineering."
+        },
+        {
+          "id": 1193,
+          "category": "machine learning",
+          "question": "What is Neural Style Transfer?",
+          "answer": "Neural Style Transfer is a technique that applies the artistic style of one image to another using deep learning models."
+        },
+        {
+          "id": 1194,
+          "category": "machine learning",
+          "question": "What is Model Pruning?",
+          "answer": "Model Pruning is an optimization technique that reduces the size of a neural network by removing unnecessary parameters while maintaining performance."
+        },
+        {
+          "id": 1195,
+          "category": "machine learning",
+          "question": "What is Quantization in Machine Learning?",
+          "answer": "Quantization is a process that reduces the precision of model parameters to improve efficiency while maintaining accuracy."
+        },
+        {
+          "id": 1196,
+          "category": "machine learning",
+          "question": "What is Knowledge Distillation?",
+          "answer": "Knowledge Distillation is a technique where a smaller model (student) learns from a larger, pre-trained model (teacher) to achieve similar accuracy."
+        },
+        {
+          "id": 1197,
+          "category": "machine learning",
+          "question": "What is Attention Mechanism in ML?",
+          "answer": "The Attention Mechanism is a technique in neural networks that allows models to focus on important parts of input data for better predictions."
+        },
+        {
+          "id": 1198,
+          "category": "machine learning",
+          "question": "What is an Encoder-Decoder Architecture?",
+          "answer": "An Encoder-Decoder is a neural network design used in NLP and vision tasks where an encoder processes input data, and a decoder generates outputs."
+        },
+        {
+          "id": 1199,
+          "category": "machine learning",
+          "question": "What is Neural Machine Translation (NMT)?",
+          "answer": "Neural Machine Translation is an AI-based translation method that uses deep learning models to translate text between languages."
+        },
+        {
+          "id": 1200,
+          "category": "machine learning",
+          "question": "What is Multimodal Learning?",
+          "answer": "Multimodal Learning is an ML approach that processes and learns from multiple data types (e.g., text, images, audio) simultaneously."
+        },
+        {
+          "id": 1201,
+          "category": "machine learning",
+          "question": "What is a Graph Neural Network (GNN)?",
+          "answer": "A Graph Neural Network is a neural network that processes data represented as graphs, commonly used for social networks and recommendation systems."
+        },
+        {
+          "id": 1202,
+          "category": "machine learning",
+          "question": "What is a Capsule Network?",
+          "answer": "A Capsule Network is an advanced neural network designed to improve spatial hierarchies in image data, reducing errors in object classification."
+        },
+        {
+          "id": 1203,
+          "category": "machine learning",
+          "question": "What is an Evolutionary Algorithm?",
+          "answer": "An Evolutionary Algorithm is a nature-inspired optimization technique that evolves solutions iteratively based on mutation and selection principles."
+        },
+        {
+          "id": 1204,
+          "category": "machine learning",
+          "question": "What is Neural Architecture Search (NAS)?",
+          "answer": "Neural Architecture Search is an automated process that designs optimal neural network architectures by searching different configurations."
+        },
+        {
+          "id": 1205,
+          "category": "machine learning",
+          "question": "What is Online Learning in ML?",
+          "answer": "Online Learning is an ML approach where models learn from data incrementally instead of training on a full dataset at once."
+        },
+        {
+          "id": 1206,
+          "category": "machine learning",
+          "question": "What is Few-Shot Object Detection?",
+          "answer": "Few-Shot Object Detection enables models to detect objects with only a few labeled examples."
+        },
+        {
+          "id": 1207,
+          "category": "machine learning",
+          "question": "What is Neural Tangent Kernel (NTK)?",
+          "answer": "Neural Tangent Kernel is a mathematical approach to analyzing the training dynamics of deep learning models."
+        },
+        {
+          "id": 1208,
+          "category": "machine learning",
+          "question": "What is Meta-Reinforcement Learning?",
+          "answer": "Meta-Reinforcement Learning is a type of RL where an agent learns to adapt quickly to new tasks by leveraging past experiences."
+        },
+        {
+          "id": 1209,
+          "category": "machine learning",
+          "question": "What is Differentiable Programming?",
+          "answer": "Differentiable Programming is an ML paradigm where models are built using differentiable functions to enable end-to-end training."
+        },
+        {
+          "id": 1210,
+          "category": "machine learning",
+          "question": "What is Dynamic Computation in Neural Networks?",
+          "answer": "Dynamic Computation refers to architectures that adjust their computational complexity based on input, optimizing efficiency."
+        },
+        {
+          "id": 1211,
+          "category": "machine learning",
+          "question": "What is Monte Carlo Tree Search (MCTS)?",
+          "answer": "Monte Carlo Tree Search is an AI search algorithm used in decision-making problems, particularly in board games like Go."
+        }
+      ]
+      
     
-  ]
+}
+    
+
+
+ 
   
   
 
